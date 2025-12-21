@@ -2,10 +2,10 @@ RISK-ADJUSTED RETURN METRICS for atz_cn
 ----------------------------
 
 Expected Return (DCF IRR): 0.1400
-Risk-Free Rate (CAD):      0.0283
+Risk-Free Rate (CAD):      0.0238
 
 Annual Volatility:         0.5058
-Downside Deviation:        0.3143
+Downside Deviation:        0.3140
 
-Sharpe Ratio:              0.2208
-Sortino Ratio:             0.3554
+Sharpe Ratio:              0.2297
+Sortino Ratio:             0.3700
