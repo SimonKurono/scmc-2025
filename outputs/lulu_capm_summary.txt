@@ -4,14 +4,14 @@ CAPM SUMMARY
 Stock: lulu
 Obs (weekly): 311
 
-Risk-free (annual): 0.035070
-Market risk premium (annual): 0.050000
+Risk-free (annual): 0.041630
+Market risk premium (annual): 0.063290
 
 Beta: 1.186594
-Alpha (weekly): -0.002180
-Alpha (annual): -0.107284
+Alpha (weekly): -0.002157
+Alpha (annual): -0.106228
 R^2: 0.310462
 
-CAPM required return (annual): 0.094400
-DCF IRR (annual): 0.140000
-IRR - CAPM (annual): 0.045600
+CAPM required return (annual): 0.116730
+DCF IRR (annual): 0.129700
+IRR - CAPM (annual): 0.012970

@@ -1,11 +1,11 @@
 RISK-ADJUSTED RETURN METRICS for nike
 ----------------------------
 
-Expected Return (DCF IRR): 0.1400
+Expected Return (DCF IRR): 0.1424
 Risk-Free Rate (USD):      0.0351
 
 Annual Volatility:         0.3595
 Downside Deviation:        0.2529
 
-Sharpe Ratio:              0.2919
-Sortino Ratio:             0.4149
+Sharpe Ratio:              0.2986
+Sortino Ratio:             0.4243

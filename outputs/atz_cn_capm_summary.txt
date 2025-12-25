@@ -4,14 +4,14 @@ CAPM SUMMARY
 Stock: atz_cn
 Obs (weekly): 311
 
-Risk-free (annual): 0.023800
-Market risk premium (annual): 0.050000
+Risk-free (annual): 0.034180
+Market risk premium (annual): 0.090270
 
 Beta: 1.611068
-Alpha (weekly): 0.003948
-Alpha (annual): 0.227387
+Alpha (weekly): 0.004067
+Alpha (annual): 0.234951
 R^2: 0.272773
 
-CAPM required return (annual): 0.104353
-DCF IRR (annual): 0.140000
-IRR - CAPM (annual): 0.035647
+CAPM required return (annual): 0.179611
+DCF IRR (annual): 0.149400
+IRR - CAPM (annual): -0.030211

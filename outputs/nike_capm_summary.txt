@@ -4,14 +4,14 @@ CAPM SUMMARY
 Stock: nike
 Obs (weekly): 311
 
-Risk-free (annual): 0.035070
-Market risk premium (annual): 0.050000
+Risk-free (annual): 0.041630
+Market risk premium (annual): 0.063290
 
 Beta: 1.103317
-Alpha (weekly): -0.003601
-Alpha (annual): -0.171032
+Alpha (weekly): -0.003588
+Alpha (annual): -0.170489
 R^2: 0.363076
 
-CAPM required return (annual): 0.090236
-DCF IRR (annual): 0.140000
-IRR - CAPM (annual): 0.049764
+CAPM required return (annual): 0.111459
+DCF IRR (annual): 0.142400
+IRR - CAPM (annual): 0.030941
