@@ -1,0 +1,1269 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ M8Whb24pqeu+KNurYK3ndI/0FspZZyLjOOguUopD4ioQosQpbeWuJQoIXV8FkeIW
+ 5LjcFF0+f6RuQXsoHQUIfA==
+
+<SEC-DOCUMENT>0000320187-97-000001.txt : 19970115
+<SEC-HEADER>0000320187-97-000001.hdr.sgml : 19970115
+ACCESSION NUMBER:		0000320187-97-000001
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19961130
+FILED AS OF DATE:		19970114
+SROS:			NYSE
+SROS:			PSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NIKE INC
+		CENTRAL INDEX KEY:			0000320187
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		IRS NUMBER:				930584541
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10635
+		FILM NUMBER:		97505819
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+		BUSINESS PHONE:		5036416453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<TEXT>
+ 
+ 
+ 
+                            SECURITIES AND EXCHANGE COMMISSION 
+ 
+ 
+                                Washington, D.C.  20549 
+ 
+                                       FORM 10-Q 
+ 
+                    FOR QUARTERLY REPORTS UNDER SECTION 13 OR 15 (d) OF 
+                        THE SECURITIES AND EXCHANGE ACT OF 1934 
+ 
+For the Quarter Ended November 30, 1996 Commission file number - 1-10635 
+ 
+                                       NIKE, Inc.         
+ 
+                (Exact name of registrant as specified in its charter) 
+ 
+                   OREGON                                  93-0584541 
+ 
+          (State or other jurisdiction of             (I.R.S. Employer 
+          incorporation or organization)              Identification No.) 
+ 
+          One Bowerman Drive, Beaverton, Oregon    97005-6453 
+ 
+          (Address of principal executive offices)        (Zip Code) 
+ 
+Registrant's telephone number, including area code (503) 671-6453 
+ 
+Indicate by check mark whether the registrant (1) has filed all reports 
+ 
+required to be filed by Section 13 or 15 (d) of the Securities Exchange 
+ 
+Act of 1934 during the preceding 12 months (or for such shorter period 
+ 
+that the registrant was required to file such reports), and (2) has been 
+ 
+subject to such filing requirements for the past 90 days 
+ 
+Yes  X   No     . 
+    ___      ___ 
+ 
+Common Stock shares outstanding as of November 30, 1996 were: 
+                                   _________________ 
+ 
+                    Class A         101,731,470 
+ 
+                    Class B         186,633,670 
+                                   _________________ 
+ 
+                                    288,365,140 
+                                     ========== 
+ 
+ 
+                        PART 1 - FINANCIAL INFORMATION 
+ 
+Item 1.  Financial Statements 
+                                   NIKE, Inc. 
+ 
+                      CONDENSED CONSOLIDATED BALANCE SHEET 
+ 
+                                                       Nov. 30,      May 31, 
+                                                         1996         1996 
+                                                       ________      _______ 
+ 
+                                                           (in thousands) 
+ 
+                                  ASSETS 
+                                                                 
+Current assets: 
+     Cash and equivalents                            $  267,534   $  262,117 
+     Accounts receivable                              1,572,426    1,346,125 
+     Inventories (Note 3)                               981,080      931,151 
+     Deferred income taxes                              104,820       93,120 
+     Prepaid expenses                                   145,096       94,427 
+                                                     __________    _________  
+
+     Total current assets                             3,070,956    2,726,940 
+                                                     __________    _________  
+ 
+Property, plant and equipment                         1,200,747    1,047,705 
+     Less accumulated depreciation                      442,990      404,246 
+                                                     __________   __________ 
+                                                        757,757      643,459 
+ 
+Identifiable intangible assets and goodwill             471,394      474,812 
+Other assets                                            121,048      106,417 
+                                                     __________   __________ 
+ 
+                                                     $4,421,155   $3,951,628 
+                                                     ==========   ========== 
+             LIABILITIES AND SHAREHOLDERS' EQUITY 
+Current liabilities: 
+     Current portion of long-term debt               $    3,214   $    7,301 
+     Notes payable                                      432,517      445,064 
+     Accounts payable                                   465,686      455,034 
+     Accrued liabilities                                521,351      480,407 
+     Income taxes payable                                42,774       79,253 
+                                                     __________   __________ 
+ 
+          Total current liabilities                   1,465,542    1,467,059 
+Long-term debt                                           98,970        9,584 
+Non-current deferred income taxes                         1,802        1,883 
+Other long-term liabilities                              34,832       41,402 
+Commitments and contingencies (Note 4)                        -            - 
+Redeemable Preferred Stock                                  300          300 
+Shareholders' equity: 
+     Common Stock at stated value (Note 2): 
+          Class A convertible-101,731 and 
+            102,240 shares outstanding                      152          153 
+          Class B-186,634 and 185,018 shares 
+               outstanding                                2,704        2,702 
+     Capital in excess of stated value                  179,973      154,833 
+     Foreign currency translation 
+       adjustment                                        (1,716)     (16,501) 
+     Retained earnings                                2,638,596    2,290,213 
+                                                     ___________  __________ 
+ 
+                                                      2,819,709    2,431,400 
+                                                     ___________  __________ 
+ 
+                                                     $4,421,155   $3,951,628 
+                                                     ==========   ========== 
+ 
+ 
+ The accompanying Notes to Condensed Consolidated Financial Statements are 
+an integral part of this statement. 
+ 
+ 
+                                     NIKE, Inc. 
+ 
+ 
+                     CONDENSED CONSOLIDATED STATEMENT OF INCOME 
+ 
+<TABLE> 
+<CAPTION> 
+                                      Three Months Ended          Six Months Ended 
+                                          November 30,               November 30, 
+                                       __________________         __________________ 
+ 
+                                      1996        1995*            1996        1995* 
+                                      ____        ____             ____        ____ 
+ 
+                                           (in thousands, except per share data) 
+<S>                                  <C>         <C>              <C>         <C> 
+Revenues                             $2,107,034  $1,356,758      $4,388,960   $3,056,778 
+                                      _________   _________        _________   _________ 
+Costs and expenses: 
+     Cost of sales                    1,277,628     828,129       2,639,747    1,841,508 
+     Selling and administrative         530,453     353,715       1,059,990      722,758 
+     Interest                            10,228       8,527          22,894       19,778 
+     Other expense (income)                (147)      7,375           8,494       17,624 
+                                       ________     ________      _________    _________ 
+
+                                      1,818,162   1,197,746       3,731,125    2,601,668 
+                                       ________     ________      _________    _________ 
+  
+Income before income taxes              288,872     159,012         657,835      455,110 
+ 
+Income taxes                            112,000      61,200         254,900      175,200 
+                                       ________    ________       _________    _________ 
+ 
+Net income                           $  176,872  $   97,812      $  402,935   $  279,910 
+                                      =========   =========      ==========   ========== 
+
+Net income per common share(Note 2)  $     0.60  $     0.34      $     1.36   $      .96 
+                                      =========   =========      ==========   ========== 
+Dividends declared per common share  $     0.10  $     0.08      $     0.18   $     0.14 
+                                      =========   =========      ==========   ========== 
+ 
+Average number of common and 
+ common equivalent shares (Note 2)      297,022     293,988         296,693      292,840 
+                                      =========   =========      ==========   ========== 
+</TABLE>
+ 
+*For comparable purposes with 1996, results for the three and six months 
+ended November 30, 1995 have been adjusted to reflect the elimination of 
+the one month lag in reporting by certain of the Company's international 
+operations.  See further discussion under Note 5. 
+ 
+  
+The accompanying Notes to Condensed Consolidated Financial Statements are 
+an integral part of this statement. 
+ 
+ 
+                                      NIKE, Inc. 
+ 
+ 
+                   CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS 
+<TABLE> 
+<CAPTION> 
+                                                         Six Months Ended 
+                                                            November 30,    
+                                                          _________________ 
+ 
+                                                          1996         1995 
+                                                          ____         ____ 
+ 
+                                                            (in thousands) 
+<S>                                                      <C>        <C>
+Cash provided (used) by operations: 
+          Net income                                     $402,935   $279,910 
+          Income charges (credits) not 
+            affecting cash: 
+            Depreciation                                   58,199     41,629 
+            Deferred income taxes and 
+              purchased tax benefits                       (5,910)   (10,513) 
+            Other                                          23,642     10,185 
+          Changes in other working capital 
+            components                                   (353,850)  (228,501) 
+                                                         ________    _______ 
+ 
+          Cash provided by operations                     125,016     92,710 
+                                                         ________    _______ 
+Cash (used) provided by investing activities: 
+          Additions to property, plant and 
+            equipment                                    (187,579)   (96,111) 
+          Disposals of property, plant and 
+            equipment                                      19,353      3,533 
+          Increase in other assets                        (25,476)    (2,770) 
+          Decrease in other liabilities                    (9,652)       -- 
+                                                          _______     _______ 
+ 
+          Cash used by investing activities              (203,354)   (95,348) 
+                                                          _______     _______ 
+ 
+Cash provided (used) by financing activities: 
+          Additions to long-term debt                      99,789      1,012 
+          Reductions in long-term debt 
+            including current portion                     (10,023)   (27,103) 
+          (Decrease) increase in notes payable            (27,710)    58,670 
+          Proceeds from exercise of options                13,242     12,709 
+          Repurchase of stock                                 --     (18,756) 
+          Dividends paid - common and preferred           (43,153)   (35,800)
+                                                          _______    _______ 
+          Cash provided (used) by financing 
+            activities                                     32,145     (9,268)
+                                                          _______    _______ 
+ 
+Effect of exchange rate changes on cash                     8,606     (9,169) 
+                                                          _______    _______ 
+ 
+Effect of May 1996 cash flow activity for certain 
+  subsidiaries (Note 5)                                    43,004        -- 
+                                                          _______    _______ 
+   
+Net (decrease) increase in cash and equivalents             5,417    (21,075)
+Cash and equivalents, May 31, 1996 and 1995               262,117    220,935 
+                                                          _______    _______ 
+ 
+Cash and equivalents, November 30, 1996   
+  and 1995                                               $267,534   $199,860 
+                                                         ========   ======== 
+</TABLE> 
+ 
+*For comparable purposes with 1996, results for the six months ended November 
+30, 1995 have been adjusted to reflect the elimination of the one month lag in 
+reporting by certain of the Company's international operations.  See further 
+discussion under Note 5. 
+ 
+ 
+The accompanying Notes to Condensed Consolidated Financial Statements are 
+an integral part of this statement. 
+ 
+ 
+                                   NIKE, Inc. 
+ 
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ 
+NOTE 1 - Summary of significant accounting policies: 
+         ___________________________________________ 
+ 
+Basis of Presentation: 
+ 
+     The accompanying unaudited condensed consolidated financial statements 
+reflect all adjustments (consisting of normal recurring accruals) which 
+are, in the opinion of management, necessary for a fair presentation of 
+the results of operations for the interim period(s).  The interim financial 
+information and notes thereto should be read in conjunction with the 
+Company's latest annual report to shareholders.  The results of operations 
+for the three (3) and six (6) months ended November 30, 1996 are not 
+necessarily indicative of results to be expected for the entire year. 
+ 
+ 
+NOTE 2 - Net income per common share: 
+         ___________________________ 
+ 
+     Net income per common share is computed based on the weighted average 
+number of common and common equivalent (stock option) shares outstanding 
+for the period(s). 
+ 
+     On October 23, 1996 the Company issued additional shares in connection 
+with a two-for-one stock split effected in the form of a 100% stock dividend 
+on outstanding Class A and Class B common stock.  The per common share amounts 
+in the Consolidated Financial Statements and accompanying notes have been 
+adjusted to reflect this stock split.  
+ 
+     
+NOTE 3 - Inventories: 
+         ___________ 
+ 
+     Inventories by major classification are as follows: 
+ 
+                                        Nov. 30,      May 31, 
+                                          1996         1996 
+                                        ________     ________ 
+ 
+                                           (in thousands) 
+                    Finished goods      $902,547     $874,700 
+                    Work-in-process       44,737       28,940 
+                    Raw materials         33,796       27,511 
+                                        ________     ________ 
+ 
+                                        $981,080     $931,151 
+                                        ========     ======== 
+ 
+ 
+NOTE 4 - Commitments and contingencies: 
+         _____________________________ 
+ 
+     There have been no other significant subsequent developments 
+relating to the commitments and contingencies reported on the 
+Company's most recent Form 10-K.  
+ 
+ 
+NOTE 5 - Change in year-end of certain subsidiaries: 
+         __________________________________________ 
+ 
+     Prior to fiscal year 1997, certain of the Company's international 
+operations reported their results of operations on a one month lag 
+which allowed more time to compile results.  The Company has taken steps 
+to improve its internal reporting procedures that has allowed for 
+more timely reporting of these operations.  Beginning in the first 
+quarter of fiscal year 1997, the one month lag was eliminated.  As a 
+result, the May 1996 loss from operations for these entities of 
+$4.1 million was recorded directly to retained earnings in the first 
+quarter of the current year.  The change affected the previously reported 
+quarterly periods for these operations and thus, the income satement and 
+cash flow statement have been presented to show comparable results for the 
+quarter and year as if the change had occurred in the prior year.  The effect 
+of the change is not material to the consolidated balance sheet and as a 
+result the balance sheet as of May 31, 1996 has not been adjusted. 
+ 
+NOTE 6 - Subsequent Event: 
+         ______________ 
+ 
+     In December of 1996, the Company issued $200 million seven-year notes 
+maturing December 1, 2003, with a stated rate of 6.375%.
+ 
+Item 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS 
+         AND FINANCIAL CONDITION 
+ 
+Operating Results 
+_________________ 
+ 
+     Net income increased 81% over the prior year's second quarter, 
+rising to $176.9 million, or $0.60 per share, from $97.8 million, or 
+$0.34 per share last year.  Year-to-date net income increased 44% to 
+$402.9 million, $3 million more than the Company's net income for the 
+entire 1995 fiscal year.  Revenues were $2.1 billion, up 55% for the 
+quarter and 44% year-to-date.  This quarter is the ninth straight 
+quarter of double digit increases in total revenues.  Gross margin 
+percentage increased slightly for both the quarter and year-to- 
+date, while selling and administrative expenses decreased as a 
+percentage of revenues for the quarter, but increased as a percentage 
+of revenues on a year-to-date basis. 
+ 
+     Revenues for the quarter increased $750.3 million over 
+the $1.4 billion reported in the same period of the prior year.  
+U.S. revenues increased $459.9 million, or 63%, for the second quarter, 
+and $840.3 million, or 49%, on a year-to-date basis.  U.S. apparel 
+increased 93% over last year's second quarter and has increased more 
+than 85% in each of the last six quarters.  U.S. footwear increased 
+$277.8 million, or 52%, over last year's second quarter due to a 48% 
+increase in pairs sold and a 4% increase in average selling price.  
+Increases can be seen in almost all categories, the most significant 
+being men's basketball up 38%, men's running up 90%, men's cross- 
+training up 57%, and women's fitness up 79%.  For the quarter 
+international revenues increased $292.2 million, or 60%, with strong 
+growth in both footwear and apparel.  Year-to-date, international 
+revenues increased $495.0 million, or 46%.  All regions showed double 
+digit increases for the quarter with Europe up 42%, comprised of a 37% 
+increase in footwear and a 53% increase in apparel; Asia Pacific was up 
+96%, with a 111% growth rate in footwear and a 73% increase in apparel; 
+and the Americas region was up 45%, increasing 25% in footwear and 135% 
+in apparel.  Japan, now the largest country outside the U.S. in 
+revenues, increased 171% in the quarter and 111% for the year.  The 
+impact of exchange rates on the quarter's revenue was a decrease of $38 
+million, or 8%.  For the year, rates have decreased revenues by $93 
+million, or 9%.  Other brands, which includes Cole Haan (R), Tetra 
+Plastics, Sports Specialties and Bauer Inc., decreased slightly, $1.8 
+million, (1%), for the quarter and $3.1 million, (1%), year-to-date.  
+The breakdown of revenues follows: 
+ 
+ 
+<TABLE> 
+<CAPTION> 
+                                    Three Months Ended             Six Months Ended 
+                                       November 30,                  November 30, 
+                              1996        1995(1)   % Change     1996        1995(1) % Change 
+                              ____        ____         ___       ____        ____        ___ 
+
+                                                       (in thousands) 
+<S>                         <C>         <C>          <C>        <C>         <C>         <C> 
+U.S. Footwear               $  816,283  $  538,497    52%       $1,818,386  $1,330,065   37% 
+U.S. Apparel                   377,870     195,795    93           730,255     378,278   93 
+                            __________  __________              __________   _________     
+ 
+Total United States          1,194,153     734,292    63         2,548,641   1,708,343   49 
+                            __________  __________              __________   _________      
+ 
+International Footwear         517,229     330,162    57         1,065,767     757,194   41 
+International Apparel          262,021     156,896    67           494,360     307,947   61 
+                            __________  __________              __________   _________      
+ 
+Total International            779,250     487,058    60         1,560,127   1,065,141   46 
+                            __________  __________              __________   _________      
+ 
+Other Brands                   133,631     135,408   (1)           280,192     283,294  (1) 
+                            __________  __________               _________   _________      
+ 
+Total Revenues              $2,107,034  $1,356,758    55%       $4,388,960  $3,056,778   44% 
+                            ==========  ==========   ===         =========   =========  === 
+</TABLE> 
+ 
+(1) For comparable purposes with 1996, results for the three and six months 
+ended November 30, 1995 have been adjusted to reflect the elimination of 
+the one month lag in reporting by certain of the Company's international 
+operations.  See further discussion under Note 5. 
+ 
+     Consolidated gross margin percentage was 39.4% for the quarter 
+compared to 39.0% for last year's second quarter.  Year-to-date margins 
+are at 39.9% compared to 39.8% for last year.  The increase in gross 
+margin percentage is primarily attributed to footwear price increases 
+taking effect in this quarter as well as changes to product and customer 
+mix during the period.  The Company continues to place strong emphasis 
+on inventory management, minimizing foreign exchange risk and production 
+sourcing in order to maximize gross profit.  Gross profit percentages 
+for the remainder of fiscal year 1997 are expected to be affected by 
+both strong demand for NIKE products and increased pricing levels, 
+offset by increased levels of air freight to meet the delivery dates or 
+increasing customer orders.  At this time, Management expects the 
+percentage for the full year to be up only slightly from last fiscal 
+year's percentage.* 
+ 
+     Selling and administrative expenses increased $177 million over the 
+previous year's second quarter and $337 million year-to-date.  As a 
+percentage of revenues, expenses have decreased to 25.2% for the 
+quarter, down from 26.1% for the same period last year.  On a 
+year-to-date basis, expenses have increased to 24.2%, up from 23.6%. 
+For the quarter, the revenue growth outstripped the expenses, 
+resulting in a lower percentage, however, increased spending on 
+advertising and marketing, as well as increased infrastructure costs, 
+make up the majority of both the dollar and percentage increases.  At 
+this time, Management expects selling and administrative expenses as a 
+percentage of revenues for the year will approximate the prior year.* 
+ 
+     Interest expense increased for both the quarter and year-to-date 
+over the prior year due to increased short-term borrowings for growing 
+operations, mostly in Europe and Asia Pacific. Other expense decreased 
+$7.5 million for the quarter and $9.1 million year-to-date primarily due 
+to decreased conversion loss on foreign transactions, gains on the 
+disposal of fixed assets, and income earned from a promotional event in 
+Japan. 
+ 
+     The Company's effective tax rate for the year-to-date was 38.75% 
+compared to 38.5% in the prior year.  The slight increase is due 
+primarily to higher state income taxes on U.S. earnings.  At this time, 
+Management anticipates the tax rate for fiscal 1997 will remain at 
+approximately 38.75%.* 
+ 
+     Worldwide orders for NIKE Brand athletic footwear and apparel 
+scheduled for delivery from December 1996 through April 1997 were 
+approximately $4.1 billion, 54% higher than such orders booked in the 
+comparable period of the prior year.  These orders and the percentage 
+growth in these orders are not necessarily indicative of the growth in 
+revenues which the Company will experience for the subsequent periods.  
+This is because the mix of advance futures and "at once" orders has 
+shifted significantly toward futures orders as the NIKE brand becomes 
+more established in all areas, specifically in the U.S. apparel business 
+and in international regions.  The mix of advance orders to "at once" 
+orders will continue to vary as the U.S. apparel business and 
+international operations continue to account for a greater percentage of 
+total revenues and as each places a greater emphasis on futures 
+programs.*   Finally, exchange rates can cause differences in the 
+comparisons.*
+ 
+     As further explained in Note 5, prior to fiscal year 1997, certain 
+of the Company's international operations reported their results of 
+operations on a one month lag in order to allow more time for compiling 
+results.  The Company has taken steps to improve its internal reporting 
+procedures which have allowed for more timely reporting of these 
+operations.  Beginning in the first quarter of fiscal year 1997, the one 
+month lag was eliminated.  As a result, the May 1996 operational results 
+for these entities of a $4.1 million loss was recorded to retained 
+earnings in the first quarter of the current year.  The change affected 
+the previously reported quarterly periods for these operations, and 
+thus, the income statement and cash flow statement have been adjusted in 
+order to show comparable results for the previous periods as if the 
+change had occurred in the prior year.  Throughout this discussion, 
+comparisons to last year are also stated as they would have appeared had 
+these entities reported on a same month basis. 
+ 
+ 
+LIQUIDITY AND CAPITAL RESOURCES 
+ 
+     The Company's financial position remains strong at November 30, 1996.  
+Since May 31, 1996, total assets grew $470 million to approximately $4.4 
+billion and shareholder's equity increased $388 million to $2.8 billion.  
+Working capital increased $346 million, and the Company's current ratio 
+increased to 2.10:1 at November 30, 1996 from 1.86:1 at May 31, 1996.  
+
+     Cash provided by operations included year-to-date net income of $403 
+million plus the year-to-date non-cash depreciation charge of $58 million.  
+Cash used by changes in other working capital components totaled $354 million 
+due, in large part, to increases in accounts receivable and inventory. Since 
+May 31, 1996, accounts receivable increased $226 million (17%) due to the high 
+level of revenues compared to the same period in the prior year.  Inventory 
+levels increased $50 million from May 31, as total international inventory 
+increased $52 million in order to support revenue volume.  Inventory turns 
+increased to 5.56 at November 30, 1996 from 5.01 at May 31, 1996.
+ 
+     Cash used in investing activities totaled $203 million for the first six 
+months of fiscal 1997.  Additions to property, plant and equipment totaled 
+$188 million with the most significant components related to the continued 
+consolidation of European footwear warehouses, the overall expansion of U.S. 
+operations and the continued expansion of NIKE Town retail locations in 
+the U.S. 
+ 
+     Cash provided from financing activities included an increase from 
+May 31, 1996 of $100 million in long-term debt due, primarily, to the 
+Company's Japanese subsidiary borrowing 10.5 billion yen in the first 
+quarter.  Cash was used to decrease notes payable by $28 million and to 
+pay dividends totaling $43 million. 
+ 
+     During the quarter, the Company announced a 33% increase in the 
+quarterly cash dividend to $.10 per share from the previous $.075 per share. 
+
+     The Company's commercial paper program requires the support of committed 
+and uncommitted lines of credit.  There was $6 million outstanding under 
+this program at November 30, 1996.  The Company has $500 million available in 
+committed unused lines of credit and, at November 30, 1996, no amounts were 
+outstanding under this credit facility. NIKE's debt-to-equity ratio at 
+November 30, 1996 remained constant from May 31 at .6:1. 
+ 
+     In December of 1996, the Company issued $200 million of seven-year notes, 
+maturing December 1, 2003 (see Note 6).  The proceeds from the sale of the 
+notes, received December 13, 1996, will be used for general corporate purposes 
+including, without limitation, refinancing, in part, short-term debt. 
+ 
+     Management believes that funds generated by operations, together with 
+currently available resources and long-term debt arrangements,will 
+continue to adequately finance anticipated fiscal 1997 expenditures.* 
+ 
+*The marked items are forward-looking statements that involve risks and 
+uncertainties detailed from time to time in reports filed by NIKE with the 
+S.E.C., including Forms 8-K, 10-Q, and 10-K. 
+ 
+ 
+                           Part II - Other Information 
+ 
+
+Item 1.   Legal Proceedings: 
+ 
+     There have been no material changes from the information previously 
+reported under Item 3 of the Company's Annual Report on Form 10-K for 
+the fiscal year ended May 31, 1996. 
+ 
+ 
+Item 6.   Exhibits and Reports on Form 8-K: 
+ 
+     (a)  EXHIBITS: 
+ 
+    3.1 Restated Articles of Incorporation, as amended (incorporated by 
+        reference from Exhibit 3.1 to the Company's Quarterly Report on Form 
+        10-Q for the first quarter ended August 31, 1995). 
+ 
+    3.2 Third Restated Bylaws, as amended (incorporated by referencec from 
+        Exhibit 3.2 to the Company's Quarterly Report on Form 10-Q for the 
+        first quarter ended August 31, 1995). 
+ 
+    4.1 Restated Articles of Incorporation, as amended (see Exhibit 3.1). 
+ 
+    4.2 Third Restated Bylaws, as amended (see Exhibit 3.2). 
+ 
+   10.1 Credit Agreement dated as of September 15, 1995 among NIKE, Inc., 
+        Bank of America National Trust & Savings Association, 
+        individually and as Agent, and the other banks party thereto (in- 
+        corporated by reference from Exhibit 10.1 to the Company's Quarterly 
+        Report on Form 10-Q for the quarter rended August 31, 1995). 
+ 
+   10.2 Form of non-employee director Stock Option Agreement (incorporated 
+        by reference from Exhibit 10.3 to the Company's Annual Report on 
+        Form 10-K for the fiscal year ended May 31, 1993).* 
+
+   10.3 Form of Indemnity Agreement entered into between the Company and 
+        each of its officers and directors (incorporated by reference from 
+        the Company's definitive proxy statement filed in connection with 
+        its annual meeting of shareholders held on September 21, 1987).
+ 
+   10.4 NIKE, Inc. Restated Employee Incentive Compensation Plan 
+        (incorporated by reference from Registration Statement No. 33-29262 
+        on Form S-8 filed by the Company on June 16, 1989).* 
+ 
+   10.5 NIKE, Inc. 1990 Stock Incentive Plan (incorporated by reference 
+        from the Company's definitive proxy statement filed in connection 
+        with its annual meeting of shareholders held on September 17, 1990).* 
+ 
+   10.6 Collateral Assignment Split-Dollar Agreement between NIKE, Inc. 
+        and Philip H. Knight dated March 10, 1994 (incorporated by 
+        reference from Exhibit 10.7 to the Company's Annual Report on 
+        Form 10-K for he fiscal year ended May 31, 1994).* 
+ 
+   10.7 NIKE, Inc. Executive performance Sharing Plan (incorporated by 
+        reference from the Company's definitive proxy statement 
+        filed in connection with its annual meeting of shareholders 
+        held on September 18, 1995).* 
+ 
+   10.8 NIKE, Inc. Supplemental Executive Savings Plan *
+ 
+   12.1 Computation of Ratio of Earnings to Fixed Charges 
+ 
+     27 Financial Data Schedule. 
+ 
+ 
+* Management contract or compensatory plan or arrangement. 
+ 
+     (b)  The following reports on Form 8-K were filed by the Company during 
+    the first quarter of fiscal 1997: 
+ 
+Form 8-K   
+ 
+September 16, 1996  ITEM 5   OTHER EVENTS          Press release announcing 
+                                                   the first quarter earnings, 
+                                                   and a restatement of con- 
+                                                   solidated financial state- 
+                                                   ments and accompanying 
+                                                   notes. 
+ 
+                                   SIGNATURES 
+ 
+     Pursuant to the requirements of the Securities Exchange Act 
+of 1934, the Registrant has duly caused this report to be signed on its 
+behalf by the undersigned thereunto duly authorized. 
+ 
+                              NIKE, Inc. 
+                              An Oregon Corporation 
+  
+                              BY: /s/ Robert S. Falcone
+                                   ________________________ 
+ 
+                                   Robert S. Falcone 
+                                   Vice President,  
+                                   Chief Financial Officer 
+ 
+ 
+DATED:  January 14, 1997 
+  
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.8
+<SEQUENCE>2
+<TEXT>
+ 
+Exhibit 
+ 
+ 
+                                      NIKE, INC.
+ 
+                         SUPPLEMENTAL EXECUTIVE SAVINGS PLAN 
+ 
+                                  1995 RESTATEMENT 
+ 
+                                    June 1, 1995 
+ 
+ 
+NIKE, Inc. 
+an Oregon corporation 
+One Bowerman Drive 
+Beaverton, OR  97005-6453                                    "Company" 
+ 
+ 
+The Company adopted a Supplemental Executive Savings Plan effective 
+February 1, 1994 to provide an opportunity for executive employees 
+to set aside additional amounts for retirement on a tax deferred basis 
+and to provide a limited make-up of profit sharing contributions lost 
+as a result of the $150,000 limit on compensation counted under the 
+Company's 401(k) Savings and Profit Sharing Plan for Employees of NIKE, 
+Inc. (the "Profit Sharing Plan").   The make-up contribution is being 
+expanded effective June 1, 1995 through adoption of a separate NIKE, 
+Inc. Supplemental Executive Profit Sharing Plan.  In order to continue 
+the provisions for elective tax deferred savings, the Company adopts 
+this 1995 Restatement of the Supplemental Executive Savings Plan (the 
+"Plan"). 
+ 
+     1.     Employers; Administration; Plan Year. 
+ 
+     1.1    The Plan shall apply to the Company and to other members of 
+the Controlled Group designated by the Company.  The "Controlled Group" 
+is the controlled group of corporations, as defined in Internal Revenue 
+Code Section 1563(a), of which the Company is a member.  The term 
+"Employer" refers to the Company and such a designated member of the 
+Controlled Group. 
+ 
+     1.2    The Plan shall be administered by the Retirement Committee 
+established under the Profit Sharing Plan (the "Committee").  The 
+Committee shall interpret the Plan, determine eligibility and the amount 
+of benefits, maintain records, and generally be responsible for seeing 
+that the purposes of the Plan are accomplished.  The Committee may 
+delegate all or part of its administrative duties to others. 
+ 
+     1.3    "Plan Year" means the 12-month period starting each June 1 
+and ending on the following May 31. 
+ 
+     2.     Eligibility; Deferral Election. 
+ 
+     2.1    An executive employee of an Employer shall be eligible to 
+defer compensation under the Plan for a Plan Year if the employee's 
+annual salary rate from the Employer as of the June 1 at the start of 
+such Plan Year equals or exceeds $150,000 or such higher amount as is 
+fixed with cost-of-living adjustments under Internal Revenue Code 
+Section 401(a)(17).  
+ 
+     2.2    An employee eligible under 2.1 may elect to defer 
+compensation for each Plan Year by completing a "Deferral Election" 
+in a form prescribed by the Committee, signing it and returning it to 
+the Committee.  The Deferral Election shall designate a dollar amount 
+or percentage to be deferred out of the employee's annual salary and 
+annual Performance Sharing Plan bonus, which dollar amount or percentage 
+may be different as between salary and bonus.  A deferral of bonus shall 
+be controlled by the Deferral Election for the Plan Year in which the 
+bonus is paid.  To be effective for any Plan Year, the Deferral Election 
+must be returned before June 1 of the Plan Year, except as provided in 
+2.3.  A Deferral Election shall apply to a single Plan Year and shall be 
+irrevocable after the start of that Plan Year, except as follows.  A 
+Participant may elect at any time to reduce the amount or percentage to 
+be deferred from salary earned in the remainder of the Plan 
+Year to zero.  Such an election shall be effective for the remainder of 
+the Plan Year and shall be irrevocable.  A new Deferral Election must be 
+returned to continue deferrals for subsequent Plan Years. 
+ 
+     2.3    An executive employee who comes into a position with an 
+annual salary rate at or above the level described in 2.1 during a Plan 
+Year, whether by hire from outside the Company or promotion to a higher 
+salary level, shall be eligible to defer the Participant's salary for 
+the remainder of the Plan Year.  To be effective, a Deferral Election by 
+such a Participant must be returned within 30 days of the date the 
+Participant becomes eligible.  The provisions of 2.2 on irrevocability 
+and reduction to zero shall apply to elections under this 2.3.  This 2.3 
+shall be effective January 1, 1997.  The 30-day election period for all 
+executive employees who moved into an eligible position since June 1, 
+1996 shall expire January 30, 1997. 
+ 
+     2.4    The Employer shall reduce the Participant's salary or bonus 
+by the amounts deferred under 2.2 or 2.3 and shall credit such amounts 
+to the Participant's Account under 3.1.  Amounts due for FICA taxes on 
+the elected amounts shall be withheld from the Participant's remaining 
+salary and bonus. 
+ 
+     2.5    "Participant" means an executive employee who is eligible 
+for and elects deferral of compensation under 2.2 or 2.3. 
+ 
+     3.     Accounts. 
+ 
+     3.1    Each Participant who defers compensation under 2.2 or 2.3 
+shall have an "Account" in this Plan.  All deferred compensation amounts 
+elected by a Participant shall be credited to the Participant's Account 
+as of the date they would have been paid to the Participant if not 
+deferred. 
+ 
+     3.2    Each Account shall be credited with Interest monthly until 
+the entire Account has been paid out.  "Interest" means an amount 
+calculated at a rate equal to 120 percent of the federal mid-term rate 
+in effect on the last business day of the month, as published from time 
+to time by the Internal Revenue Service. 
+ 
+     3.3    A Participant's Account shall be fully vested at all times. 
+ 
+     4.     Trust.
+ 
+     The Company shall establish a trust (the "Trust") with a financial 
+institution as trustee for payment of benefits under the Plan.  The 
+Trust shall be a grantor trust for tax purposes.  The Trust shall 
+provide that any assets contributed to the trustee shall be used 
+exclusively for payment of benefits under this Plan except in the event 
+the Company becomes insolvent, in which case the Trust assets shall be 
+held for payment of the Company's obligations to its general creditors. 
+ 
+     5.     Payment of Benefits to the Participant. 
+ 
+     5.1    The "Payment Amount" shall be the vested balance in the 
+Participant's Account, including deferred compensation and Interest. 
+ 
+     5.2    The Payment Amount shall be payable to a Participant under 
+the Plan upon termination of all employment of the Participant with the 
+Controlled Group.  A Participant who is receiving benefits from Employer
+ on account of disability shall not be treated as having a termination 
+of employment until such benefits cease and the Participant does not 
+return to work. 
+ 
+     5.3    A Participant's termination under 5.2 shall constitute a 
+retirement for purposes of this Plan if at the time of termination the 
+Participant has attained age 55 and has been continuously employed for 
+five or more years within the Controlled Group. 
+ 
+     5.4    The form of payment shall be as follows.  If the 
+Participant's termination of employment under 5.2 is not a retirement as 
+described in 5.3, the Payment Amount shall be based on Interest accrued 
+to the end of the month of employment termination and payment shall be 
+made in a lump sum as soon as practicable after such month end.  If the 
+termination is a retirement, the Payment Amount shall be paid in one of 
+the following ways as determined under 5.5: 
+ 
+          (a)     In a lump sum on the January 1 following the date of 
+employment termination. 
+ 
+          (b)     In ten substantially equal annual installments 
+beginning on the January 1 following the date of employment termination. 
+ 
+     5.5    The Participant shall select the form of payment under 5.4 
+on a form provided by the Committee for that purpose.  A Participant's 
+selection shall be irrevocable for amounts credited to the Participant's 
+Account while the selection is in effect and for any Interest 
+attributable to such amounts.  A Participant may change the form of 
+payment by written notice to the Committee.  Such a change shall be 
+effective on the first day of the Plan Year beginning after the 
+Committee receives notice of the change.  A change of payment form shall 
+apply only to amounts credited to the Participant's Account after the 
+change becomes effective and Interest attributable thereto.  
+If the Payment Amount as of the January 1 following the date of 
+employment termination is less than $100,000, payment shall be made as 
+provided in 5.4(a) regardless of the form selected by the Participant.  
+If no form of payment is selected by a Participant, payment shall be 
+made in the form described in 5.4(b). 
+ 
+     5.6    If all or a portion of any payment of benefits under this 
+Section 5 to a Participant would not be deductible for federal income 
+tax purposes by the Company because of a limitation on the total amount 
+of the Participant's deductible compensation from the Company, including 
+any other such compensation already paid to the Participant earlier in 
+the same fiscal year of the Company, the following shall apply: 
+ 
+          (a)     Payment of the nondeductible amount shall be deferred 
+until the first day of the following fiscal year of the Company. 
+ 
+          (b)     If the amount deferred under (a) would exceed the 
+limitation on the total amount of the Participant's deductible 
+compensation from the Company for the following fiscal year, the excess 
+shall be deferred to the first day of succeeding fiscal years until all 
+of the Payment Amount falls underneath the limitation on total 
+deductible compensation, subject to (c).
+ 
+          (c)     In no event shall any payment be deferred under this 
+5.6 more than three years from the date scheduled for payment under 5.4. 
+ 
+          (d)     Interest shall continue to be credited under 3.3 
+during the period of deferral under this 5.6. 
+ 
+     5.7    The Company may withhold from any payments any deductions 
+required by law. 
+ 
+     6.     Death Benefits. 
+ 
+     6.1    A Participant's Payment Amount shall be payable under 6.2 
+through 6.4 on the Participant's death regardless of the provisions of 
+Section 5. 
+ 
+     6.2    On death, the Payment Amount shall be paid to the 
+Participant's Beneficiary as follows: 
+ 
+          (a)     If the Beneficiary is the surviving spouse or 
+permanent partner of the Participant, the amount for which the 
+Participant had selected installments under 5.4(b) shall be paid to the 
+Beneficiary by installments in accordance with the selection, beginning 
+within 30 days after the Participant's death. 
+ 
+          (b)     Any amount not described in (a) shall be paid to the 
+Beneficiary in a lump sum within 30 days after the Participant's death. 
+
+          (c)     If the Payment Amount as of the date of death is 
+less than $100,000, payment shall be made as provided in (b) 
+regardless of whether the Beneficiary is the surviving spouse or 
+permanent partner. 
+ 
+     6.3    "Beneficiary" means the death beneficiary designated by the 
+Participant under the Profit Sharing Plan unless the Participant submits 
+to the Committee a different designation for this Plan on a form 
+provided for the purpose, which shall then control.  If the Participant 
+has no surviving Beneficiary designated under either plan, the 
+Beneficiary shall be the following, in order of priority: 
+ 
+          (a)     The Participant's surviving spouse. 
+ 
+          (b)     The Participant's surviving children in equal shares. 
+ 
+          (c)    The beneficiaries designated by the Participant under 
+the Company's LifeTrek program. 
+ 
+          (d)    The Participant's estate. 
+ 
+     6.4    If a surviving spouse or permanent partner Beneficiary is 
+receiving installments and dies when a balance remains, the balance 
+shall be paid in a lump sum to the spouse's or permanent partner's 
+estate. 
+ 
+     6.5    A designation of a spouse beneficiary by a Participant who 
+is subsequently divorced from that spouse shall be automatically revoked 
+by the divorce unless the Participant renews the designation after the 
+divorce. 
+ 
+     7.     Change of Control.
+ 
+     7.1    Notwithstanding the provisions of Sections 5 and 6, the 
+Payment Amount shall be paid to each Participant, or to the Beneficiary 
+of each deceased Participant, in a lump sum within 30 days after the 
+date of a Change of Control. 
+ 
+     7.2    A "Change of Control" means any of the following: 
+ 
+          (a)     The purchase or other acquisition by any person, 
+entity or group of persons, within the meaning of Section 13(d) or 14(d) 
+of the Securities Exchange Act of 1934 (Act), or any comparable 
+successor provisions, or beneficial ownership (within the meaning of 
+Rule 13d-3 promulgated under the Act) of 30 percent or more of either 
+the outstanding shares of common stock or the combined voting power of 
+the Company's then outstanding voting securities entitled to vote 
+generally. 
+ 
+          (b)     The approval by the stockholders of the Company of a 
+reorganization, merger, or consolidation with respect to which persons 
+who were stockholders of the Company immediately prior to such 
+reorganization, merger or consolidation do not, immediately thereafter, 
+own more than 50 percent of the combined voting power entitled to vote 
+generally in the election of directors of the reorganized, merged or 
+consolidated Company's then outstanding securities.
+ 
+          (c)     A liquidation or dissolution of the Company. 
+ 
+          (d)     A sale of all or substantially all of the Company's 
+assets.  
+ 
+     8.     Withdrawals. 
+ 
+     8.1    A Participant or a surviving spouse or permanent partner 
+Beneficiary may withdraw vested amounts from the Accounts before those 
+amounts would otherwise have been paid because of Financial Hardship, as 
+determined by the Committee.  The withdrawal shall be limited to the 
+amount reasonably necessary to meet the Financial Hardship. 
+ 
+     8.2    "Financial Hardship" means a Participant's or a surviving 
+spouse or permanent partner Beneficiary's immediate and substantial 
+financial need that cannot be met from other reasonably available 
+resources and is caused by one or more of the following: 
+
+          (a)     Medical expenses for the Participant or Beneficiary, a 
+member of the Participant's or Beneficiary's immediate family or 
+household, or other dependent. 
+ 
+          (b)     Loss of or damage to a Participant's or Beneficiary's 
+possessions or property due to casualty. 
+ 
+          (c)     Other extraordinary and unforeseeable circumstances 
+arising from events beyond the Participant's or Beneficiary's control. 
+ 
+     8.3    The Committee shall establish guidelines and procedures for 
+implementing withdrawals.  An application shall be written, be signed by 
+the Participant or the surviving spouse or permanent partner Beneficiary 
+and include a statement of facts causing the Financial Hardship and any 
+other facts required by the Committee. 
+ 
+     8.4    The withdrawal date shall be fixed by the Committee.  The 
+Committee may require a minimum advance notice and may limit the amount, 
+time and frequency of withdrawals. 
+ 
+     9.     Amendment; Termination.
+ 
+     9.1    The Company may amend this Plan effective the first day of 
+any month by notice to the Participants, except the rate of Interest 
+credited under 3.2 may not be reduced without the consent of a 
+Participant as to the balance in the Participant's Account as of the 
+date of the reduction. 
+ 
+     9.2    At any time the Company may terminate the Plan and pay out 
+all Accounts to the Participants or Beneficiaries entitled to the 
+Payment Amounts and thereby discharge all the benefit obligations of the 
+Plan.  Upon such termination any assets remaining in the trust provided 
+for in Section 4 shall be returned to the Company. 
+ 
+     9.3    If the Internal Revenue Service issues a final ruling that 
+any amounts deferred under this Plan will be subject to current income 
+tax, all amounts to which the ruling is applicable shall be paid to the 
+Participants within 30 days. 
+ 
+     10.     Claims Procedure.
+ 
+     10.1    Any person claiming a benefit or requesting an 
+interpretation, ruling or information under the Plan shall present the 
+request in writing to the Committee, which shall respond in writing as 
+soon as practicable. 
+ 
+     10.2    If the claim or request is denied, the written notice of 
+denial shall state: 
+ 
+          (a)     The reasons for denial, with specific reference to the 
+Plan provisions on which the denial is based. 
+ 
+          (b)     A description of any additional materials or 
+information required and an explanation of why it is necessary. 
+ 
+          (c)     An explanation of the Plan's claim review procedure.
+ 
+     10.3    The initial notice of denial shall normally be given within 
+90 days of receipt of the claim.  If special circumstances require an 
+extension of time, the claimant shall be so notified and the time limit 
+shall be 180 days.
+ 
+     10.4    Any person whose claim or request is denied or who has not 
+received a response within 30 days may request review by notice in 
+writing to the Committee.  The original decision shall be reviewed by 
+the Committee, which may, but shall not be required to, grant the 
+claimant a hearing.  On review, whether or not there is a hearing, the 
+claimant may have representation, examine pertinent documents and submit 
+issues and comments in writing. 
+ 
+     10.5    The decision on review shall ordinarily be made within 60 
+days.  If an extension of time is required for a hearing or other 
+special circumstances, the claimant shall be so notified and the time 
+limit shall be 120 days.  The decision shall be in writing and shall 
+state the reasons and the relevant plan provisions.  All decisions on 
+review shall be final and bind all parties concerned. 
+ 
+     11.     General Provisions.
+ 
+     11.1    If suit or action is instituted to enforce any rights under 
+this Plan, the prevailing party may recover from the other party 
+reasonable attorneys' fees at trial and on any appeal. 
+ 
+     11.2    Any notice under this Plan shall be in writing and shall be 
+effective when actually delivered or, if mailed, when deposited as first 
+class mail postage prepaid.  Mail shall be directed to the Company at 
+the address stated in this Plan, to the Participant's last known home 
+address shown in the Company's records, or to such other address as a 
+party may specify by notice to the other parties.  Notices to an 
+Employer or the Committee shall be sent to the Company's address. 
+ 
+     11.3    The rights of a Participant under this Plan are personal.  
+Except for the limited provisions of Section 6, no interest of a 
+Participant or one claiming through a Participant may be directly or 
+indirectly assigned, transferred or encumbered and no such interest 
+shall be subject to seizure by legal process or in any other way 
+subjected to the claims of any creditor. 
+ 
+     11.4    Following termination of employment, a Participant shall 
+not be an employee of an Employer or an affiliate for any purpose, and 
+payments under Sections 5 and 6 shall not constitute salary or wages.  
+A Participant shall receive such payments as retirement benefits, not as 
+compensation for performance of any substantial services. 
+ 
+     11.5    Amounts payable under this Plan shall be an obligation of 
+the Company and the Trust provided by Section 4.  If an Employer merges, 
+consolidates, or otherwise reorganizes or if its business or assets are 
+acquired by another company, this Plan shall continue with respect to 
+those eligible individuals who continue in the employ of the successor 
+company.  The transition of Employers shall not be considered a 
+termination of employment for purposes of this Plan.  In such an event, 
+however a successor corporation may terminate this Plan as to its 
+Participants on the effective date of the succession by notice to 
+Participants within 30 days after the succession. 
+ 
+     11.6    The Committee may decide that because of the mental or 
+physical condition of a person entitled to payments, or because of other 
+relevant factors, it is in the person's best interest to make payments 
+to others for the benefit of the person entitled to payment.  In that 
+event, the Committee may in its discretion direct that payments be made 
+as follows: 
+ 
+          (a)     To a parent or spouse or a child of legal age; 
+ 
+          (b)     To a legal guardian; or 
+ 
+          (c)     To one furnishing maintenance, support, or 
+hospitalization. 
+ 
+     12.     Effective Date 
+ 
+This Restatement shall be effective June 1, 1995, except as follows.  
+The changes in 2.1 on eligibility to defer compensation shall be 
+effective June 1, 1996 for eligibility in the Plan Year beginning on 
+that date.  The change in 2.2 to base deferral of bonuses on the 
+election for the Plan Year in which the bonus is paid shall first apply 
+to the bonus paid in the Plan Year beginning on June 1, 1996. 
+ 
+Adopted: November 15, 1995 
+ 
+  NIKE, INC. 
+ 
+ 
+By: MARCIA A. STILWELL 
+ 
+Executed: December 17, 1996
+ 
+ 
+ 
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12.1
+<SEQUENCE>3
+<TEXT>
+ 
+ 
+                                  NIKE, Inc.            Exhibit 12.1 
+ 
+              Computation of Ratio of Earnings to Fixed Charges
+  
+                                                Six Months Ended 
+                                                   November 30, 
+                                                ________________ 
+ 
+                                                1995*        1996 
+                                                ____         ____ 
+                                              (dollars in thousands) 
+ 
+Net income                                     $279,910     $402,935 
+Income taxes                                    175,200      254,900 
+                                               ________     ________ 
+ 
+  Income before income taxes                    455,110      657,835 
+                                               ________     ________ 
+ 
+Add fixed charges 
+  Interest expense (A)                           19,778       24,289 
+  Interest component of leases (B)                8,384       11,866 
+                                               _________    ________ 
+ 
+Total fixed charges                              28,162       36,155 
+                                               _________    ________ 
+ 
+Earnings before income taxes and 
+  fixed charges (C)                            $483,272     $692,595 
+                                               ========     ======== 
+ 
+Ratio of earnings to total fixed charges          17.16        19.16 
+                                               ========     ======== 
+ 
+*For comparable purposes with 1996, results for the six months ended 
+November 30, 1995 have been adjusted to reflect the elimination of 
+the one month lag in reporting by certain of the Company's international 
+operations.  See further discussion under Note 5. 
+  
+(A)  Interest expense includes interest both expensed and capitalized. 
+(B)  Interest component of leases includes one-third of rental expense, 
+     which approximates the interest component of operating leases. 
+(C)  Earnings before income taxes and fixed charges is exclusive 
+     of capitalized interest. 
+ 
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>ART. 5 FDS FOR 2ND QUARTER 10-Q
+<TEXT>
+
+<TABLE> <S> <C>
+ 
+<ARTICLE> 5 
+<LEGEND> 
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM 
+THE NOVEMBER 30, 1996 FORM 10-Q AND IS QUALIFIED IN ITS ENTIRETY BY 
+REFERENCE TO SUCH FINANCIAL STATEMENTS. 
+</LEGEND> 
+<MULTIPLIER> 1,000 
+        
+<S>                             <C> 
+<PERIOD-TYPE>                   6-MOS 
+<FISCAL-YEAR-END>                          MAY-31-1997 
+<PERIOD-END>                               NOV-30-1996 
+<CASH>                                         267,534 
+<SECURITIES>                                         0 
+<RECEIVABLES>                                1,572,426 
+<ALLOWANCES>                                    50,071 
+<INVENTORY>                                    981,080 
+<CURRENT-ASSETS>                             3,070,956 
+<PP&E>                                       1,200,747 
+<DEPRECIATION>                                 442,990 
+<TOTAL-ASSETS>                               4,421,155 
+<CURRENT-LIABILITIES>                        1,465,542 
+<BONDS>                                         98,970 
+<COMMON>                                         2,856 
+<PREFERRED-MANDATORY>                                0 
+<PREFERRED>                                        300 
+<OTHER-SE>                                   2,816,853 
+<TOTAL-LIABILITY-AND-EQUITY>                 4,421,155 
+<SALES>                                      4,388,960 
+<TOTAL-REVENUES>                             4,388,960 
+<CGS>                                        2,639,747 
+<TOTAL-COSTS>                                2,639,747 
+<OTHER-EXPENSES>                             1,056,607 
+<LOSS-PROVISION>                                11,877 
+<INTEREST-EXPENSE>                              22,894 
+<INCOME-PRETAX>                                657,835 
+<INCOME-TAX>                                   254,900 
+<INCOME-CONTINUING>                            402,935 
+<DISCONTINUED>                                       0 
+<EXTRAORDINARY>                                      0 
+<CHANGES>                                            0 
+<NET-INCOME>                                   402,935 
+<EPS-PRIMARY>                                     1.36 
+<EPS-DILUTED>                                     1.36 
+         
+
+</TABLE>
+</TEXT> 
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

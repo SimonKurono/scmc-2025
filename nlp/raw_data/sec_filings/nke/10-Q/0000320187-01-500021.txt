@@ -1,0 +1,2649 @@
+<SEC-DOCUMENT>0000320187-01-500021.txt : 20011019
+<SEC-HEADER>0000320187-01-500021.hdr.sgml : 20011019
+ACCESSION NUMBER:		0000320187-01-500021
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20010831
+FILED AS OF DATE:		20011015
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NIKE INC
+		CENTRAL INDEX KEY:			0000320187
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		IRS NUMBER:				930584541
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10635
+		FILM NUMBER:		1759285
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+		BUSINESS PHONE:		5036416453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>f1q0210q.txt
+<DESCRIPTION>QUARTERLY REPORT
+<TEXT>
+
+                   SECURITIES AND EXCHANGE COMMISSION
+
+                       Washington, D.C.  20549
+
+                              FORM 10-Q
+
+          FOR QUARTERLY REPORTS UNDER SECTION 13 OR 15 (d) OF
+              THE SECURITIES AND EXCHANGE ACT OF 1934
+
+  For the Quarter Ended August 31, 2001 Commission file number - 1-10635
+
+                               NIKE, Inc.
+
+        (Exact name of registrant as specified in its charter)
+
+           OREGON                                  93-0584541
+
+   (State or other jurisdiction of             (I.R.S. Employer
+    incorporation or organization)              Identification No.)
+
+        One Bowerman Drive, Beaverton, Oregon    97005-6453
+
+     (Address of principal executive offices)        (Zip Code)
+
+Registrant's telephone number, including area code (503) 671-6453
+
+Indicate by check mark whether the registrant (1) has filed all reports
+
+required to be filed by Section 13 or 15 (d) of the Securities Exchange
+
+Act of 1934 during the preceding 12 months (or for such shorter period
+
+that the registrant was required to file such reports), and (2) has been
+
+subject to such filing requirements for the past 90 days
+
+Yes  X   No     .
+    ___      ___
+
+Common Stock shares outstanding as of August 31, 2001 were:
+                                      _______________
+
+                    Class A          99,122,734
+
+                    Class B         169,500,843
+                                    ___________
+                                    268,623,577
+                                    ===========
+
+
+
+PART 1 - FINANCIAL INFORMATION
+
+Item 1.  Financial Statements
+                                   NIKE, Inc.
+
+                      CONDENSED CONSOLIDATED BALANCE SHEET
+                                                       August 31,    May 31,
+                                                         2001         2001
+                                                       ________      _______
+                                                           (in millions)
+
+           ASSETS
+
+Current assets:
+     Cash and equivalents                              $  364.9     $  304.0
+     Accounts receivable                                1,784.1      1,621.4
+     Inventories (Note 5)                               1,486.8      1,424.1
+     Deferred income taxes                                125.3        113.3
+     Prepaid expenses and other current assets            219.9        162.5
+                                                       ________     ________
+
+     Total current assets                               3,981.0      3,625.3
+
+Property, plant and equipment                           2,630.1      2,552.8
+     Less accumulated depreciation                        991.5        934.0
+                                                       ________     ________
+
+                                                        1,638.6      1,618.8
+
+Identifiable intangible assets and goodwill               394.2        397.3
+Deferred income taxes and other assets                    264.3        178.2
+                                                       ________     ________
+
+                                                       $6,278.1     $5,819.6
+                                                       ========     ========
+
+           LIABILITIES AND SHAREHOLDERS' EQUITY
+
+Current liabilities:
+     Current portion of long-term debt                 $   55.6     $    5.4
+     Notes payable                                        550.0        855.3
+     Accounts payable                                     445.0        432.0
+     Accrued liabilities                                  693.3        472.1
+     Income taxes payable                                 110.1         21.9
+                                                       ________     ________
+
+          Total current liabilities                     1,854.0      1,786.7
+
+Long-term debt                                            638.0        435.9
+Deferred income taxes and other liabilities               104.6        102.2
+Commitments and contingencies (Note 7)                       --           --
+Redeemable preferred stock                                  0.3          0.3
+Shareholders' equity:
+     Common stock at stated value:
+          Class A convertible-99.1 and
+            99.1 shares outstanding                         0.2          0.2
+          Class B-169.5 and 169.5 shares
+               outstanding                                  2.6          2.6
+     Capital in excess of stated value                    466.4        459.4
+     Unearned stock compensation                           (9.7)        (9.9)
+     Accumulated other comprehensive income              (120.1)      (152.1)
+     Retained earnings                                  3,341.8      3,194.3
+                                                       ________     ________
+
+     Total shareholders' equity                         3,681.2      3,494.5
+                                                       ________     ________
+
+                                                       $6,278.1     $5,819.6
+                                                       ========     ========
+
+The accompanying Notes to Condensed Consolidated Financial Statements are
+an integral part of this statement.
+
+                                 NIKE, Inc.
+
+                CONDENSED CONSOLIDATED STATEMENT OF INCOME
+
+
+                                                     Three Months Ended
+                                                         August 31,
+                                                     ___________________
+
+                                                      2001        2000
+                                                      ____        ____
+
+                                           (in millions, except per share data)
+
+Revenues                                            $2,613.7    $2,636.7
+                                                    _________   _________
+Costs and expenses:
+     Cost of sales                                   1,584.8     1,569.2
+     Selling and administrative                        696.2       701.1
+     Interest                                           13.0        15.4
+     Other expense, net                                  5.5        20.0
+                                                    _________   _________
+
+                                                     2,299.5     2,305.7
+                                                    _________   _________
+
+Income before income taxes and cumulative
+     effect of accounting change                       314.2       331.0
+
+Income taxes                                           110.0       120.8
+                                                    _________   _________
+
+Income before cumulative effect of
+     accounting change                                 204.2       210.2
+
+Cumulative effect of accounting change,
+     net of income taxes                                 5.0          --
+                                                    _________   _________
+
+Net income                                          $  199.2    $  210.2
+                                                    =========   =========
+
+Basic earnings per common share (Note 4):
+   Before accounting change                             0.76        0.78
+   Cumulative effect of accounting change               (.02)         --
+                                                    _________   _________
+
+                                                        0.74        0.78
+                                                    =========   =========
+
+Diluted earnings per common share (Note 4):
+   Before accounting change                             0.75        0.77
+   Cumulative effect of accounting change               (.02)         --
+                                                    _________   _________
+
+                                                        0.73        0.77
+                                                    =========   =========
+
+Dividends declared per common share                 $   0.12    $   0.12
+                                                    =========   =========
+
+
+The accompanying Notes to Condensed Consolidated Financial Statements are
+an integral part of this statement.
+
+
+NIKE, Inc.
+
+                   CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+
+                                                          Three Months Ended
+                                                              August 31,
+                                                          _________________
+
+                                                          2001         2000
+                                                          ____         ____
+
+                                                            (in millions)
+
+Cash provided (used) by operations:
+          Net income                                     $ 199.2     $ 210.2
+          Income charges (credits) not
+            affecting cash:
+            Depreciation                                    53.7        46.0
+            Deferred income taxes                          (12.5)       (3.0)
+            Amortization and other                           9.4         6.4
+          Changes in other working capital
+            components                                     (14.4)      (83.7)
+                                                         _______      _______
+
+          Cash provided by operations                      235.4       175.9
+                                                         _______      _______
+Cash provided (used) by investing activities:
+          Additions to property, plant and
+            equipment                                      (57.3)      (69.6)
+          Disposals of property, plant and
+            equipment                                        1.2         0.7
+          Decrease in other assets                           4.3         4.7
+          Increase in other liabilities                       --         0.8
+                                                          _______     _______
+
+          Cash used by investing activities                (51.8)      (63.4)
+                                                          _______     _______
+
+Cash provided (used) by financing activities:
+          Proceeds from long-term debt issuance            249.3         --
+          Reductions in long-term debt
+            including current portion                       (1.3)      (50.2)
+          (Decrease)increase in notes payable             (305.3)      107.5
+          Proceeds from exercise of options                  4.5         8.6
+          Repurchase of stock                               (5.1)       (5.9)
+          Dividends on common stock                        (32.2)      (32.4)
+                                                          _______     _______
+
+          Cash (used) provided by financing activities     (90.1)       27.6
+                                                          _______     _______
+
+Effect of exchange rate changes on cash                    (32.6)       12.7
+Net increase in cash and equivalents                        60.9       152.8
+Cash and equivalents, May 31, 2001 and 2000                304.0       254.3
+                                                         _______     _______
+
+Cash and equivalents, August 31, 2001
+  and 2000                                               $ 364.9     $ 407.1
+                                                         =======     ========
+
+
+The accompanying Notes to Condensed Consolidated Financial Statements are
+an integral part of this statement.
+
+
+                                   NIKE, Inc.
+
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1 - Summary of Significant Accounting Policies:
+         ___________________________________________
+
+Basis of presentation:
+
+     The accompanying unaudited condensed consolidated financial statements
+reflect all adjustments (consisting of normal recurring accruals) which
+are, in the opinion of management, necessary for a fair presentation of
+the results of operations for the interim period.  The interim financial
+information and notes thereto should be read in conjunction with the
+Company's latest annual report on Form 10-K.  The results of operations
+for the three (3) months ended August 31, 2001 are not necessarily
+indicative of results to be expected for the entire year.
+
+     Certain prior year amounts have been reclassified to conform to fiscal
+year 2002 presentation.  These changes had no impact on previously reported
+results of operations or shareholders' equity.
+
+NOTE 2 - Financial Risk Management and Derivatives:
+         _________________________________________
+
+Adoption of FAS 133
+
+     The Company adopted Statement of Financial Accounting Standards ("SFAS")
+No. 133, "Accounting for Derivative Instruments and Hedging Activities," as
+amended by SFAS No. 138, "Accounting for Certain Derivative Instruments and
+Certain Hedging Activities" (FAS 133) on June 1, 2001.
+
+     In accordance with the transition provisions of FAS 133, the Company
+recorded a one-time transition adjustment as of June 1, 2001 on both the
+consolidated statement of income and the consolidated balance sheet. The
+transition adjustment on the consolidated statement of income was a charge of
+$5.0 million, net of tax effect. This amount related to an investment that was
+adjusted to fair value in accordance with FAS 133. The transition adjustment
+on the consolidated balance sheet represented the initial recognition of the
+fair values of hedge derivatives outstanding on the adoption date and realized
+gains and losses on effective hedges for which the underlying exposure had not
+yet affected earnings. The transition adjustment on the consolidated balance
+sheet was an increase in current assets of $116.4 million, an increase in
+noncurrent assets of $87.0 million, an increase in current liabilities of
+$151.6 million, and an increase in other comprehensive income of approximately
+$56.8 million, net of tax effect.  Of the $56.8 million recorded in other
+comprehensive income as of June 1, 2001, the majority would be reclassified to
+earnings during the next twelve months as a result of underlying hedged
+transactions also being recorded in earnings.  Actual amounts ultimately
+reclassified to earnings are dependent on the exchange rates in effect when
+derivative contracts outstanding at the transition date mature.
+
+Accounting for Derivatives and Hedging Activities
+
+     The purpose of the Company's foreign currency hedging activities is to
+protect the Company from the risk that the eventual cash flows resulting from
+the sale and purchase of products in foreign currencies will be adversely
+affected by changes in exchange rates. In addition, the Company seeks to
+manage the impact of foreign currency fluctuations related to the repayment of
+intercompany transactions, including intercompany borrowings. The Company does
+not hold or issue derivatives for trading purposes. It is the Company's policy
+to utilize derivatives to reduce foreign exchange risks where internal netting
+strategies cannot be effectively employed. Fluctuations in the value of
+hedging instruments are offset by fluctuations in the value of the underlying
+exposures being hedged.
+
+     Derivatives used by the Company to hedge the risks described above are
+forward exchange contracts, net purchased options and cross-currency swaps.
+These instruments protect against the risk that the eventual net cash inflows
+and outflows from foreign currency denominated transactions will be adversely
+affected by changes in exchange rates. The cross-currency swaps are used to
+hedge foreign currency denominated payments related to intercompany loan
+agreements. Hedged transactions are denominated primarily in European
+currencies, Japanese yen, Australian dollars, Canadian dollars and Korean won.
+The Company hedges up to 100% of anticipated exposures as much as 24 months in
+advance. When intercompany loans are hedged, it is typically for their
+expected duration, which in some circumstances may be in excess of five years.
+
+     All derivatives are recognized on the balance sheet at their fair value.
+Unrealized gain positions are recorded as other current assets or other non-
+current assets. Unrealized loss positions are recorded as accrued liabilities
+or other non-current liabilities.
+
+     Substantially all derivatives entered into by the Company qualify for and
+are designated as foreign-currency cash flow hedges, including those hedging
+foreign currency denominated firm commitments.
+
+     The Company considers whether any provisions in non-derivative contracts
+represent "embedded" derivative instruments as described in FAS 133. For the
+period ended August 31, 2001 the Company has concluded that no "embedded"
+derivative instruments warrant separate fair value accounting under FAS 133.
+
+     Changes in fair values of outstanding derivatives that are highly
+effective are recorded in other comprehensive income, until earnings are
+affected by the variability of cash flows of the hedged transaction. In most
+cases amounts recorded in other comprehensive income will be released to
+earnings after the maturity of the related derivative. The consolidated
+statement of income classification of effective hedge results is the same as
+that of the underlying exposure.
+
+     The Company formally documents all relationships between hedging
+instruments and hedged items, as well as its risk-management objective and
+strategy for undertaking hedge transactions. This process includes linking all
+derivatives that are designated as foreign-currency cash flow hedges to either
+specific assets and liabilities on the balance sheet or specific firm
+commitments or forecasted transactions. The Company also formally assesses,
+both at the hedge's inception and on an ongoing basis, whether the derivatives
+that are used in hedging transactions have been highly effective in offsetting
+changes in the cash flows of hedged items and whether those derivatives may be
+expected to remain highly effective in future periods. When it is determined
+that a derivative is not, or has ceased to be, highly effective as a hedge,
+the Company discontinues hedge accounting prospectively, as discussed below.
+
+     The Company discontinues hedge accounting prospectively when (1) it
+determines that the derivative is no longer highly effective in offsetting
+changes in the cash flows of a hedged item (including hedged items such as
+firm commitments or forecasted transactions); (2) the derivative expires or is
+sold, terminated, or exercised; (3) it is no longer probable that the
+forecasted transaction will occur; or (4) management determines that
+designating the derivative as a hedging instrument is no longer appropriate.
+
+     When the Company discontinues hedge accounting because it is no longer
+probable that the forecasted transaction will occur in the originally expected
+period, the gain or loss on the derivative remains in accumulated other
+comprehensive income and is reclassified into earnings when the forecasted
+transaction affects earnings. However, if it is probable that a forecasted
+transaction will not occur by the end of the originally specified time period
+or within an additional two-month period of time thereafter, the gains and
+losses that were accumulated in other comprehensive income will be recognized
+immediately in earnings. In all situations in which hedge accounting is
+discontinued and the derivative remains outstanding, the Company will carry
+the derivative at its fair value on the balance sheet, recognizing future
+changes in the fair value in current-period earnings.
+
+     Any hedge ineffectiveness is recorded in current-period earnings. In the
+quarter ended August 31, 2001 the Company recorded in other expense an
+insignificant loss representing the total ineffectiveness of all derivatives.
+Effectiveness is assessed based on forward rates.
+
+     Premiums paid on net purchased options are initially recorded as deferred
+charges.  The Company assesses effectiveness on net purchased options based on
+the total cash flows method and records total changes in the options' fair
+value to other comprehensive income to the degree they are effective.
+
+     As of August 31, 2001, $5.7 million of deferred net gains (net of tax) on
+both outstanding and matured derivatives accumulated in other comprehensive
+income are expected to be reclassified to earnings during the next twelve
+months as a result of underlying hedged transactions also being recorded in
+earnings. Actual amounts ultimately reclassified to earnings are dependent on
+the exchange rates in effect when derivatives contracts that are currently
+outstanding mature.  As of August 31, 2001, the maximum term over which the
+Company is hedging exposures to the variability of cash flows for all
+forecasted and recorded transactions is 27 months.
+
+     The Company is exposed to credit-related losses in the event of non-
+performance by counterparties to hedging instruments and does not enter into
+master netting arrangements. The counterparties to derivative transactions are
+major financial institutions with high investment grade credit ratings and,
+additionally, counterparties to derivatives three years or greater are AA or
+better rated. However, this does not eliminate the Company's exposure to
+credit risk with these institutions. This credit risk is generally limited to
+the unrealized gains in such contracts should any of these counterparties fail
+to perform as contracted. To manage this risk, the Company has established
+counterparty credit guidelines that are continually monitored and reported to
+senior management according to prescribed guidelines. The Company utilizes a
+portfolio of financial institutions either headquartered or operating in the
+same countries the Company conducts its business. As a result of the above
+considerations, the Company considers the risk of counterparty default to be
+minimal.
+
+NOTE 3 - Comprehensive Income:
+         ____________________
+
+     Comprehensive income, net of taxes, is as follows:
+
+                                              Three Months Ended
+                                                  August 31,
+                                              __________________
+
+                                               2001        2000
+                                               ____        ____
+
+                                                (in millions)
+
+Net Income                                     $199.2     $210.2
+
+Other Comprehensive Income:
+  Change in cumulative foreign currency
+     translation adjustment                      18.1      (12.7)
+  Change in unrealized gain/loss
+     in securities                                 --       (3.8)
+  Recognition in net income of previously
+     deferred unrealized loss on securities,
+     due to accounting change                     3.4         --
+
+  Changes due to cash flow hedging
+      instruments (Note 2):
+    Initial recognition of net deferred gain
+      as of June 1, due to accounting change     53.4         --
+    Net deferred loss                           (36.3)        --
+    Reclassification to net income of
+      previously deferred net gains              (6.6)        --
+                                               _______     _______
+
+  Net change due to cash flow hedging
+     instruments                                 10.5         --
+                                               _______    _______
+
+Total Comprehensive Income                     $231.2     $193.7
+                                               =======    =======
+
+NOTE 4 - Earnings Per Common Share:
+         _________________________
+
+     The following represents a reconciliation from basic earnings per share
+to diluted earnings per share.  Options to purchase 8.1 million and 9.6 million
+shares of common stock were outstanding at August 31, 2001 and August 31,
+2000, respectively, but were not included in the computation of diluted
+ earnings per share because the options' exercise prices were greater than
+ the average market price of common shares and, therefore, the effect would
+ be antidilutive.
+
+                                          Three Months Ended
+                                             August 31,
+                                          __________________
+
+                                          2001         2000
+                                          ____         ____
+
+                               (in millions, except per share data)
+
+Determination of shares:
+   Average common shares
+     outstanding                          268.6        269.9
+   Assumed conversion of
+     dilutive stock options
+     and awards                             3.0          3.9
+                                         ______       ______
+
+Diluted average common
+   shares outstanding                     271.6        273.8
+                                         ======       ======
+
+Basic earnings per common share:
+   Before cumulative effect of
+     accounting change                     0.76         0.78
+   Cumulative effect of
+     accounting change                     (.02)          --
+                                         _______      _______
+                                         $ 0.74       $ 0.78
+                                         ======       ======
+
+Diluted earnings per common share:
+   Before cumulative effect of
+     accounting change                     0.75         0.77
+   Cumulative effect of
+     accounting change                     (.02)          --
+                                         _______      _______
+                                         $ 0.73       $ 0.77
+                                         =======      =======
+
+NOTE 5 - Inventories:
+         ___________
+
+     Inventories by major classification are as follows:
+
+                                        Aug. 31,      May 31,
+                                          2001         2001
+                                        ________     ________
+
+                                           (in millions)
+                    Finished goods      $1,461.1     $1,399.4
+                    Work-in-progress        17.0         15.1
+                    Raw materials            8.7          9.6
+                                        ________     ________
+
+                                        $1,486.8     $1,424.1
+                                        ========     ========
+
+NOTE 6 - Operating Segments:
+         __________________
+
+     The Company's major operating segments are defined by geographic regions
+for subsidiaries participating in NIKE brand sales activity.  Other as shown
+below represents activity for Cole-Haan Holdings, Inc., Bauer NIKE
+Hockey, Inc., and NIKE IHM, Inc., which are considered immaterial for
+individual disclosure.  Where applicable, "Corporate" represents items
+necessary to reconcile to the consolidated financial statements, which
+generally include corporate activity and corporate eliminations.  The segments
+are evidence of the structure of the Company's internal organization.  Each
+NIKE brand geographic segment operates predominantly in one industry:  the
+design, production, marketing and selling of sports and fitness footwear,
+apparel, and equipment.
+
+     Net revenues as shown below represent sales to external customers for
+each segment.  Intercompany revenues have been eliminated and are immaterial
+for separate disclosure.  The Company evaluates performance of individual
+operating segments based on management pre-tax income.  On a consolidated
+basis, this amount represents Income before income taxes and cumulative effect
+of accounting change as shown in the Condensed Consolidated Statement of
+Income.  Reconciling items for management pre-tax income represent corporate
+costs that are not allocated to the operating segments for management
+reporting and intercompany eliminations for specific income statement items.
+
+     Accounts receivable, inventory, and fixed assets for operating segments
+are regularly reviewed and therefore provided:
+
+
+                                                Three Months Ended
+                                                   August 31,
+                                                __________________
+
+                                                 2001        2000
+                                                 ____        ____
+Net Revenue
+  USA                                          $1,305.1    $1,351.9
+  Europe, Middle East, Africa                     759.0       775.5
+  Asia Pacific                                    263.6       240.5
+  Americas                                        160.1       150.1
+  Other                                           125.9       118.7
+                                               _________   _________
+                                               $2,613.7    $2,636.7
+                                               =========   =========
+
+Management Pre-Tax Income
+  USA                                          $  278.0    $  285.9
+  Europe, Middle East, Africa                     135.9       140.8
+  Asia Pacific                                     49.2        36.7
+  Americas                                         27.0        24.7
+  Other                                             8.1        17.0
+  Corporate                                      (184.0)     (174.1)
+                                               _________   _________
+                                               $  314.2    $  331.0
+                                               =========   =========
+
+                                                Aug. 31,     May 31,
+                                                 2001         2001
+                                               _________   __________
+
+Accounts Receivable, net
+  USA                                          $  608.7    $  622.5
+  Europe, Middle East, Africa                     695.3       512.5
+  Asia Pacific                                    144.4       194.8
+  Americas                                        163.0       144.7
+  Other                                           149.5       118.6
+  Corporate                                        23.2        28.3
+                                               _________   _________
+                                               $1,784.1    $1,621.4
+                                               =========   =========
+
+Inventories, net
+  USA                                          $  767.7    $  744.2
+  Europe, Middle East, Africa                     320.3       298.3
+  Asia Pacific                                    152.7       125.8
+  Americas                                         76.4        72.4
+  Other                                           152.8       156.4
+  Corporate                                        16.9        27.0
+                                               _________   _________
+                                                1,486.8    $1,424.1
+                                               ========    =========
+
+Property, Plant and Equipment, net
+  USA                                          $  257.2    $  263.5
+  Europe, Middle East, Africa                     215.8       208.2
+  Asia Pacific                                    403.4       403.5
+  Americas                                         14.9        15.4
+  Other                                           112.5       113.4
+  Corporate                                       634.8       614.8
+                                               _________   _________
+                                               $1,638.6    $1,618.8
+                                               =========   =========
+
+
+
+NOTE 7 - Commitments and Contingencies:
+         _____________________________
+
+     At August 31, 2001, the Company had letters of credit outstanding
+totaling $777.2 million.  These letters of credit were issued for the
+purchase of inventory.
+
+     There have been no other significant subsequent developments
+relating to the commitments and contingencies reported on the
+Company's most recent Form 10-K.
+
+
+Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS AND
+FINANCIAL CONDITION
+
+Operating Results
+_________________
+
+     Net income was $204.2 million (excluding an after-tax loss of $ 5.0
+million related to the cumulative effect of an accounting change), a 2.9%
+decrease from net income reported in the first quarter of fiscal 2001. Pretax
+income before accounting change declined 5.0%, driven by a 0.9% decrease in
+revenues and a 1.1 point decrease in our gross margin percentage, partially
+offset by a $14.5 million decrease in other expense. Net income declined at a
+lower rate due to a 1.5 point reduction in our effective tax rate.
+
+     The decrease in total company revenues reflected lower sales in the
+United States and the effects of weaker foreign currencies on reported
+international revenues.  NIKE brand revenues in the United States region
+decreased 3.5% as compared to the first quarter of fiscal 2001, while NIKE
+brand revenues in our international regions increased 1.4%.  Had the U.S.
+dollar remained constant with the prior year, these international revenues
+would have increased 10.2% and consolidated revenues would have increased
+3.0%. The decline in the U.S. region reflected a decrease in footwear revenues
+of 7.0%, apparel revenues consistent with that of the prior year, and an
+increase in equipment revenues of 22.0%.  The decline in footwear reflected
+lower demand, particularly in the mid-range price segment, and to a lesser
+extent, supply chain disruptions resulting from the implementation of a new
+global demand and supply planning system.  The supply chain disruptions, which
+began in the third quarter of fiscal 2001, caused late deliveries, which in
+turn led to cancellations during the current quarter.
+
+     Revenues from our international regions represented 45.3% of total
+company revenues compared to 44.2% in the first quarter of fiscal 2001.  In
+the Europe, Middle East, and Africa (EMEA) region, revenues reported in U.S.
+dollars decreased 2.1%, but increased 6.4% in constant dollars.  In our Asia
+Pacific region, reported revenues grew 9.6%, an increase of 22.6% in constant
+dollars.  In our Americas region, reported revenues grew 6.7%, a 9.7% increase
+in constant dollars.
+
+
+The breakdown of revenues follows:
+<TABLE>
+<CAPTION>
+<S>                                                  <C>        <C>      <C>
+                                                          Three Months Ended
+                                                               August 31,
+                                                         ___________________
+                                                                           %
+                                                      2001       2000    change
+                                                     ______     ______   ______
+
+                                                            (in millions)
+U.S.A. REGION
+
+   FOOTWEAR                                           $869.7    $934.9     -7%
+   APPAREL                                             324.3     325.9      -
+   EQUIPMENT AND OTHER                                 111.1      91.1     22%
+                                                     _______   _______
+     TOTAL U.S.A.                                    1,305.1   1,351.9     -3%
+
+EMEA REGION
+
+   FOOTWEAR                                            426.5     424.0      1%
+   APPAREL                                             275.9     296.7     -7%
+   EQUIPMENT AND OTHER                                  56.6      54.8      3%
+                                                     _______   _______
+     TOTAL EMEA                                        759.0     775.5     -2%
+
+ASIA PACIFIC REGION
+
+   FOOTWEAR                                            167.1     152.0     10%
+   APPAREL                                              70.0      64.7      8%
+   EQUIPMENT AND OTHER                                  26.5      23.8     11%
+                                                     _______   _______
+     TOTAL ASIA PACIFIC                                263.6     240.5     10%
+
+AMERICAS REGION
+
+   FOOTWEAR                                             99.1     101.5     -2%
+   APPAREL                                              49.7      42.2     18%
+   EQUIPMENT AND OTHER                                  11.3       6.4     77%
+                                                     _______   _______
+     TOTAL AMERICAS                                    160.1     150.1      7%
+
+                                                     _______   _______
+TOTAL NIKE BRAND                                     2,487.8   2,518.0     -1%
+
+OTHER                                                  125.9     118.7      6%
+
+                                                     _______   _______
+TOTAL REVENUES                                      $2,613.7  $2,636.7     -1%
+                                                    ========  ========
+</TABLE>
+
+     Our gross margin percentage declined 110 basis points, from 40.5% to
+39.4%.  The primary drivers of the decrease were the effect of the weakening
+of the euro against the U.S. dollar, relative to the first quarter of fiscal
+year 2001 and lower margins in U.S. licensed team apparel.
+
+     Selling and administrative expense fell 0.7% as compared to the first
+quarter of fiscal 2001, driven by lower demand creation spending.  In the
+first quarter of last year, we incurred significant expenses for marketing
+related to the 2000 Summer Olympics and the 2000 European Football
+Championships.  Although we expect demand creation spending will increase for
+the full fiscal year, the spending will be focused in the second half of the
+year.  The lower demand creation spending in the current quarter was partially
+offset by increased operational overhead, due in part to the cost of
+additional retail stores this year and investments in our supply chain
+initiative.
+
+     Interest expense in the first quarter of fiscal 2002 dropped from $15.5
+million to $13.0 million, a decline of 15.6%.  The decrease reflected lower
+interest rates and lower average debt levels in the current year as we have
+used operating free cash flow to reduce debt.
+
+     Other expense was $5.5 million in the first quarter of fiscal 2002 versus
+$20.0 million in fiscal 2001.  Significant amounts included in other expense
+were interest income, profit sharing expense, goodwill amortization, and
+certain foreign currency gains and losses.
+
+     Our effective tax rate decreased as compared to the first quarter last
+year, from 36.5% to 35.0%.  The drop was primarily due to lower taxes on a
+portion of foreign earnings that have been permanently reinvested offshore.
+
+Futures Orders
+
+     Worldwide futures and advance orders for NIKE brand athletic footwear and
+apparel scheduled for delivery from September 2001 through January 2002 were
+6% higher than such orders booked in the comparable period of fiscal 2001. The
+percentage growth in these orders is not necessarily indicative of our
+expectation of revenue growth in subsequent periods. This is because the mix
+of orders can shift between advance/futures and at-once orders. In addition,
+exchange rate fluctuations as well as differing levels of order cancellations
+can cause differences in the comparisons between future orders and actual
+revenues. Finally, a significant portion of our revenue is not derived from
+futures orders, including wholesale sales of equipment, U.S. licensed team
+apparel, Bauer NIKE Hockey, and Cole Haan, and retail sales across all
+brands.
+
+     The terrorist attacks of September 11, 2001 and subsequent world events
+have created a significant amount of uncertainty about the future prospects
+for the U.S. and world economies.  The overall effect on the demand for NIKE
+products is also uncertain.  As might be expected, sales in Nike-owned retail
+stores declined significantly in the days immediately following the attacks,
+although in subsequent weeks this business has recovered somewhat from these
+very depressed levels.  Requests for order cancellations have also increased.
+It is still unclear what negative effect all of these events will have on our
+business for the full year.  In the face of this uncertainty, we are
+developing contingency plans, focused particularly on inventory and cost
+management with the goal of reducing the potential impact on earnings.  We
+continue to expect earnings growth for the full fiscal year.
+
+Euro Conversion
+
+     On January 1, 1999, eleven of the fifteen member countries of the
+European Union established permanent, fixed conversion rates between their
+existing currencies and the European Union's new common currency, the euro. In
+January 2001, an additional country, Greece, also established a fixed
+conversion rate to the euro. During the transition period ending December 31,
+2001, public and private parties may pay for goods and services using either
+the euro or the participating country's legacy currency. Beginning January 1,
+2002, euro denominated bills and coins will be issued, and the legacy
+currencies will be completely withdrawn from circulation on June 30, 2002.
+
+     We have had a dedicated project team working on the euro transition
+strategy since January 1998. We have made modifications to information
+technology systems supporting marketing, order management, purchasing,
+invoicing, payroll, and cash management functions, in order to make them euro
+compliant. All major systems have been converted and are euro compliant, well
+ahead of the end of the transitional period.
+
+     We believe the introduction of the euro may create a move towards a
+greater level of wholesale price harmonization, although differing country
+costs and value added tax rates will continue to result in price differences at
+the retail level. Over the past three years, we have been actively working to
+assess and, where necessary, adjust pricing practices to operate effectively in
+this new environment.
+
+     The costs of adapting our systems and practices to the implementation of
+the euro were generally related to the modification of existing systems and
+totaled approximately $8 million. These costs were expensed as incurred,
+primarily in fiscal 2000. We believe that the conversion to the euro will not
+have a material impact on our financial condition or results of operations.
+
+Recently Issued Accounting Standard
+
+     In July 2001, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standard No. 142, "Goodwill and Other Intangible
+Assets" (FAS 142).  Our adoption date will be June 1, 2002. As required by FAS
+142, we will perform an impairment test on goodwill and other intangible
+assets as of the adoption date. Thereafter, we will perform impairment tests
+annually and whenever events or circumstances indicate that the value of
+goodwill or other intangible assets might be impaired. Amortization of
+goodwill and certain other intangible assets, including those recorded in past
+business combinations, will cease.  As a result of the elimination of this
+amortization, other expense will decrease by approximately $13 million
+annually.  We have not yet determined the impact of FAS 142's impairment test
+provisions on our results of operations and financial position.
+
+Liquidity and Capital Resources
+
+     Cash provided by operations was $235.4 million in the first three months
+of fiscal 2002, compared to $175.9 million in the first three months of fiscal
+2001.  Our primary source of operating cash flow was net income of $199.2
+million.  Cash provided by operations increased as compared to last year as
+smaller increases in working capital used less cash.  The increase in working
+capital during the first quarter of last year was due to the timing of certain
+payments and the restructuring of our agreement with NIAC in fiscal 2000.
+
+     Total cash used by investing activities during the first quarter of fiscal
+2002 was $51.8 million, compared to $63.4 million invested during fiscal 2001.
+The decrease reflected lower capital spending on our campus expansion, which
+has been completed, and on our new distribution facilities in Japan, which
+began operating in April 2002.  The most significant capital expenditures
+during the first quarter of fiscal 2002 were related to computer equipment and
+software, driven by our supply chain initiative.
+
+     Net cash used by financing activities in the first quarter of fiscal 2002
+was $90.1 million, versus cash provided by financing activities of $27.6
+million in the first quarter of the prior year.  The biggest use of cash in
+the current quarter was repayment of debt with available free cash flows.
+Additional uses included the payment of dividends to shareholders and the
+repurchase of common shares.
+
+     The share repurchases were part of a $1 billion share repurchase program
+that began in fiscal 2001.  In the first quarter of this fiscal year, we
+purchased approximately 400,000 shares of NIKE's Class B common stock for
+$20.0 million.  We expect to fund the current program from operating free cash
+flow. The timing and the amount of shares purchased will be dictated by our
+capital needs and stock market conditions.
+
+     In August 2001, we issued a $250 million corporate bond, maturing in
+August 2006, with an interest rate of 5.5%.  With the proceeds, we reduced the
+amount of commercial paper outstanding.
+
+     On October 10, 2001, we filed a debt registration statement with the
+Securities and Exchange Commission for $1 billion.  The Company had $250
+million remaining under our shelf registration statement filed in April 1999,
+which was incorporated into the new $1 billion registration.  We have not
+issued any debt under the new registration statement.
+
+     We currently believe that cash generated by operations, together with
+access to external sources of funds, will be sufficient to meet our operating
+and capital needs.  Significant short and long-term lines of credit are
+maintained with banks, which, along with cash on hand, provide adequate
+operating liquidity.  Liquidity is also provided by our commercial paper
+program, under which there was $449.6 million and $710.0 million outstanding
+at August 31, 2001 and May 31, 2001, respectively.
+
+     At August 31, 2001, letters of credit of $777.2 million were outstanding
+for the purchase of inventories.
+
+     Dividends per share of common stock for the first quarter of fiscal 2002
+remained at $.12 per share, the same level as the previous year.
+
+Item 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     There were no material changes to the disclosure made in the Annual
+Report on Form 10-K for the fiscal year ended May 31, 2001 regarding this
+matter.
+
+Special Note Regarding Forward-Looking Statements
+and Analyst Reports
+
+     Certain written and oral statements, other than purely historical
+information including estimates, projections, statements relating to NIKE's
+business plans, objectives and expected operating results, and the assumptions
+upon which those statements are based, made or incorporated by reference from
+time to time by NIKE or its representatives in this report, other reports,
+filings with the Securities and Exchange Commission, press releases,
+conferences, or otherwise, are "forward-looking statements" within the meaning
+of the Private Securities Litigation Reform Act of 1995 and Section 21E of the
+Securities Exchange Act of 1934. Forward-looking statements include, without
+limitation, any statement that may predict, forecast, indicate, or imply
+future results, performance, or achievements, and may contain the words
+"believe," "anticipate," "expect," "estimate," "project," "will be," "will
+continue," "will likely result," or words or phrases of similar meaning.
+Forward-looking statements involve risks and uncertainties which may cause
+actual results to differ materially from the forward-looking statements. The
+risks and uncertainties are detailed from time to time in reports filed by
+NIKE with the S.E.C., including Forms 8-K, 10-Q, and 10-K, and include, among
+others, the following: international, national and local general economic and
+market conditions; the size and growth of the overall athletic footwear,
+apparel, and equipment markets; intense competition among designers,
+marketers, distributors and sellers of athletic footwear, apparel, and
+equipment for consumers and endorsers; demographic changes; changes in
+consumer preferences; popularity of particular designs, categories of
+products, and sports; seasonal and geographic demand for NIKE products;
+difficulties in anticipating or forecasting changes in consumer preferences,
+consumer demand for NIKE products, and the various market factors described
+above; difficulties in implementing, operating, and maintaining NIKE's
+increasingly complex information systems and controls, including, without
+limitation, the systems related to demand and supply planning, and inventory
+control; fluctuations and difficulty in forecasting operating results,
+including, without limitation, the fact that advance "futures" orders may not
+be indicative of future revenues due to the changing mix of futures and
+at-once orders; the ability of NIKE to sustain, manage or forecast its growth
+and inventories; the size, timing and mix of purchases of NIKE's products; new
+product development and introduction; the ability to secure and protect
+trademarks, patents, and other intellectual property performance and
+reliability of products; customer service; adverse publicity; the loss of
+significant customers or suppliers; dependence on distributors; business
+disruptions; increased costs of freight and transportation to meet delivery
+deadlines; changes in business strategy or development plans; general risks
+associated with doing business outside the United States, including, without
+limitation, exchange rate fluctuations, import duties, tariffs, quotas and
+political and economic instability; changes in government regulations;
+liability and other claims asserted against NIKE; the ability to attract and
+retain qualified personnel; and other factors referenced or incorporated by
+reference in this report and other reports.
+
+     The risks included here are not exhaustive. Other sections of this report
+may include additional factors which could adversely affect NIKE's business
+and financial performance. Moreover, NIKE operates in a very competitive and
+rapidly changing environment. New risk factors emerge from time to time and it
+is not possible for management to predict all such risk factors, nor can it
+assess the impact of all such risk factors on NIKE's business or the extent to
+which any factor, or combination of factors, may cause actual results to
+differ materially from those contained in any forward-looking statements.
+Given these risks and uncertainties, investors should not place undue reliance
+on forward-looking statements as a prediction of actual results.
+
+     Investors should also be aware that while NIKE does, from time to time,
+communicate with securities analysts, it is against NIKE's policy to disclose
+ to them any material non-public information or other confidential commercial
+information. Accordingly, shareholders should not assume that NIKE agrees with
+any statement or report issued by any analyst irrespective of the content of
+the statement or report. Furthermore, NIKE has a policy against issuing or
+confirming financial forecasts or projections issued by others. Thus, to the
+extent that reports issued by securities analysts contain any projections,
+forecasts or opinions, such reports are not the responsibility of NIKE.
+
+
+
+                           Part II - Other Information
+
+ .
+Item 1.   Legal Proceedings:
+
+     There have been no material changes from the information previously
+reported under Item 3 of the Company's Annual Report on Form 10-K for the
+fiscal year ended May 31, 2001.
+
+Item 4.
+
+Submission of Matters to a Vote of Security Holders
+
+     The Company's annual meeting of shareholders was held on September 17,
+2001.  The shareholders elected for the ensuing year all of management's
+nominees for the Board of Directors and ratified the appointment of
+PricewaterhouseCoopers LLP as independent accountants for fiscal 2002.
+
+The voting results are as follows:
+
+Election of Directors
+
+                                       Votes Cast
+                           For          Withheld     Broker
+                                                    Non-Votes
+Directors
+Elected by holders of
+Class A Common Stock:
+
+Ralph D. DeNunzio       96,094,842        -0-           -0-
+Richard K. Donahue      96,094,842        -0-           -0-
+Douglas G. Houser       96,094,842        -0-           -0-
+John E. Jaqua           96,094,842        -0-           -0-
+Philip H. Knight        96,094,842        -0-           -0-
+Charles W. Robinson     96,094,842        -0-           -0-
+A. Michael Spence       96,094,842        -0-           -0-
+John R. Thompson, Jr.   96,094,842        -0-           -0-
+
+Elected by holders of
+Class B Common Stock:
+
+Thomas E. Clarke        132,324,703   13,436,348        -0-
+Jill K. Conway          138,764,029    6,997,022        -0-
+Delbert J. Hayes        140,208,872    5,552,179        -0-
+
+                                                                    Broker
+                             For          Against      Abstain    Non-Votes
+Proposal 2 -
+Approval of the NIKE, Inc.
+Employee Stock Purchase Plan:
+
+Class A and Class B
+Common Stock Voting
+Together                 230,447,852    10,421,498      986,539        -0-
+
+Proposal 3 -
+Shareholder Proposal:
+
+Class A and Class B
+Common Stock Voting
+Together                   8,374,650   196,534,264   12,250,744        -0-
+
+Proposal 4 -
+Ratify the appointment
+of PricewaterhouseCoopers LLP
+as independent accountants:
+
+Class A and Class B
+Common Stock Voting
+Together                 238,724,098     2,281,966      849,829        -0-
+
+Item 6.   Exhibits and Reports on Form 8-K:
+
+   (a)  EXHIBITS:
+
+   3.1  Restated Articles of Incorporation, as amended (incorporated by
+        reference from Exhibit 3.1 to the Company's Quarterly Report on Form
+        10-Q for the fiscal quarter ended August 31, 1995).
+
+   3.2  Third Restated Bylaws, as amended (incorporated by reference from
+        Exhibit 3.2 to the Company's Quarterly Report on Form 10-Q for the
+        fiscal quarter ended August 31, 1995).
+
+   4.1  Restated Articles of Incorporation, as amended (see Exhibit 3.1).
+
+   4.2  Third Restated Bylaws, as amended (see Exhibit 3.2).
+
+   4.3  Indenture between the Company and The First National Bank of Chicago,
+        as Trustee (incorporated by reference from Exhibit 4.01 to Amendment
+        No. 1 to Registration Statement No. 333-15953 filed by the Company on
+        November 26, 1996).
+
+  10.1  Credit Agreement dated as of November 17, 2000 among NIKE, Inc., Bank
+        of America, N.A., individually and as Agent, and the other banks party
+        thereto (incorporated by reference from Exhibit 10.1 to the Company's
+        Quarterly Report on Form 10-Q for the fiscal quarter ended November
+        30, 2000).
+
+  10.2  Form of non-employee director Stock Option Agreement (incorporated
+        by reference from Exhibit 10.2 to the Company's Quarterly Report on
+        Form 10-Q for the fiscal quarter ended November 30, 2000).*
+
+  10.3  Form of Indemnity Agreement entered into between the Company and each
+        of its officers and directors (incorporated by reference from the
+        Company's definitive proxy statement filed in connection with its
+        annual meeting of shareholders held on September 21, 1987).
+
+  10.4  NIKE, Inc. 1990 Stock Incentive Plan (incorporated by reference from
+        the Company's definitive proxy statement filed in connection with its
+        annual meeting of shareholders held on September 18, 2000).*
+
+  10.5  NIKE, Inc. Executive Performance Sharing Plan (incorporated by
+        reference from the Company's definitive proxy statement filed in
+        connection with its annual meeting of shareholders held on September
+        18, 2000).*
+
+  10.6  NIKE, Inc. Long-Term Incentive Plan (incorporated by reference from
+        the Company's definitive proxy statement filed in connection with its
+        annual meeting of shareholders held on September 22, 1997).*
+
+  10.7  Collateral Assignment Split-Dollar Agreement between NIKE, Inc. and
+        Philip H. Knight dated March 10, 1994 (incorporated by reference from
+        Exhibit 10.7 to the Company's Annual Report on Form 10-K for the
+        fiscal year ended May 31, 1994).*
+
+  10.8  Covenant Not To Compete And Non-Disclosure Agreement between NIKE, Inc.
+        and Thomas E. Clarke dated August 31, 1994.*
+
+  10.9  Covenant Not To Compete And Non-Disclosure Agreement between NIKE, Inc.
+        and Mark G. Parker dated October 6, 1994.*
+
+ 10.10  NIKE, Inc. Deferred Compensation Plan dated January 1, 2000.*
+
+  12.1  Computation of Ratio of Earnings to Charges.
+
+ * Management contract or compensatory plan or arrangement.
+
+  (b) Reports on Form 8-K:
+
+There were no reports on Form 8-K filed during the fiscal quarter ending August
+31, 2001.
+
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+                              NIKE, Inc.
+                              An Oregon Corporation
+
+                              BY:/s/ Donald W. Blair
+                                 ________________________
+
+                                 Donald W. Blair
+                                 Chief Financial Officer
+
+
+DATED:  October 15, 2001
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.8
+<SEQUENCE>3
+<FILENAME>ex10_8.txt
+<DESCRIPTION>NON COMPETE AGREEMENT
+<TEXT>
+                          COVENANT NOT TO COMPETE
+                       AND NON-DISCLOSURE AGREEMENT
+
+PARTIES:
+
+          Thomas E. Clarke (EMPLOYEE)
+
+          NIKE, Inc., an Oregon corporation, and its divisions,
+          subsidiaries and affiliates (NIKE)
+
+DATE: August 31, 1994
+
+RECITALS:
+
+          A.     This Covenant Not to Compete is executed upon the
+EMPLOYEE's advancement to the position of President and nomination to
+the Board of Directors of NIKE.
+
+          B.     Over the course of EMPLOYEE's employment with NIKE,
+EMPLOYEE will be or has been exposed to and/or in a position to
+generate confidential information including but not limited to
+confidential techniques, methods, styles, designs and design concepts,
+developments, customer lists, vendor lists, contract factory lists,
+pricing information, manufacturing plans, business plans, marketing
+plans, sales information, methods of operation, knowledge and data
+relating to processes, products, machines, compounds and compositions,
+formulae, lasts and molds.  It is anticipated that EMPLOYEE will
+continue to be exposed to confidential information, will be exposed to
+more confidential information and to confidential information of
+greater sensitivity as EMPLOYEE advances in the company.  This
+confidential information is information peculiar to NIKE's business.
+The nature of NIKE's business is highly competitive and disclosure of
+any confidential information would result in severe damage to NIKE and
+be difficult to measure.
+
+          C.     NIKE makes use of the confidential information
+described in paragraph B above throughout the world.  This confidential
+information of NIKE can be used to NIKE's detriment anywhere in the
+world.
+
+          D.     The provisions of this Covenant Not to Compete and
+Non-Disclosure Agreement are a condition of EMPLOYEE's employment
+advancement with NIKE.
+
+          E.     The provisions of this Covenant Not to Compete and
+Non-Disclosure Agreement are reasonable.
+
+AGREEMENTS:
+
+          1.     COVENANT NOT TO COMPETE.     During the period of time
+EMPLOYEE is employed by NIKE, under the terms of any employment
+contract or otherwise, and for one (1) year thereafter, EMPLOYEE will
+not directly or indirectly, own, manage, operate, join, control, or
+participate in the ownership, management, operation or control of, or
+be employed by or connected in any manner with, any business engaged
+anywhere in the world in the athletic footwear business, athletic
+apparel business, or any other business which directly competes with
+NIKE or any of its subsidiaries or affiliated corporations.  This
+provision is (a) subject to NIKE's option to waive all or any portion
+of the one (1) year time period of non-competition following
+termination more specifically provided for in paragraph 2; and (b)
+subject to NIKE's option to specifically identify, at the time of
+termination, those businesses which EMPLOYEE may not be employed by or
+connected with for the period of non-competition.  NIKE agrees to act
+in good faith in its exercise of the above-noted options.
+
+          2.     ADDITIONAL CONSIDERATION.
+
+                 a.     As additional consideration for the covenant
+not to compete described in paragraph 1 above, it is agreed that:
+
+                          (i)     If EMPLOYEE voluntarily leaves the
+employ of NIKE, NIKE shall pay EMPLOYEE a monthly payment equal to one-
+half (1/2) of EMPLOYEE's last monthly salary for the one (1) year
+period after termination of employment, payable on the first day of
+each month, or
+
+                          (ii)     If EMPLOYEE is involuntarily
+terminated, NIKE shall pay EMPLOYEE a monthly payment equal to
+EMPLOYEE's last monthly salary for the one (1) year period after
+termination of employment, payable on the first day of each month.
+
+                 b.     NIKE has the option, for whatever reason, to
+elect to waive all or a portion of the one (1) year period of non-
+competition following termination, by giving EMPLOYEE written notice of
+such election not less than 30 (thirty) days prior to the effective
+date of the waiver.  In that event, NIKE shall not be obligated to pay
+EMPLOYEE under this paragraph for any months as to which the covenant
+not to compete has been waived.
+
+          3.     LESSER RESTRICTIONS.     Should any of the terms of
+paragraphs 1 and 2 above be found unreasonable or invalid by any court
+of competent jurisdiction, the parties agree to accept as binding, in
+lieu thereof, the maximum terms enforceable by law.
+
+          4.     EXTENSION OF TIME.     The covenant not to compete
+described in paragraphs 1, 2 and 3 above shall be extended by a time
+period equal to any time consumed in enforcement of the obligations
+hereunder during which EMPLOYEE engaged in activities violating the
+covenant not to compete.
+
+          5.     NON-DISCLOSURE AGREEMENT.     During the period of
+employment by NIKE and forever thereafter, EMPLOYEE will hold in
+confidence all information of a confidential nature, including but not
+limited to the information described in Recital "B", (all of which
+information of a confidential nature shall hereinafter be referred to
+as "confidential information") and will not, at any time, directly or
+indirectly, use any confidential information for any purpose outside
+the scope of EMPLOYEE's employment with NIKE or disclose any
+confidential information to any person or organization without the
+prior written consent of NIKE.  Specifically, but not by way of
+limitation, EMPLOYEE shall not ever copy, transmit, reproduce,
+summarize, quote, publish or make any commercial or other use
+whatsoever of any confidential information without the prior written
+consent of NIKE.
+
+          6.     RETURN OF CONFIDENTIAL INFORMATION.     Upon
+termination and upon written request by NIKE at any time, EMPLOYEE
+shall return to NIKE all documents, records, notebooks and other
+similar repositories of or containing confidential information,
+including all copies thereof, then in EMPLOYEE's possession, whether
+prepared by EMPLOYEE or others, and deliver to NIKE any and all other
+confidential information, in whatever form, that may be in EMPLOYEE's
+possession or under EMPLOYEE's control.
+
+          7.     UNAUTHORIZED USE.     During the period of employment
+with NIKE and thereafter, EMPLOYEE shall notify NIKE immediately of the
+unauthorized possession, use or knowledge of any confidential
+information by any person employed or not employed by NIKE at the time
+of such possession, use or knowledge.  EMPLOYEE shall promptly furnish
+details of such possession, use or knowledge to NIKE, will assist in
+preventing the reoccurrence of such possession, use or knowledge, and
+shall cooperate with NIKE in any litigation against third parties
+deemed necessary by NIKE to protect the confidential information.
+EMPLOYEE's compliance with this paragraph shall not be construed in any
+way as a waiver of any of NIKE's rights or remedies against EMPLOYEE
+arising out of or related to such unauthorized possession, use or
+knowledge.
+
+          8.     INJUNCTIVE RELIEF.     The remedy at law for any
+breach of this Covenant Not to Compete and Non-Disclosure Agreement
+will be inadequate.  It is reasonable to require that EMPLOYEE not
+compete with NIKE in order to protect NIKE from unfair use of the
+confidential information.  NIKE shall be entitled to injunctive relief
+in addition to any other remedy it may have.  A breach of this Covenant
+Not to Compete and Non-Disclosure Agreement during the period of
+EMPLOYEE'S employment with NIKE shall be considered a breach of the
+terms of that employment and NIKE shall have the right to terminate
+EMPLOYEE's employment in addition to any other rights or remedies NIKE
+may have.
+
+          9.     WAIVER, AMENDMENT, MODIFICATION OR CANCELLATION.    No
+waiver, amendment, modification or cancellation of any term or
+condition of this Covenant Not to Compete and Non-Disclosure Agreement
+shall be effective unless executed in writing by the party charged
+therewith.  No written waiver shall excuse the performance of any act
+other than the act or acts specifically referred to therein.
+
+          10.    APPLICABLE LAW/JURISDICTION/VENUE.     This Covenant
+Not to Compete and Non-Disclosure Agreement, and EMPLOYEE's employment
+hereunder, shall be construed according to the laws of the state of
+Oregon and EMPLOYEE hereby submits to the jurisdiction of the courts of
+the state of Oregon and waives application of any foreign law relating
+to this Agreement and EMPLOYEE's employment by NIKE.  Any suit or
+action of any kind relating to this Agreement or the subject matter
+hereof shall be brought in a court located in Washington County,
+Oregon.
+
+EMPLOYEE                                   NIKE, Inc.
+
+By: /s/ Thomas E. Clarke                   By: /s/ Philip H. Knight
+__________________________                 __________________________
+Name:  Thomas E. Clarke                    Name:  Philip H. Knight
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.9
+<SEQUENCE>4
+<FILENAME>ex10_9.txt
+<DESCRIPTION>NON COMPETE AGREEMENT
+<TEXT>
+                         COVENANT NOT TO COMPETE
+                       AND NON-DISCLOSURE AGREEMENT
+
+
+PARTIES:
+
+          Mark G. Parker (EMPLOYEE)
+
+          NIKE, Inc., an Oregon corporation, and its divisions,
+          subsidiaries and affiliates (NIKE)
+
+DATE: October 6, 1994
+
+RECITALS:
+
+          A.     This Covenant Not to Compete is executed upon the
+EMPLOYEE's assumption of additional responsibilities for worldwide
+marketing and development activities of NIKE.
+
+          B.     Over the course of EMPLOYEE's employment with NIKE,
+EMPLOYEE will be or has been exposed to and/or in a position to
+generate confidential information including but not limited to
+confidential techniques, methods, styles, designs and design concepts,
+developments, customer lists, vendor lists, contract factory lists,
+pricing information, manufacturing plans, business plans, marketing
+plans, sales information, methods of operation, knowledge and data
+relating to processes, products, machines, compounds and compositions,
+formulae, lasts and molds.  It is anticipated that EMPLOYEE will
+continue to be exposed to confidential information, will be exposed to
+more confidential information and to confidential information of
+greater sensitivity as EMPLOYEE advances in the company.  This
+confidential information is information peculiar to NIKE's business.
+The nature of NIKE's business is highly competitive and disclosure of
+any confidential information would result in severe damage to NIKE and
+be difficult to measure.
+
+          C.     NIKE makes use of the confidential information
+described in paragraph B above throughout the world.  This confidential
+information of NIKE can be used to NIKE's detriment anywhere in the
+world.
+
+          D.     The provisions of this Covenant Not to Compete and
+Non-Disclosure Agreement are a condition of EMPLOYEE's employment
+advancement with NIKE.
+
+          E.     The provisions of this Covenant Not to Compete and
+Non-Disclosure Agreement are reasonable.
+
+
+AGREEMENTS:
+
+          1.     COVENANT NOT TO COMPETE.  During the period of time
+EMPLOYEE is employed by NIKE, under the terms of any employment
+contract or otherwise, and for one (1) year thereafter, EMPLOYEE will
+not directly or indirectly, own, manage, operate, join, control, or
+participate in the ownership, management, operation or control of, or
+be employed by or connected in any manner with, any business engaged
+anywhere in the world in the athletic footwear business, athletic
+apparel business, or any other business which directly competes with
+NIKE or any of its subsidiaries or affiliated corporations.  This
+provision is (a) subject to NIKE's option to waive, but only with the
+concurrence of the EMPLOYEE, all or any portion of the one (1) year
+time period of non-competition following termination more specifically
+provided for in paragraph 2; and (b) subject to NIKE's option to
+specifically identify, at the time of termination, those businesses
+which EMPLOYEE may not be employed by or connected with for the period
+of non-competition.  NIKE agrees to act in good faith in its exercise
+of the above-noted options.
+
+          2.     ADDITIONAL CONSIDERATION.
+
+                 a.     As additional consideration for the covenant
+not to compete described in paragraph 1 above, it is agreed that:
+
+                           (i)     If EMPLOYEE voluntarily leaves the
+employ of NIKE at any time during the term hereof, NIKE shall pay
+EMPLOYEE an amount per month equal to one-twenty-fourth (1/24) of
+EMPLOYEE's then current "Annual NIKE Income" (defined herein to mean
+base salary and bonuses received by EMPLOYEE during the twelve (12)
+month period immediately preceding termination), or $20,833.34 per
+month, whichever is greater, for the one (1) year period of non-
+competition following voluntary termination of employment, payable on
+the first day of each month, or
+
+                           (ii)    If EMPLOYEE is involuntarily
+terminated by NIKE at any time during the term hereof, either with or
+without cause, NIKE shall pay EMPLOYEE an amount per month equal to
+one-twelfth (1/12) of EMPLOYEE's then current Annual NIKE Income, or
+$41,666.67 per month, whichever is greater, for the one (1) year period
+of non-competition following involuntary termination of employment,
+payable on the first day of each month.
+
+                  b.     NIKE may waive all or any portion of the one
+(1) year period of non-competition following termination, subject to
+the following provisions:
+
+                           (i)     At any time during, or prior to the
+commencement of, the one (1) year period, NIKE may tender to EMPLOYEE
+thirty (30) days written notice of its desire to waive all or the then
+remaining portion of the one (1) year period of non-competition.
+Within the thirty (30) day notice period, EMPLOYEE will have the option
+of accepting or rejecting NIKE's tender by advising NIKE in writing of
+EMPLOYEE's election to accept the waiver, in which event EMPLOYEE would
+be free to compete at the end of the thirty (30) day notice period and
+all payments to EMPLOYEE hereunder would cease, or to reject the
+waiver, in which event EMPLOYEE would continue to be prohibited from
+competing for the remaining portion of the one (1) year period of non-
+competition and payments to EMPLOYEE would continue as herein provided.
+
+                           (ii)    However, notwithstanding anything
+contained in subparagraph 2(b)(i) above, if EMPLOYEE is terminated by
+NIKE "for cause" (defined herein to include only continual and repeated
+neglect of duties and dishonesty) NIKE shall have the unqualified right
+to waive, without EMPLOYEE's consent, all or any portion of the one (1)
+year period of non-competition following termination, by giving
+EMPLOYEE written notice of such election not less than thirty (30) days
+prior to the effective date of the waiver.   In that event, NIKE shall
+not be obligated to pay EMPLOYEE hereunder for any months as to which
+the covenant not to compete has been waived.
+
+          3.     LESSER RESTRICTIONS.     Should any of the terms of
+paragraphs 1 and 2 above be found unreasonable or invalid by any court
+of competent jurisdiction, the parties agree to accept as binding, in
+lieu thereof, the maximum terms enforceable by law.
+
+          4.     EXTENSION OF TIME.     The covenant not to compete
+described in paragraphs 1, 2 and 3 above shall be extended by a time
+period equal to any time consumed in enforcement of the obligations
+hereunder during which EMPLOYEE engaged in activities violating the
+covenant not to compete.
+
+          5.     NON-DISCLOSURE AGREEMENT.    During the period of
+employment by NIKE and forever thereafter,  EMPLOYEE will hold in
+confidence all information of a confidential nature, including but not
+limited to the information described in Recital "B", (all of which
+information of a confidential nature shall hereinafter be referred to
+as "confidential information") and will not, any time, directly or
+indirectly, use any confidential information for any purpose outside
+the scope of EMPLOYEE's employment with NIKE or disclose any
+confidential information to any person or organization without the
+prior written consent of NIKE.  Specifically, but not by way of
+limitation, EMPLOYEE shall not ever copy, transmit, reproduce,
+summarize, quote, publish or make any commercial or other use
+whatsoever of any confidential information without the prior written
+consent of NIKE.
+
+          6.     RETURN OF CONFIDENTIAL INFORMATION.     Upon
+termination and upon written request by NIKE at any time, EMPLOYEE
+shall return to NIKE all documents, records, notebooks and other
+similar repositories of or containing confidential information,
+including all copies thereof, then in EMPLOYEE's possession, whether
+prepared by EMPLOYEE or others, and deliver to NIKE any and all other
+confidential information, in whatever form, that may be in EMPLOYEE's
+possession or under EMPLOYEE's control.
+
+          7.     UNAUTHORIZED USE.     During the period of employment
+with NIKE and thereafter, EMPLOYEE shall notify NIKE immediately of the
+unauthorized possession, use or knowledge of any confidential
+information by any person employed or not employed by NIKE at the time
+of such possession, use or knowledge.  EMPLOYEE shall promptly furnish
+details of such possession, use or knowledge to NIKE, will assist in
+preventing the reoccurrence of such possession, use or knowledge, and
+shall cooperate with NIKE in any litigation against third parties
+deemed necessary by NIKE to protect the confidential information.
+EMPLOYEE's compliance with this paragraph shall not be construed in any
+way as a waiver of any of NIKE's rights or remedies against EMPLOYEE
+arising out of or related to such unauthorized possession, use or
+knowledge.
+
+          8.     INJUNCTIVE RELIEF.     The remedy at law for any
+breach of this Covenant Not to Compete and Non-Disclosure Agreement
+will be inadequate.  It is reasonable to require that EMPLOYEE not
+compete with NIKE in order to protect NIKE from unfair use of the
+confidential information.  NIKE shall be entitled to injunctive relief
+in addition to any other remedy it may have.  A breach of this Covenant
+Not to Compete and Non-Disclosure Agreement during the period of
+EMPLOYEE's employment in addition to any other rights or remedies NIKE
+may have.
+
+          9.     WAIVER, AMENDMENT, MODIFICATION OR CANCELLATION.  No
+waiver, amendment, modification or cancellation of any term or
+condition of this Covenant Not to Compete and Non-Disclosure Agreement
+shall be effective unless executed in writing by the party charged
+therewith.  No written waiver shall excuse the performance of any act
+other than the act or acts specifically referred to therein.
+
+          10.    APPLICABLE LAW/JURISDICTION/VENUE.     This Covenant
+Not to Compete and Non-Disclosure Agreement, and EMPLOYEE's employment
+hereunder, shall be construed according to the laws of the state of
+Oregon and EMPLOYEE hereby submits to the jurisdiction of the courts of
+the state of Oregon and waives application of any foreign law relating
+to this Agreement and EMPLOYEE's employment by NIKE.  Any suit or
+action of any kind relating to this Agreement or the subject matter
+hereof shall be brought in a court located in Washington County,
+Oregon.
+
+EMPLOYEE                               NIKE, Inc.
+
+By: /s/ Mark G. Parker                 By: /s/ Philip H. Knight
+_______________________                _________________________
+Name: Mark G. Parker                   Name: Philip H. Knight
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.10
+<SEQUENCE>5
+<FILENAME>ex10_10.txt
+<DESCRIPTION>NIKE, INC. DEFERRED COMPENSATION PLAN
+<TEXT>
+                               NIKE, INC.
+                        DEFERRED COMPENSATION PLAN
+        (as Amended and Restated Effective as of January 1, 2000)
+
+     This Plan is amended and restated effective as of January 1, 2000 by
+NIKE, Inc. (the "Company"), acting on behalf of itself and its designated
+subsidiaries.  Throughout, the term "Company" shall include wherever
+relevant any entity that is directly or indirectly controlled by the
+Company or any entity in which the Company has a significant equity or
+investment interest, as determined by the Company.
+                                 RECITALS
+     1.   The Company adopted the Supplemental Executive Savings Plan
+effective February 1, 1994 (the "SESP").  The SESP was adopted to provide
+an opportunity for eligible employees to set aside additional amounts for
+retirement on a tax deferred basis and to provide a limited make-up of
+profit sharing contributions lost as a result of the limit on
+compensation under Section 401(a)(17) of the Internal Revenue Code of
+1986 (the "Code") under the Company's 401(k) Savings and Profit Sharing
+Plan for employees of NIKE, Inc. (the "Profit Sharing Plan").  The SESP
+is a nonqualified deferred compensation plan for the benefit of a select
+group of management or highly-compensated employees of the Company.
+     2.   The Company adopted the Supplemental Executive Profit Sharing
+Plan effective as of June 1, 1995 (the "SEPSP") to expand the make-up of
+profit sharing contributions lost under the Profit Sharing Plan and to
+separate the restoration provisions from the elective deferral provisions
+of the SESP.
+     3.   Effective as of January 1, 1998, the Company combined the SEPSP
+and the SESP and made certain other changes.  The resulting plan was
+renamed the NIKE, Inc. Deferred Compensation Plan (the "Plan").  The
+Company now wishes to again amend and restate the Plan, effective as of
+January 1, 2000.
+     4.   Under the Plan, the Company is obligated to pay vested accrued
+benefits to Plan Participants and their Beneficiary or Beneficiaries from
+the Company's general assets.
+     5.   In connection with the Plan, the Company is party to an
+agreement (the "Trust Agreement") with Northern Trust Company as trustee
+(the "Trustee") under an irrevocable trust (the "Trust").
+     6.   The Company intends to make contributions to the Trust so that
+such contributions will be held by the Trustee and invested, reinvested
+and distributed, all in accordance with the provisions of this Plan and
+the Trust Agreement.
+     7.   The Company intends that amounts contributed to the Trust and
+the earnings thereon shall be used by the Trustee if necessary to satisfy
+the liabilities of the Company under the Plan with respect to each Plan
+participant for whom an Account has been established and such utilization
+shall be in accordance with the procedures set forth herein.
+     8.   The Company intends that the Trust be a "grantor trust" with
+the principal and income of the Trust treated as assets and income of the
+Company for federal and state income tax purposes.
+     9.   The Company intends that the assets of the Trust shall at all
+times be subject to the claims of the general creditors of the Company as
+provided in the Trust Agreement.
+    10.   The Company intends that the existence of the Trust shall not
+alter the characterization of the Plan as "unfunded" for purposes of the
+Employee Retirement Income Security Act of 1974, as amended ("ERISA"),
+and shall not be construed to provide income to Plan participants under
+the Plan prior to actual payment of the vested accrued benefits
+thereunder.
+     NOW THEREFORE, the Company does hereby adopt this amended and
+restated Plan as follows and does also hereby agree that the Plan shall
+be structured, held and disposed of as follows:
+
+
+                                ARTICLE I
+
+                          TITLE AND DEFINITIONS
+
+    1.1   Title
+
+          This Plan shall be known as the NIKE, Inc. Deferred
+Compensation Plan.
+
+    1.2   Definitions
+
+          Whenever the following words and phrases are used in this Plan,
+with the first letter capitalized, they shall have the meanings specified
+below.
+
+          "Account" means for each Participant the bookkeeping account
+maintained by the Committee that is credited with amounts equal to (1)
+the portion of the Participant's Salary that he or she elects to defer,
+(2) the portion of the Participant's Bonus that he or she elects to
+defer, (3) the portion of the Participant's Commissions that he or she
+elects to defer, (4) the portion of the Participant's Fees that he or she
+elects to defer, (5) Company contributions, if any, made to the Plan for
+the Participant's benefit, and (6) adjustments to reflect deemed earnings
+pursuant to Section 4.1(d).
+
+          "Actuarial Equivalent" means the actuarial present value
+determined by the actuary appointed by the Company, in accordance with
+generally accepted actuarial principles, with a discount for mortality
+using the 1983 Group Annuity Mortality Table and a discount for interest at
+the 30-year Treasury rate for July 1999 (5.98%).
+
+          "Beneficiary" or "Beneficiaries" means the beneficiary last
+designated in writing by a Participant in accordance with procedures
+established by the Committee to receive the benefits specified hereunder
+in the event of the Participant's death.  No Beneficiary designation
+shall become effective until it is filed with the Committee during the
+Participant's lifetime.
+
+          "Board of Directors" or "Board" means the Board of Directors of
+the Company.
+
+          "Bonus" means any cash-based incentive compensation (other than
+Commissions) that is payable to a Participant in addition to the
+Participant's Salary.
+
+          "Change of Control" means any of the following:
+
+          (a)   The purchase or other acquisition by any person, entity
+or group of persons, within the  meaning of Section 13(d) or 14(d) of the
+Securities Exchange Act of 1934, as amended (the "Act"), or any
+comparable successor provisions, of beneficial ownership (within the
+meaning of Rule 13d-3 promulgated under the Act) of forty percent or more
+of either the outstanding shares of Class A and Class B common stock or
+the combined voting power of the Company's then outstanding voting
+securities entitled to vote generally;
+
+          (b)   The approval by the stockholders of the Company of a
+reorganization, merger, or consolidation with respect to which persons
+who were stockholders of the Company immediately prior to such
+reorganization, merger or consolidation do not, immediately thereafter,
+own more than fifty percent of the combined voting power entitled to vote
+generally in the election of directors of the reorganized, merged or
+consolidated Company's then-outstanding securities;
+
+          (c)   A liquidation or dissolution of the Company; or
+
+          (d)  A sale of all or substantially all of the Company's
+assets.
+
+          "Code" means the Internal Revenue Code of 1986, as amended.
+
+          "Commissions" mean any cash-based commission compensation
+payable to a Participant.
+
+          "Committee" means the Committee appointed by the Board to
+administer the Plan in accordance with Article VIII.  Unless specified
+otherwise by the Board, the "Committee" shall mean the Retirement
+Committee established under the Profit Sharing Plan.
+
+          "Company" means NIKE, Inc., any successor corporation and any
+entity that is directly or indirectly controlled by the Company or any
+entity in which the Company has a significant equity or investment
+interest, as determined by the Company.
+
+          "Company Stock" means NIKE, Inc. Class B Common stock.
+
+          "Compensation" means the Bonus, Commissions, Fees and Salary
+that the Participant earns for services rendered to the Company.
+
+          "Consultant" means any person, including an advisor but
+excluding Directors, engaged by the Company to render services to the
+Company and designated by the Committee as eligible to participate in the
+Plan.
+
+          "Director" means a non-employee member of the Board.
+
+          "Director's 1999 Transition Retirement Benefit" means the
+Actuarial Equivalent of the Director's Retirement Annuity as determined on
+September 1, 1999, divided by the fair market value of Company stock on
+September 1, 1999, and stated in units representing shares of Company
+Stock.
+
+          "Director's Retirement Annuity" means the projected annual
+retirement benefit payable to a Retired Director in the amount of eighteen
+thousand dollars ($18,000), reduced proportionately for each year of
+service completed as a Director less than ten (but with no benefit if five
+or fewer years of service).
+
+          "Disability" means a Participant's long-term disability as
+defined in the Company's long-term disability plan for employees.
+
+          "Distributable Amount" means the amount credited to a
+Participant's Account.
+
+          "Distribution Event" means, with respect to each Participant,
+the Participant's termination of Service for any reason, including
+Retirement, death or Disability, or, if specified by the Participant, a
+specific date.  A Participant's Distribution Event election shall be made
+in writing at such time, on such form and subject to such terms and
+conditions as the Committee may specify.
+
+          "Eligible Employee" means any Employee who is designated in
+writing as eligible to participate in the Plan by the Committee from
+among a select group of management or highly-compensated Employees of the
+Company.
+
+          "Employee" means a common law employee of the Company
+performing services regularly in the United States or, if not performing
+services regularly in the United States, a common law employee of the
+Company who is on U.S. payroll and participating in a Company-sponsored
+Global Transfer Program.
+
+          "Fees" means, (i) in the case of non-employee members of the
+Board, annual cash fees paid by the Company, including retainer fees,
+committee fees and meeting fees, paid by the Company as compensation for
+serving on the Board, and (ii) in the case of any other non-employee
+service provider, the cash fees paid to such individual for services
+rendered to the Company.
+
+          "Fund" or "Funds" means one or more of the investment funds
+selected by the Committee pursuant to Section 3.3.
+
+          "Initial Election Period" means the 30-day period following the
+Eligible Employee's date of hire (or appointment to the Board or
+commencement of services as a Consultant, as applicable) or, if later,
+upon first becoming an Eligible Employee, Director or Consultant.
+
+          "Investment Return" means, for each Fund, an amount equal to
+the pre-tax rate of gain or loss on the assets of such Fund (net of
+applicable fund and investment charges) during each valuation period, but
+not less frequently than monthly.
+
+          "Participant" means any Consultant, Director or Eligible
+Employee who elects to defer Compensation in accordance with Section 3.1.
+
+          "Payment Commencement Date" means (i) in the case of a
+Participant's Retirement, on or before January 31 following the Plan Year
+of the Participant's Retirement, (ii) in the case of any other
+Distribution Event, as soon as administratively possible thereafter.
+
+          "Plan" means the NIKE, Inc. Deferred Compensation Plan set
+forth herein, now in effect, or as amended from time to time.
+
+          "Plan Year" means the calendar year.
+
+          "Predecessor Plans" means the NIKE, Inc. Supplemental Executive
+Savings Plan and the NIKE, Inc. Supplemental Executive Profit Sharing
+Plan.
+
+          "Profit Sharing Plan" means the 401(k) Savings and Profit
+Sharing Plan for Employees of NIKE, Inc.
+
+          "Retired Director" or "Director's Retirement" means the cessation
+of a Director's services on the Board on or after age 65 with ten (10)
+years of service, but no later than age 72 if the Director commenced
+service as a Director after the Company's 1993 fiscal year.
+
+          "Retirement" means the Participant's resignation if at the time
+thereof the Participant has completed at least five Years of Service with
+the Company.  For this purpose, "Years of Service" are measured based on
+credited years of vesting service under the Profit Sharing Plan.
+
+          "Salary" means the Employee's base salary for the Plan Year.
+Salary excludes any other form of compensation such as  restricted stock,
+proceeds from stock options or stock appreciation rights, severance
+payments, moving expenses, car or other special allowance, adjustments
+for overseas employment other than the 12.5% transfer premium, or any
+other amounts included in an Eligible Employee's taxable income that is
+not compensation for services.  Deferral elections shall be computed
+before taking into account any reduction in taxable income by salary
+reduction under Code Sections 125 or 401(k), or under this Plan.
+
+          "Service" means service with the Company as an Employee,
+Director or Consultant.
+
+                               ARTICLE II
+
+                              PARTICIPATION
+
+    2.1   Participation
+
+          An Eligible Employee, Director or Consultant shall become a
+Participant in the Plan by electing to defer a portion of his or her
+Compensation in accordance with Section 3.1.
+
+
+                                ARTICLE III
+
+                           DEFERRAL ELECTIONS
+
+    3.1   Elections to Defer Compensation
+
+
+          (a)   Initial Election Period.  Each Eligible Employee,
+Director or Consultant may elect to defer Compensation by filing an
+election with the Committee that conforms to the requirements of this
+Section 3.1, on a form provided by the Committee, no later than the last
+day of his or her Initial Election Period.  Deferral Elections filed with
+respect to the 1998 Plan Year shall supersede any and all prior deferral
+elections made in connection with the Predecessor Plans.
+
+          (b)   General Rule.  The amount of Compensation that an
+Eligible Employee, Director or Consultant may elect to defer is as
+follows:
+
+                (1)   Any whole percentage of Salary up to 100%;
+
+                (2)   Any whole percentage of Bonus up to 100%;
+
+                (3)   Any whole percentage of Commissions up to 100%;
+                (4)   Any whole percentage of Fees up to 100%;
+provided, however, that no election shall be effective to reduce the
+Compensation paid to an Eligible Employee to an amount that is less than
+the amount necessary to pay applicable employment taxes (e.g., FICA,
+hospital insurance) payable with respect to amounts deferred hereunder,
+amounts necessary to satisfy any other benefit plan withholding
+obligations, any resulting income taxes payable with respect to
+Compensation that cannot be so deferred, and any amounts necessary to
+satisfy any wage garnishment or similar type obligations.
+
+          (c)   Minimum Deferrals.  For each full Plan Year during which
+the Eligible Employee is a Participant, the minimum dollar amount that
+may be deferred under this Section 3.1 is $5,000 ($1,000 in the case of
+Directors and Consultants).
+
+          (d)   Effect of Initial Election.  An election to defer Salary,
+Commissions or Fees made during an Initial Election Period shall be
+effective as to Salary and Commissions earned beginning with the first
+pay period beginning after the Initial Election Period.  Employees who
+first became Eligible Employees during a Plan Year may make an election
+to defer Bonuses payable in subsequent Plan Years by making deferral
+elections in accordance with subsections 3.1(e) and (f).
+
+          (e) Duration of Deferral Election.  A Compensation deferral
+election made under paragraph (a) or paragraph (f) of this Section 3.1
+shall remain in effect, notwithstanding any change in the Participant's
+Compensation until modified or terminated as provided herein.  A
+Participant may irrevocably elect at any time to reduce the percentage to
+be deferred from Salary or Fees earned in the remainder of the Plan Year
+to zero.  Subject to the minimum deferral requirement of subsection (c)
+of this Section, the percentage of Salary, Commissions and Fees
+designated by the Participant for deferral may be modified by filing a
+new election, in accordance with the terms of this Section, with the
+Committee not later than December 15 of the year immediately preceding
+the beginning of the Plan Year for which the election shall be in effect.
+A Participant's deferral election shall terminate with respect to future
+Compensation upon the Participant ceasing to be an Eligible Employee,
+Director or Consultant.
+
+          (f)  Elections Other Than Elections During the Initial Election
+Period.  Any Eligible Employee, Director or Consultant who fails to elect
+to defer Compensation during his or her Initial Election Period may
+subsequently become a Participant by filing an election, on a form
+provided by the Committee, to defer Compensation as described in
+paragraph (b) above.  An election to defer Compensation must be filed no
+later than December 15 (or such earlier date as the Committee may
+establish) and will be effective for Salary, Commissions and Fees earned
+beginning with the first pay period beginning on and after the beginning
+of the next succeeding Plan Year and any Bonus payable in the next
+succeeding Plan Year.
+
+          (g)  Director's 1999 Transition Election.  Any Director as of
+September 1, 1999, shall have made an election on or before September 24,
+1999, to either remain eligible for the Director's Retirement Annuity or
+elect to convert such annuity to the Director's 1999 Transition
+Retirement Benefit, in either case such benefit not payable until the
+Director's Retirement.  In the event an electing Director converted the
+Director's Retirement Annuity, such election shall be irrevocable and
+paid as provided herein.
+
+    3.2   Company Contributions
+
+
+          (a)  Eligibility. An Eligible Employee who qualifies for a
+contribution for a Plan Year under the Profit Sharing Plan shall be
+eligible for a Company contribution under this Plan for such Plan Year if
+they either (i) make a Deferral Election under 3.1 for the Plan Year, or
+(ii) receive compensation under the Profit Sharing Plan exceeding the
+Internal Revenue Code Section 401(a)(17) limit of $150,000 (as indexed)
+for its Plan Year, or both.
+
+          (b)  Company Contribution. An Eligible Employee who is eligible
+under subsection 3.2(a) shall be credited with a "Restoration Amount" for
+each Plan Year.  "Restoration Amount" means the amount by which the
+Eligible Employee's allocated share of the "Profit Sharing Contribution"
+(as defined in the Profit Sharing Plan) for the corresponding Profit
+Sharing Plan Year (ending with or within the Plan Year) would be higher
+if calculated on the basis of Compensation as defined under this Plan and
+determined (i) before any reduction for deferral of compensation under
+this Plan, and (ii) without regard to the Internal Revenue Code Section
+401(a)(17) limit).".
+
+          (c)  Discretionary Company Contributions.  In addition to
+Company contributions in accordance with Section 3.2(b), the Company may,
+in its sole discretion, make discretionary contributions to the Accounts
+of one or more Participants at such times and in such amounts as the
+Board or the Committee may determine.
+
+          (d)  Director's Retirement Contribution.  In addition to any
+Company contributions made in accordance with 3.2 (a)-(c), the Company
+shall credit to the Accounts of any electing Director the number of
+shares of Company Stock equivalent to the electing Director's 1999
+Transition Retirement Benefit.  The Company may contribute such shares
+corresponding to the total of all electing Director's benefits, at such
+time and in such amount as the Board or the Committee may determine,
+provided that any shares so contributed shall remain in the name of the
+Company (or any trust established by the Company for this purpose), and
+shall be its sole property in which no electing Director shall have any
+interest.
+
+    3.3   Investment Elections.
+
+
+          (a)  Hypothetical Investment Funds.  The Committee may, in its
+discretion, provide each Participant with a list of investment Funds
+available for hypothetical investment, and the Participant may designate,
+in a manner specified by the Committee, one or more Funds that his or her
+Account will be deemed to be invested in for purposes of determining the
+amount of earnings to be credited to that Account.  The Committee may,
+from time to time, in its sole discretion select a commercially available
+fund to constitute the Fund actually selected.  The Investment Return of
+each such commercially available fund shall be used to determine the
+amount of earnings to be credited to Participants' Accounts under Section
+4.1(d).
+
+               (1) Deemed Investment Elections. In making the designation
+pursuant to this Section 3.3, the Participant may specify that all or any
+1% multiple of his or her Account be deemed to be invested in one or more
+of the Funds offered by the Committee.  Subject to such limitations and
+conditions as the Committee may specify, a Participant may change the
+designation made under this Section 3.3 in such manner and at such time
+or times as the Committee shall specify.  If a Participants fails to
+elect a Fund under this Section 3.3, or if the Committee shall not
+provide Participants with a list of Funds pursuant to this Section 3.3,
+the Participant shall be deemed to have elected a money market fund.
+
+               (2) No Company Obligation.  The Company may, but need not,
+acquire investments corresponding to those designated by the Participants
+hereunder, and it is not under any obligation to maintain any investment
+it may make.  Any such investments, if made, shall be in the name of the
+Company, and shall be its sole property in which no Participant shall
+have any interest.
+
+        (b)   Director's Plan Investments. In addition to any hypothetical
+investment Fund elections the Director may make with respect to amounts
+deferred under 3.1, the following shall apply to a Director's Plan Account:
+
+              (1) 1999 Transition Retirement Plan Subaccount.  The entirety
+of an electing Director's 1999 Transition Retirement Benefit shall be
+maintained in a separate subaccount, reflecting the number of shares of
+Company Stock in which the electing Director is vested and entitled to
+under the Plan as his or her 1999 Transition Retirement Benefit.  The
+balance in such subaccount shall be expressed in units (denominated in
+shares of Company Stock).  The number of units reflected in an electing
+Director's 1999 Transition Retirement Benefit subaccount shall be
+appropriately adjusted periodically to reflect any dividend, split, split-
+up or any combination or exchange, however, accomplished, with respect to
+the shares of Company Stock represented by such units.
+
+
+                              ARTICLE IV
+
+                               ACCOUNTS
+
+    4.1   Participant Accounts.
+
+
+          The Committee shall establish and maintain an Account for each
+Participant under the Plan.  Each Participant's Account may be further
+divided into separate subaccounts ("investment fund subaccounts"),
+corresponding to investment Funds elected by the Participant pursuant to
+Section 3.3 or as otherwise determined by the Committee to be necessary
+or appropriate for proper Plan administration.  A Participant's Account
+shall be credited as follows:
+
+          (a)  As soon as practicable following the end of each
+applicable pay period, the Committee shall credit the investment fund
+subaccounts of the Participant's Account with an amount equal to Salary,
+Commissions or Fees deferred by the Participant during each pay period in
+accordance with the Participant's election; that is, the portion of the
+Participant's deferred Salary, Commissions or Fees that the Participant
+has elected to be deemed to be invested in a certain type of investment
+Fund shall be credited to the investment fund subaccount corresponding to
+that investment Fund.
+
+          (b)  As soon as practicable after each Bonus or partial Bonus
+would have been paid, the Committee shall credit the investment fund
+subaccounts of the Participant's Account with an amount equal to the
+portion of the Bonus deferred by the Participant's election; that is, the
+portion of the Participant's deferred Bonus that the Participant has
+elected to be deemed to be invested in a certain type of investment Fund
+shall be credited to the investment fund subaccount corresponding to that
+investment Fund.
+
+          (c)  As soon as practicable after the last day of the Plan Year
+or such earlier time or times as the Committee may determine, the
+Committee shall credit the investment fund subaccounts of the
+Participant's Account with an amount equal to the portion, if any, of any
+Company contribution made to or for the Participant's benefit in
+accordance with Section 3.2; that is, the portion of the Participant's
+Company contribution, if any, that the Participant has elected to be
+deemed to be invested in a certain type of investment Fund shall be
+credited to the investment fund subaccount corresponding to that
+investment Fund.
+
+          (d)  At such time or times as the Committee may determine, but
+not less frequently than monthly, each investment fund subaccount of a
+Participant's Account shall be credited with earnings in an amount equal
+to that determined by multiplying the balance credited to such investment
+fund subaccount as of the last day of the preceding valuation period by
+the Investment Return for the corresponding Fund selected by the Company.
+
+
+                               ARTICLE V
+
+                                VESTING
+
+    5.1   Account.
+
+
+          (a)  Compensation Deferrals.  A Participant's Account
+attributable to Compensation deferred by a Participant pursuant to the
+terms of this Plan, together with any amounts credited to the
+Participant's Account under Section 4.1(d) with respect to such
+deferrals, shall be 100% vested at all times.
+
+          (b)  Company Contributions.  Unless specified otherwise by the
+Board or the Committee, the value of a Participant's Account attributable
+to any Company contributions pursuant to Section 3.2, together with any
+amounts credited to the Participant's Account under Section 4.1(d) with
+respect to such amounts, shall be vested in the same proportion as the
+Participant's account in the Profit Sharing Plan.
+
+          (c)  Director's 1999 Transition Retirement Plan Investments.
+An electing Director's 1999 Transition Retirement Benefit, together with
+any earnings thereon, shall be 100% vested at all times.
+
+                                ARTICLE VI
+
+                              GENERAL DUTIES
+
+    6.1   Trustee Duties.
+
+
+          The Trustee shall manage, invest and reinvest the Trust Fund as
+provided in the Trust Agreement.  The Trustee shall collect the income on
+the Trust Fund, and make distributions therefrom, all as provided in this
+Plan and in the Trust Agreement.
+
+    6.2   Company Contributions.
+
+
+          While the Plan remains in effect, the Company shall make
+contributions to the Trust Fund at least once each quarter.  As soon as
+practicable after the close of each Plan quarter, the Company shall make
+an additional contribution to the Trust Fund to the extent that previous
+contributions to the Trust Fund for the current Plan quarter are  less
+than the total of the Compensation deferrals made by each Participant
+plus Company contributions, if any, accrued as of the close of the
+current Plan quarter.  The Trustee shall not be liable for any failure by
+the Company to provide contributions sufficient to pay all accrued
+benefits under the Plan in accordance with the terms of this Plan.
+
+    6.3   Department of Labor Determination.
+
+
+          In the event that any Participants are found to be ineligible,
+that is, not members of a select group of management or highly
+compensated employees, according to a determination made by the
+Department of Labor, the Committee shall take whatever steps it deems
+necessary, in its sole discretion, to equitably protect the interests of
+the affected Participants.
+
+
+                              ARTICLE VII
+
+                             DISTRIBUTIONS
+
+    7.1   Distribution of Deferred Compensation:  Termination of Service
+
+          (a) Retirement; Disability; Death.  In the event a
+Participant's Service terminates as a result of Retirement, long-term
+disability (as defined in the Company's long-term disability plan for
+employees) or death, and provided further that such Participant does not
+return to Service prior to the Payment Commencement Date, the
+Participant's Distributable Amount shall be paid to the Participant (and
+after his or her death to his or her Beneficiary) in substantially equal
+quarterly installments over 15 years beginning on his or her Payment
+Commencement Date.  Notwithstanding the foregoing, a Participant may, in
+lieu of quarterly installments over 15 years, elect a cash lump sum
+payment or quarterly installments over five or 10 years by filing an
+election with the Committee within 30 days of the date he or she first
+becomes a Participant.
+
+          A Participant may change his or her form of distribution under
+this subsection 7.1(a) provided that his or her change is filed with the
+Committee at least one year prior to his or her Payment Commencement
+Date; otherwise, the most recent distribution election made by the
+Participant one (1) or more years prior to the Payment Commencement Date
+shall govern.
+
+          Notwithstanding the foregoing, if the Participant's
+Distributable Amount is $25,000 or less, the Distributable Amount shall
+automatically be distributed in the form of a cash lump sum on the
+Participant's Payment Commencement Date.  If the Participant's
+Distributable Amount is paid in installments, the Participant's Account
+shall continue to be credited monthly with earnings pursuant to Section
+4.1(d) of the Plan and the installment amount shall be adjusted annually
+to reflect gains and losses until all amounts credited to his or her
+Account under the Plan have been distributed.
+
+          Amounts payable pursuant to this subsection 7.1(a) shall be
+subject to the limitation on payout under Section 7.5.
+
+          (b)   Other Termination.  In the case of a Participant whose
+Service with the Company terminates for any reason other then Retirement,
+long-term disability of death, the Participant's Distributable Amount
+shall be paid to the Participant in the form of a cash lump sum on the
+Participant's Payment Commencement Date, provided that no such
+distribution shall occur in the event the Participant returns to Service
+prior to the Payment Commencement Date.
+
+          (c)   Death While Receiving Benefits.  If the Participant is in
+pay status at the time of death, the Beneficiary shall be paid the
+remaining quarterly installments as they come due.
+
+          (d)   Director's 1999 Transition Retirement Plan Distribution.
+Notwithstanding the foregoing distribution provisions with respect to a
+Participant's other Accounts, an electing Director's 1999 Transition
+Retirement Benefit and Company Stock subaccounts, shall be paid to such
+Director (or his or her designated beneficiary) in a single lump sum
+distribution upon the Director's Retirement, long-term disability or death.
+Distributions of such subaccounts shall be made in shares of  Company
+
+    7.2   Scheduled and Unscheduled Withdrawals.
+
+
+(a)   Scheduled Withdrawals.  A Participant may, in connection
+with his or her Compensation deferral election for a Plan Year, specify a
+withdrawal (a "Scheduled Withdrawal") of all of his or her Account
+attributable to Compensation deferred for such Plan Year, including any
+amounts credited with respect to such deferrals pursuant to Section
+4.1(d), subject to the following restrictions:
+
+                (1)  A Participant's Scheduled Withdrawal election must
+specify a Scheduled Withdrawal date that is at least three years from the
+date the election is received by the Company.
+
+                (2)  The election to take a Scheduled Withdrawal shall be
+made by filing a form provided by and filed with the Committee.
+
+                (3)  The amount payable to a Participant in connection
+with a Scheduled Withdrawal shall in all cases be 100% of the
+Compensation deferred for the Plan Year with respect to which the
+election applies, together with any earnings credited to such amount
+pursuant to Section 4.1(d), determined as of the end of the calendar
+month as of or preceding the month of the Scheduled Withdrawal date,
+provided that no portion of the of the Participant's Account attributable
+to Company contributions pursuant to Section 3.2, if any, shall be
+eligible for Scheduled Withdrawal.
+
+                (4)  A Participant may, at least one year prior to a
+Scheduled Withdrawal date, revoke his or her Scheduled Withdrawal
+election in favor of a later Scheduled Withdrawal date that is at least
+one year later, provided that a Participant may not postpone a Scheduled
+Withdrawal more than twice.
+
+                (5)  Subject to Section 7.5, payment of a Scheduled
+Withdrawal shall be made in a single lump sum as soon as practicable
+after the Scheduled Withdrawal date.
+
+                 (6)  A Participant's Scheduled Withdrawal election shall
+become void and of no effect upon termination of the Participant's
+employment with the Company for any reason before the Participant's
+scheduled withdrawal date.  In such event, the distribution provisions of
+Section 7.1 shall apply.
+
+          (b)   Unscheduled Withdrawals.  Participants may request to
+withdraw amounts from their Accounts attributable to Compensation
+deferrals prior to termination of Service (an "Unscheduled Withdrawal").
+Upon receiving an Unscheduled Withdrawal request, the Committee shall
+determine, in its discretion as applied in a uniform and
+nondiscriminating manner, whether to permit any such Unscheduled
+Withdrawal and the amount, if any, to be withdrawn, subject to the
+following restrictions:
+
+                (1)  The election to take an Unscheduled Withdrawal shall
+be made by filing a form provided by and filed with the Committee.
+
+                (2)  The amount payable to a Participant in connection
+with an Unscheduled Withdrawal shall in all cases equal 90% of the amount
+requested by the Participant or, if lesser, 90% of the Unscheduled
+Withdrawal amount approved by the Committee; provided, however, that the
+maximum amount payable to a Participant in connection with an Unscheduled
+Withdrawal shall be 90% of the Distributable Amount as of the end of the
+calendar month in which the Unscheduled Withdrawal election is made, and
+provided further, that no portion of the amount attributable to Company
+contributions pursuant to Section 3.2, if any, shall be eligible for an
+Unscheduled Withdrawal.
+
+                (3)  If a Participant receives an Unscheduled Withdrawal,
+the remaining portion of the requested or approved amount, as applicable
+(i.e., 10% of such amount), shall be permanently forfeited and the
+Company shall have no obligation to the Participant or his Beneficiary
+with respects to such forfeited amount.
+
+                (4)  If a Participant receives an Unscheduled Withdrawal,
+the Participant shall be ineligible to Participate in the Plan for the
+balance of the Plan Year in which the Unscheduled Withdrawal occurs and
+the following Plan Year.
+
+                (5)  A Participant shall be limited to two Unscheduled
+Withdrawals during the term of his or her Plan participation.
+
+                (6)  An Unscheduled Withdrawal pursuant to this Section
+7.2 of less than 90% of the Participant's Distributable Amount shall be
+made pro rata from his or her assumed investments according to the
+balances in such investments.  Subject to the foregoing and subject to
+the Committee's approval, payment of any amount with respect to which a
+Participant has filed a request under this Section 7.2 shall be made in a
+single cash lump sum as soon as practicable after the end of the calendar
+month in which the Withdrawal election is approved.
+
+    7.3   Unforeseeable Emergency.
+
+
+          The Committee may, pursuant to rules adopted by it and applied
+in a uniform manner, accelerate the date of distribution of a
+Participant's Account because of an Unforeseeable Emergency at any time.
+"Unforeseeable Emergency" shall mean an unforeseeable, severe financial
+condition resulting from (a) a sudden and unexpected illness or accident
+of the Participant or his or her dependent (as defined in Section 152(a)
+of the Code); (b) loss of the Participant's property due to casualty; or
+(c) other similar extraordinary and unforeseeable circumstances arising
+as a result of events beyond the control of the Participant, but which
+may not be relieved through other available resources of the Participant,
+as determined by the Committee in accordance with uniform rules adopted
+by it.  Unless the Committee, in its discretion, determines otherwise,
+distribution pursuant to this subsection of less than the Participant's
+entire interest in the Plan shall be made pro rata from his or her
+assumed investments according to the balances in such investments.
+Subject to the foregoing, payment of any amount with respect to which a
+Participant has filed a request under this subsection shall be made in a
+single cash lump sum as soon as practicable after the end of the calendar
+month in which the Committee approves the Participant's request.
+
+    7.4   Change of Control.
+
+
+          Notwithstanding anything in this Section 7 to the contrary,
+including, but not limited to, Section 7.5 below, the Distributable
+Amount shall be paid to each Participant, or to the Beneficiary of each
+deceased Participant, within 30 days after the date of a Change of
+Control.  Such amount shall be paid in such form as elected by the
+Participant with respect to a distribution by reason of the Participant's
+Retirement or, if no such election has been filed, in a lump sum.
+
+    7.5   Section 162(m) Limitation
+
+
+          If the Committee determines in good faith prior to a Change of
+Control that there is a reasonable likelihood that all or any portion of
+any payment of benefits under this Section 7 to a Participant would not
+be deductible for federal income tax purposes by the Company because of a
+limitation on the total amount of the Participant's deductible
+compensation from the Company, including any other such compensation
+already paid to the Participant earlier in the same fiscal year of the
+Company, the following shall apply:
+
+          (a)  Payment of the non-deductible amount shall be deferred
+until the first day of the following fiscal year of the Company;
+
+          (b)  If the amount deferred under subsection (a) would exceed
+the limitation of the total amount of the Participant's deductible
+compensation from the Company for the following fiscal year, the excess
+shall be deferred to the first day of the succeeding fiscal year in which
+the deductibility of compensation paid or payable to the Participant will
+not be so limited, subject to subsection (c);
+
+          (c) In no event shall any payment be deferred under this
+Section 7.5 more than three years from the date scheduled for payment
+under this Section 7;
+
+          (d)  Adjustment for earning shall continue to be applied under
+Section 4.1(d) during the period of deferral under this Section 7.5.
+
+    7.6   Inability To Locate Participant
+
+
+          In the event that the Committee is unable to locate a
+Participant or Beneficiary within two years following the Participant's
+Distribution Event, the amount allocated to the Participant's Deferral
+Account shall be forfeited.  If, after such forfeiture, the Participant
+or Beneficiary later claims such benefit, such benefit (calculated
+immediately prior to the forfeiture) shall be reinstated without interest
+or earnings.
+
+                               ARTICLE VIII
+
+                              ADMINISTRATION
+
+    8.1   Committee
+
+
+          A Committee shall be appointed by, and serve at the pleasure
+of, the Board.  The number of members comprising the Committee shall be
+determined by the Board which may from time to time vary the number of
+members.  A member of the Committee may resign by delivering a written
+notice of resignation to the Board.  The Board may remove any member by
+delivering a certified copy of its resolution of removal to such member.
+Vacancies in the membership of the Committee shall be filled promptly by
+the Board.
+
+    8.2   Committee Action.
+
+
+          The Committee shall act at meetings by affirmative vote of a
+majority of the members of the Committee.  Any action permitted to be
+taken at a meeting may be taken without a meeting if, prior to such
+action, a written consent to the action is signed by all members of the
+Committee and such written consent is filed with the minutes of the
+proceedings of the Committee.  A member of the Committee shall not vote
+or act upon any matter which relates solely to himself or herself as a
+Participant.  The chairman or any other member or members of the
+Committee designated by the chairman may execute any certificate or other
+written direction on behalf of the Committee.
+
+    8.3   Powers and Duties of the Committee.
+
+
+          (a)  The Committee, on behalf of the Participants and their
+Beneficiaries, shall enforce the Plan in accordance with its terms, shall
+be charged with the general administration of the Plan and shall have all
+powers necessary to accomplish its purposes, including, but not by way of
+limitation, the following:
+
+                 (1)  To select the funds to be the Funds in accordance
+with Section 3.3 hereof;
+
+                 (2)  To construe and interpret the terms and provisions
+of this Plan;
+
+                 (3)  To amend, modify, suspend or terminate the Plan in
+accordance with Section 9.4;
+
+                 (4)  To compute and certify the amount and kind of
+benefits payable to Participants and their Beneficiaries and to direct
+the Trustee as to the distribution of Plan assets;
+
+                 (5)  To maintain all records that may be necessary for
+the administration of the Plan;
+
+                  (6)  To provide for the disclosure of all information
+and the filing or provision of all reports and statements to
+Participants, Beneficiaries or governmental agencies as shall be required
+by law;
+
+                  (7)  To make and publish such rules for the regulation
+of the Plan and procedures for the administration of the Plan as are not
+inconsistent with the terms hereof; and
+
+                  (8)  To appoint a plan administrator or any other
+agent, and to delegate to them such powers and duties in connection with
+the administration of the Plan as the Committee may from time to time
+prescribe.
+
+    8.4   Construction and Interpretation.
+
+
+          The Committee shall have full discretion to construe and
+interpret the terms and provisions of this Plan, which interpretation or
+construction shall be final and binding on all parties, including but not
+limited to the Company and any Participant or Beneficiary.  The Committee
+shall administer such terms and provisions in a uniform and
+nondiscriminatory manner and in full accordance with any and all laws
+applicable to the Plan.
+
+    8.5   Information.
+
+
+To enable the Committee to perform its functions, the Company shall
+supply full and timely information to the Committee on all matters
+relating to the Compensation of all Participants, their death or other
+cause of termination, and such other pertinent facts as the Committee may
+reasonably require.
+
+    8.6   Compensation, Expenses and Indemnity.
+
+
+          (a) The members of the Committee shall serve without
+compensation for their services hereunder.
+
+          (b)  The Committee is authorized at the expense of the Company
+to employ such legal counsel as it may deem advisable to assist in the
+performance of its duties hereunder.  Expenses and fees in connection
+with the administration of the Plan shall be paid by the Company.
+
+          (c)  To the extent permitted by applicable state law, the
+Company shall indemnify and save harmless the Committee and each member
+thereof, the Board and any delegate of the Committee who is an employee
+of the Company against any and all expenses, liabilities and claims,
+including legal fees to defend against such liabilities and claims
+arising out of their discharge in good faith of responsibilities under or
+incident to the Plan, other than expenses and liabilities arising out of
+willful misconduct.  This indemnity shall not preclude such further
+indemnities as may be available under insurance purchased by the Company
+or provided by the Company under any bylaw, agreement or otherwise, as
+such indemnities are permitted under state law.
+
+    8.7   Quarterly Statements.
+
+          Under procedures established by the Committee, a Participant
+shall receive a statement with respect to such Participant's Account on a
+quarterly basis.
+
+
+                               ARTICLE IX
+
+                             MISCELLANEOUS
+
+    9.1   Unsecured General Creditor.
+
+
+          Participants and their Beneficiaries, heirs, successors, and
+assigns shall have no legal or equitable rights, claims, or interests in
+any specific property or assets of the Company.  No assets of the Company
+shall be held in any way as collateral security for the fulfilling of the
+obligations of the Company under this Plan.  Any and all of the Company's
+assets shall be, and remain, the general unpledged, unrestricted assets
+of the Company.  The Company's obligation under the Plan shall be merely
+that of an unfunded and unsecured promise of the Company to pay money in
+the future, and the rights of the Participants and Beneficiaries shall be
+no greater than those of unsecured general creditors.
+
+    9.2   Restriction Against Assignment.
+
+
+          The Company shall pay all amounts payable hereunder only to the
+person or persons designated by the Plan and not to any other person or
+corporation.  No part of a Participant's Account shall be liable for the
+debts, contracts, or engagements of any Participant, his or her
+Beneficiary, or successors in interest, nor shall a Participant's Account
+be subject to execution by levy, attachment, or garnishment or by any
+other legal or equitable proceeding, nor shall any such person have any
+right to alienate, anticipate, commute, pledge, encumber, or assign any
+benefits or payments hereunder in any manner whatsoever.  If any
+Participant, Beneficiary or successor in interest is adjudicated bankrupt
+or purports to anticipate, alienate, sell, transfer, assign, pledge,
+encumber or charge any distribution or payment from the Plan, voluntarily
+or involuntarily, the Committee, in its discretion, may cancel such
+distribution or payment (or any part thereof) to or for the benefit of
+such Participant, Beneficiary or successor in interest in such manner as
+the Committee shall direct.
+
+    9.3   Withholding.
+
+
+          There shall be deducted from each payment made under the Plan
+all taxes which are required to be withheld by the Company in respect to
+such payment.  The Company shall have the right to reduce any payment by
+the amount of cash sufficient to provide the amount of said taxes.
+
+    9.4   Amendment, Modification, Suspension or Termination.
+
+
+          The Committee may amend, modify, suspend or terminate the Plan
+in whole or in part, except that no amendment, modification, suspension
+or termination shall have any retroactive effect to reduce any amounts
+allocated to a Participant's Account, provided that a termination or
+suspension of the Plan or any Plan amendment or modification that will
+significantly increase costs to the Company shall be approved by the
+Board.  In the event that this Plan is terminated, the timing of the
+disposition of the amounts credited to a Participant's Account shall
+occur in accordance with Section 7.1, subject to earlier distribution at
+the discretion of the Committee.
+
+    9.5   Governing Law.
+
+
+          This Plan shall be construed, governed and administered in
+accordance with the laws of the State of Oregon.
+
+    9.6   Receipt or Release.
+
+
+          Any payment to a Participant or the Participant's Beneficiary
+in accordance with the provisions of the Plan shall, to the extent
+thereof, be in full satisfaction of all claims against the Committee and
+the Company.  The Committee may require such Participant or Beneficiary,
+as a condition precedent to such payment, to execute a receipt and
+release to such effect.
+
+    9.7   Payments on Behalf of Persons Under Incapacity.
+
+          In the event that any amount becomes payable under the Plan to
+a person who, in the sole judgment of the Committee, is considered by
+reason of physical or mental condition to be unable to give a valid
+receipt therefore, the Committee may direct that such payment be made to
+any person found by the Committee, in its sole judgment, to have assumed
+the care of such person.  Any payment made pursuant to such determination
+shall constitute a full release and discharge of the Committee and the
+Company.
+
+    9.8   No Employment Rights.
+
+          Participation in this Plan shall not confer upon any person any
+right to be employed by the Company or any other right not expressly
+provided hereunder.
+
+    9.9   Headings, etc Not Part of Agreement.
+
+          Headings and subheadings in this Plan are inserted for
+convenience of reference only and are not to be considered in the
+construction of the provisions hereof.
+
+    IN WITNESS WHEREOF, the Company has caused this document to be
+executed by its duly authorized officer on this _____ day of
+_______________, 2000.
+
+                                          NIKE, INC.
+
+                                          By:
+                                             ----------------------------
+                                          Title:
+                                                -------------------------
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12.1
+<SEQUENCE>6
+<FILENAME>ex12_1.txt
+<DESCRIPTION>COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+<TEXT>
+
+                       NIKE, INC.
+     COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+
+                                         Three Months Ended
+                                             August 31,
+                                         __________________
+
+                                        2001           2000
+                                        ____           ____
+
+                                           (in millions)
+
+Net income                             $199.2         $210.2
+Income taxes                            110.0          120.8
+Cumulative effect of accounting change    5.0             --
+                                       ______         ______
+
+      Income before income taxes and
+        accounting change               314.2          331.0
+                                       ______          _____
+
+Add fixed charges
+      Interest expense (A)               13.8           17.0
+      Interest component of leases (B)   12.7           12.4
+                                       ______         ______
+
+Total fixed charges                      26.5           29.4
+                                       ______         ______
+
+Earnings before income taxes and
+      fixed charges (C)                $339.9         $358.8
+                                       ======         ======
+Ratio of earnings to total fixed
+      charges                            12.8           12.2
+                                       ======         ======
+
+(A) Interest expense includes both expensed and capitalized.
+(B) Interest component of leases includes one-third of rental expense,
+    which approximates the interest component of operating leases.
+(C) Earnings before income taxes and fixed charges is exclusive of
+    capitalized interest.
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

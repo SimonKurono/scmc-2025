@@ -1,0 +1,933 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ dIMoS9LTugixRMaOSX8r2U9QScLgKXtX2o4W2obg+aN7prH9yvNaUnX0lcvmWzIZ
+ 91oPdPYLXvg8JpftlQqvQQ==
+
+<IMS-DOCUMENT>0000320187-95-000001.txt : 19950509
+<IMS-HEADER>0000320187-95-000001.hdr.sgml : 19950508
+ACCESSION NUMBER:		0000320187-95-000001
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19941130
+FILED AS OF DATE:		19950117
+SROS:			NYSE
+SROS:			PSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NIKE INC
+		CENTRAL INDEX KEY:			0000320187
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		IRS NUMBER:				930584541
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10635
+		FILM NUMBER:		95501714
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+		BUSINESS PHONE:		5036416453
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<TEXT>
+ 
+ 
+ 
+                            SECURITIES AND EXCHANGE COMMISSION 
+ 
+ 
+                                Washington, D.C.  20549 
+ 
+                                       FORM 10-Q 
+ 
+                    FOR QUARTERLY REPORTS UNDER SECTION 13 OR 15 (d) OF 
+                        THE SECURITIES AND EXCHANGE ACT OF 1934 
+ 
+For the Quarter Ended November 30, 1994 Commission file number - 1-10635 
+ 
+                                       NIKE, Inc.         
+ 
+                (Exact name of registrant as specified in its charter) 
+ 
+                   OREGON                                  93-0584541 
+ 
+          (State or other jurisdiction of             (I.R.S. Employer 
+          incorporation or organization)              Identification No.) 
+ 
+          One Bowerman Drive, Beaverton, Oregon    97005-6453 
+ 
+          (Address of principal executive offices)        (Zip Code) 
+ 
+Registrant's telephone number, including area code (503) 671-6453 
+ 
+Indicate by check mark whether the registrant (1) has filed all reports 
+ 
+required to be filed by Section 13 or 15 (d) of the Securities Exchange 
+ 
+Act of 1934 during the preceding 12 months (or for such shorter period 
+ 
+that the registrant was required to file such reports), and (2) has been 
+ 
+subject to such filing requirements for the past 90 days 
+ 
+Yes  X   No     . 
+    ___      ___ 
+ 
+Common Stock shares outstanding as of November 30, 1994 were: 
+                                   _________________ 
+ 
+                    Class A          26,664,137 
+ 
+                    Class B          45,619,115 
+                                   _________________ 
+ 
+                                     72,283,252 
+                                     ========== 
+ 
+ 
+                        PART 1 - FINANCIAL INFORMATION 
+ 
+Item 1.  Financial Statements 
+                                   NIKE, Inc. 
+ 
+                      CONDENSED CONSOLIDATED BALANCE SHEET 
+ 
+                                                       Nov. 30,      May 31, 
+                                                         1994         1994 
+                                                       ________      _______ 
+ 
+                                                           (in thousands) 
+ 
+                                  ASSETS 
+                                                                 
+Current assets: 
+     Cash and equivalents                            $  546,105   $  518,816 
+     Accounts receivable                                776,952      703,682 
+     Inventories (Note 3)                               459,276      470,023 
+     Deferred income taxes                               46,106       37,603 
+     Prepaid expenses                                    53,808       40,307 
+                                                     __________    _________  
+
+     Total current assets                             1,882,247    1,770,431 
+ 
+Property, plant and equipment                           707,155      639,085 
+     Less accumulated depreciation                      265,254      233,240 
+                                                     __________   __________ 
+                                                        441,901      405,845 
+ 
+Goodwill                                                163,210      157,187 
+Other assets                                             40,397       40,352 
+                                                     __________   __________ 
+ 
+                                                     $2,527,755   $2,373,815 
+                                                     ==========   ========== 
+             LIABILITIES AND SHAREHOLDERS' EQUITY 
+Current liabilities: 
+     Current portion of long-term debt               $    2,534   $    3,857 
+     Notes payable                                      133,710      127,378 
+     Accounts payable                                   196,921      210,576 
+     Accrued liabilities                                228,377      181,889 
+     Income taxes payable                                25,807       38,287 
+                                                     __________   __________ 
+ 
+          Total current liabilities                     587,349      561,987 
+Long-term debt                                           14,299       12,364 
+Non-current deferred income taxes                        21,159       18,228 
+Other long-term liabilities                              43,397       39,987 
+Commitments and contingencies (Note 4)                        -            - 
+Redeemable Preferred Stock                                  300          300 
+Shareholders' equity: 
+     Common Stock at stated value (Note 2): 
+          Class A convertible-26,664 and 
+            26,679 shares outstanding                       159          159 
+          Class B-45,619 and 46,521 shares 
+               outstanding                                2,699         2,704 
+     Capital in excess of stated value                  107,840      108,284 
+     Foreign currency translation 
+       adjustment                                         5,176      (15,123) 
+     Retained earnings                                1,745,377    1,644,925 
+                                                     ___________  __________ 
+ 
+                                                      1,861,251    1,740,949 
+                                                     ___________  __________ 
+ 
+                                                     $2,527,755   $2,373,815 
+                                                     ==========   ========== 
+ 
+ 
+ The accompanying Notes to Condensed Consolidated Financial Statements are 
+an integral part of this statement. 
+ 
+ 
+                                     NIKE, Inc. 
+ 
+ 
+                     CONDENSED CONSOLIDATED STATEMENT OF INCOME 
+ 
+<TABLE> 
+<CAPTION> 
+                                       Three Months Ended      Six Months Ended 
+                                           November 30,          November 30,
+                                      __________________     __________________ 
+ 
+                                         1994     1993           1994      1993 
+                                         ____     ____           ____      ____ 
+ 
+                                        (in thousands, except per share data) 
+<S>                                  <C>         <C>          <C>         <C> 
+Revenues                             $1,053,746  $  805,789   $2,224,101  $1,913,667 
+                                      _________   _________    _________   _________ 
+ 
+Costs and expenses: 
+     Cost of sales                      640,031     496,128    1,340,478   1,163,935 
+     Selling and administrative         268,873     223,468      561,167     462,747 
+     Interest                             3,941       3,880        8,698       8,512 
+     Other expense (income)               1,662      (1,182)         832       2,178 
+                                       ________     ________   _________   _________ 
+
+                                        914,507     722,294    1,911,175   1,637,372 
+                                       ________     ________   _________   _________ 
+  
+Income before income taxes              139,239      83,495      312,926     276,295 
+ 
+Income taxes                             54,300      31,200      122,000     109,900 
+                                       ________    ________      _______     _______ 
+ 
+Net income                           $   84,939  $   52,295      190,926     166,395 
+                                      =========   =========      =======     ======= 
+
+Net income per common share(Note 2)  $     1.16  $     0.69      $  2.59     $  2.18 
+                                      =========   =========      =======     ======= 
+Dividends declared per common share  $      .25  $      .20      $  0.45     $  0.40 
+                                      =========   =========      =======     ======= 
+ 
+Average number of common and 
+ common equivalent shares (Note 2)       73,369      75,649       73,798      76,199 
+                                      =========   =========      =======     ======= 
+</TABLE>
+ 
+The accompanying Notes to Condensed Consolidated Financial Statements are 
+an integral part of this statement. 
+ 
+ 
+                                      NIKE, Inc. 
+ 
+ 
+                   CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS 
+<TABLE> 
+<CAPTION> 
+                                                          Six Months Ended 
+                                                             November 30,    
+                                                          _________________ 
+ 
+                                                          1994         1993 
+                                                          ____         ____ 
+ 
+                                                            (in thousands) 
+<S>                                                      <C>        <C>
+Cash provided (used) by operations: 
+          Net income                                     $190,926   $166,395 
+          Income charges (credits) not 
+            affecting cash: 
+            Depreciation                                   31,079     28,811 
+            Deferred income taxes and 
+              purchased tax benefits                         (698)    (4,880) 
+            Other non-current liabilities                   3,410      2,277 
+            Other                                           5,111      3,694 
+          Changes in other working capital 
+            components                                    (44,477)   118,322 
+                                                         ________    _______ 
+ 
+          Cash provided by operations                     185,351    314,619 
+                                                         ________    _______ 
+Cash provided (used) by investing activities: 
+          Acquisition of business: 
+            Net assets acquired                           (10,264)        --
+            Goodwill acquired                             (10,347)        --
+          Additions to property, plant and 
+            equipment                                     (59,961)   (45,590) 
+          Disposals of property, plant and 
+            equipment                                       5,811      4,726 
+          Increase in other assets                         (4,952)      (957) 
+                                                          _______     _______ 
+ 
+          Cash used by investing activities               (79,713)   (41,821) 
+                                                          _______     _______ 
+ 
+Cash provided (used) by financing activities: 
+          Additions to long-term debt                       1,019        255 
+          Reductions in long-term debt 
+            including current portion                      (4,549)   (51,730) 
+          Increase (decrease) in notes payable                484    (46,406) 
+          Proceeds from exercise of options                 1,810      1,666 
+          Repurchase of stock                             (59,995)   (53,932) 
+          Dividends - common and preferred                (29,295)   (30,299) 
+                                                          _______    _______ 
+          Cash used by financing 
+            activities                                    (90,526)  (180,446) 
+                                                          _______    _______ 
+ 
+Effect of exchange rate changes on cash                    12,177     (7,425) 
+                                                          _______    _______ 
+ 
+Net increase in cash and equivalents                       27,289     84,927 
+Cash and equivalents, May 31, 1994 and 1993               518,816    291,284 
+                                                          _______    _______ 
+ 
+Cash and equivalents, November 30, 1994   
+  and 1993                                               $546,105   $376,211 
+                                                         ========   ======== 
+</TABLE> 
+ 
+The accompanying Notes to Condensed Consolidated Financial Statements are 
+an integral part of this statement. 
+ 
+ 
+                                   NIKE, Inc. 
+ 
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ 
+NOTE 1 - Summary of significant accounting policies: 
+         ___________________________________________ 
+ 
+Basis of Presentation: 
+ 
+     The accompanying unaudited condensed consolidated financial statements 
+reflect all adjustments (consisting of normal recurring accruals) which 
+are, in the opinion of management, necessary for a fair presentation of 
+the results of operations for the interim period(s).  The interim financial 
+information and notes thereto should be read in conjunction with the 
+Company's latest annual report to shareholders.  The results of operations 
+for the six (6) months ended November 30, 1994 are not necessarily 
+indicative of results to be expected for the entire year. 
+ 
+Reclassifications: 
+ 
+     Certain prior year amounts have been reclassified to conform to 
+the current year presentation.  These changes had no impact on previously 
+reported results of operation or shareholder's equity. 
+ 
+NOTE 2 - Net income per common share: 
+         ___________________________ 
+ 
+     Net income per common share is computed based on the weighted average 
+number of common and common equivalent (stock option) shares outstanding 
+for the period(s). 
+ 
+NOTE 3 - Inventories: 
+         ___________ 
+ 
+     Inventories by major classification are as follows: 
+ 
+                                        Nov. 30,      May 31, 
+                                          1994         1994 
+                                        ________     ________ 
+ 
+                                           (in thousands) 
+                    Finished goods      $447,935     $465,065 
+                    Work-in-process        7,886        2,915 
+                    Raw materials          3,455        2,043 
+                                        ________     ________ 
+ 
+                                        $459,276     $470,023 
+                                        ========     ======== 
+ 
+ 
+NOTE 4 - Commitments and contingencies: 
+         _____________________________ 
+ 
+     There have been no other significant subsequent developments 
+relating to the commitments and contingencies reported on the 
+Company's most recent Form 10-K. 
+ 
+ 
+Item 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS 
+         AND FINANCIAL CONDITION 
+ 
+Operating Results 
+_________________ 
+ 
+     During the second quarter ended November 30, 1994, record revenues 
+increased 31%, gross margins improved by .9% and selling and 
+administrative expenses reduced as a percentage of sales, combining 
+to increase net income by 62%, the first quarter to quarter 
+comparison increase in six periods and the largest since May, 1990. 
+Net income for the period was $84.9 million or $1.16 per share, 
+compared to $52.3 million or $0.69 per share for the same period in the 
+prior year. Earnings per share increased 68% as compared to the 62% 
+increase in net income, primarily due to the Company's share repurchase 
+program.  In addition to being a record second quarter in earnings, the 
+Company recognized several other milestones.  This was the first second 
+quarter with revenue in excess of $1 billion, the first time the Company's 
+trailing twelve months'revenues have exceeded $4 billion, and the largest 
+advance order release ever announced. 
+ 
+     Revenues increased $248 million over the $806 million reported 
+in the same period of the prior year.  United States footwear was a 
+strong contributor with growth of $115 million, or 34%, resulting from 
+an increase of 39% in pairs shipped and a 4% decrease in average selling 
+price. Revenues were strong across all categories, including an increase
+in basketball which was the first comparative increase in 18 months. 
+International revenues increased $106 million, or 32%, composed of 28% and 
+41% increases in international footwear and apparel revenues, respectively. 
+The international growth included a 22% increase from new 
+NIKE-owned subsidiaries in Japan and Korea and a positive 5% affect from 
+foreign exchange translation, partially offset by decreases in France and 
+Germany which together combined for a 7% decrease in international's total 
+revenues. U.S. apparel increased $23 million or 30%, and anticipates an 
+increase for the full fiscal year.  Other brands, which includes Cole 
+Haan (R), Tetra Plastics, and Sports Specialties, increased 8%. The 
+breakdown of revenues follows: 
+ 
+<TABLE>
+<CAPTION>                      Three Months Ended               Six Months Ended
+                                    Nov. 30                         Nov. 30 
+                          ______________________________    _______________________________ 
+ 
+                          1994           1993    % Change   1994           1993    % Change 
+                          ____           ____       ___     ____           ____       ___  
+  
+                                 (in thousands)  
+<S>                  <C>             <C>            <C>     <C>         <C>            <C> 
+U.S. Footwear        $  455,459      $  340,325     34%    $1,110,601   $  962,763     15% 
+U.S. Apparel             97,884          75,365     30        192,619      176,561      9 
+Other Brands             60,391          56,062      8        119,273      120,406     (1) 
+                     __________      __________    ___      _________    _________     ___ 
+ 
+Total United States     613,734         471,752     30      1,422,493    1,259,730      13 
+International 
+  Footwear              306,828         239,458     28        583,290      484,363      20
+  Apparel               133,184          94,579     41        218,318      169,574      29 
+                     __________      __________    ___      _________    _________     ___ 
+ 
+  Total International   440,012         334,037     32        801,608      653,937      23 
+                     __________      __________    ___      _________    _________     ___ 
+   
+  Total Revenues     $1,053,746      $  805,789     31%    $2,224,101   $1,913,667      16% 
+                     ==========      ==========    ===     ==========   ==========     ==== 
+</TABLE> 
+ 
+     Consolidated gross margins improved over the prior year, increasing 
+from 38.4% in the prior year second quarter to 39.3% in the current year. 
+The increase was a result of the high volume of revenues, along with 
+strong demand for NIKE products combined with sound inventory management 
+which resulted in a smaller percentage of lower margin closeout sales.  The  
+Company continues to place strong emphasis on inventory management, 
+minimizing foreign exchange risk, and production sourcing in order to 
+maximize gross profit. 
+ 
+ 
+      Selling and administrative expenses decreased as a percentage of
+revenues from 27.7% during the prior year second quarter to 25.5% in the 
+current year.  On an absolute dollar basis, spending increased $45 million, 
+or 20%, with all new NIKE-owned subsidiaries accounting for $29 million of 
+the increase.  International operations in total added $36 million, a 
+result of the new subsidiaries and planned increases in international 
+infrastructure development.  Also, the foreign currency translation impact 
+increased spending by approximately $4 million. U.S. operations were up 
+$9 million, primarily in planned marketing expenses.  The Company intends 
+to continue to invest in growth opportunities and to increase marketing 
+expenses in order to ensure the successful sell-through of the high level 
+of orders discussed below.  As a result, the Company expects selling and 
+administrative costs as a percentage of revenues for the current year to 
+approximate the prior year results. 
+ 
+     Interest expenses for the quarter increased slightly over the prior 
+year due to increased operational short-term borrowings related to the 
+new NIKE subsidiaries mentioned previously, offset by lower U.S. borrowings. 
+Other income decreased $2.8 million, primarily as a result of increased 
+other expenses - including profit sharing, foreign currency 
+transactions, asset disposals and goodwill - offset partially by 
+increased interest income. 
+ 
+     The Company's effective tax rate for the quarter was 39.0% compared 
+to 37.43% in the prior year.  Last year's second quarter included a reduction 
+for the tax impact of permanently reinvesting foreign earnings overseas, 
+as more fully discussed in that respective 10-Q.  The Company 
+anticipates the tax rate for fiscal 1995 will approximate the 39.1% rate 
+for the full fiscal year 1994. 
+ 
+      Worldwide orders for athletic footwear and apparel scheduled for 
+delivery from December 1994 through April 1995 were approximately $1.95 
+billion, 34% higher than such orders booked in the comparable period of 
+the prior year. This represents a record amount of orders for any period, 
+and will require a significant portion of our production capacity to be 
+devoted to filling these orders, potentially impacting availability of 
+product for "at once" shipments.  These orders are not necessarily indicative 
+of total revenues for subsequent periods because the mix of advance orders 
+and "at once" shipments may vary significantly from quarter to quarter and 
+year to year.  Additionally, as international operations continue to shift 
+to a greater emphasis on futures orders, this mix again may vary.  Finally, 
+exchange rates can cause differences in the comparisons. 
+ 
+ 
+       After a six-month "Special 301" investigation under the 1974 Trade 
+Act, the Office of the U.S. Trade Representative ("USTR") announced on 
+December 31, 1994 that the United States will take retaliatory trade 
+action against the People's Republic of China if China does not agree to 
+address U.S. intellectual property rights concerns.  On or before 
+February 4, 1994 the USTR will make a final determination as to whether 
+China's intellectual property right's enforcement policies and practices 
+are unreasonable and constitute a burden on, or restrict, U.S. commerce. 
+The USTR has published a preliminary list of products from China that it 
+would target if sanctions were imposed, although the USTR may later 
+reduce that list of targeted products.  Seven categories of footwear are 
+among the various products on the list.  Targeted products would be 
+assessed tariffs of 100 percent in addition to the current tariffs.  A 
+portion of the footwear that the Company imports from China into the 
+U.S. falls into four of the seven potentially targeted categories of 
+footwear, and sanctions would effectively eliminate imports from China 
+in those categories.  However, at the time of filing this report the 
+Company anticipates that the sanctions, if imposed, would not have a 
+material adverse effect on the Company due to the wide range of product 
+sourcing available to the Company, and the lack of significance of the 
+targeted categories to the Company's overall production.  
+ 
+ 
+Liquidity and Capital Resources 
+_______________________________ 
+ 
+     The Company's financial position remained strong, with working capital 
+rising $86 million since May 31, 1994.  The working capital ratio was 3.2:1 
+at November 30, 1994 and at May 31, 1994.  
+ 
+     Cash and equivalents increased $27 million primarily as a result of 
+cash flow from operations, offset partially by cash used by investing 
+activities, including the purchase of a new NIKE-owned subsidiary, and 
+cash used by financing activities, primarily the purchase of 1,000,000 
+shares of NIKE stock under the stock repurchase program announced in 
+July 1993. 
+ 
+     The increase in accounts receivable of $73 million was due to 
+sales growth in both October and November over last May's comparable two 
+month period. 
+ 
+     Overall inventories decreased $11 million since May 31.  Gross U.S. 
+footwear inventory is down $33 million and gross U.S. apparel inventory 
+is down $4 million, however, international inventories have increased 
+$25 million, primarily due to new NIKE-owned 
+subsidiaries. 
+ 
+     During the quarter, the Company announced a 25% increase in the 
+quarterly cash dividend to $0.25 per share from the previous $0.20 per 
+share. 
+ 
+     Subsequent to November 30, 1994, the Company has commenced 
+an offer to purchase all of the outstanding shares of Canstar Sports, 
+Inc., the world's largest hockey equipment manufacturer for Canadian 
+$27.50 per share in cash.  The total value of the proposed transaction 
+is approximately U.S.$395 million.  The Company also announced that 
+it entered into an agreement with the principal shareholders, who 
+together represent 46% of Canstar's shares, to acquire those shares for 
+the same price.  The acquisition is subject to regulatory approval and 
+other customary conditions.
+ 
+     The debt to equity ratio at November 30, 1994 was .4:1 compared to 
+.4:1 at May 31, 1994 and .3:1 at November 30, 1993.  Management believes that 
+funds generated by operations, together with currently available resources, 
+will adequately finance anticipated fiscal 1995 expenditures.  At  
+November 30, 1994, the Company had $300 million available in committed  
+unused lines of credit. 
+ 
+ 
+                           Part II - Other Information 
+ 
+ 
+Item 1.   Legal Proceedings: 
+ 
+     There have been no material changes from the information previously 
+reported under Item 3 of the Company's Annual Report on Form 10-K for the 
+fiscal year ended May 31, 1994. 
+ 
+ 
+Item 6.   Exhibits and Reports on Form 8-K: 
+ 
+     (a)  Exhibits: 
+ 
+    3.1 Restated Articles of Incorporation, as amended (incorporated 
+        by reference from Exhibit 3.1 to the Company's Annual Report 
+        on Form 10-K for the fiscal year ended May 31, 1988 and 
+        Exhibit 4.1 to the Company's Quarterly Report on Form 10-Q 
+        for the fiscal quarter ended August 31, 1990). 
+ 
+    3.2 Second Restated Bylaws, as amended (incorporated by reference 
+        from Exhibit 3.2 to the Company's Annual Report on Form 10-K for 
+        the fiscal year ended May 31, 1993). 
+ 
+    4.1 Articles IV, VI, VII, VIII and X of the Restated Articles of  
+        Incorporation, as amended (see Exhibit 3.1). 
+ 
+    4.2 Articles II, III, VII, IX and X of the Second Restated Bylaws, as 
+        amended (see Exhibit 3.2). 
+ 
+   10.1 Credit Agreement dated as of June 1, 1991 among NIKE, Inc., 
+        The First National Bank of Chicago, individually and as Agent, 
+        and the other banks party thereto (incorporated by reference 
+        from the Company's Annual Report on Form 10-K for the fiscal 
+        year ended May 31, 1991).
+ 
+   10.2 Amendment No. 2 to Credit Agreement dated as of November 7, 1994 
+        extending  the termination date of the revolving credit facility 
+        in Exhibit 10.1 to November 30, 1996. 
+ 
+   10.3 Form of non-employee director Stock Option Agreement (incorporated 
+        by reference from Exhibit 10.3 to the Company's Annual Report on 
+        Form 10-K for the fiscal year ended May 31, 1993).* 
+
+   10.4 Form of Indemnity Agreement entered into between the Company and 
+        each of its officers and directors (incorporated by reference from 
+        the Company's definitive proxy statement filed in connection with 
+        its annual meeting of shareholders held on September 21, 1987).
+ 
+   10.5 NIKE, Inc. Restated Employee Incentive Compensation Plan 
+        (incorporated by reference from Registration Statement No. 33-29262 
+        on Form S-8 filed by the Company on June 16, 1989).* 
+ 
+   10.6 NIKE, Inc. 1990 Stock Incentive Plan (incorporated by reference 
+        from the Company's definitive proxy statement filed in connection 
+        with its annual meeting of shareholders held on September 17, 1990)* 
+ 
+   10.7 Collateral Assignment Split-Dollar Agreement between NIKE, Inc. 
+        and Philip H. Knight dated March 10, 1994 (incorporated by 
+        reference from Exhibit 10.7 to the Company's Annual Report on 
+        Form 10-K for the fiscal year ended May 31, 1994).*
+ 
+   27   Financial Data Schedule 
+ 
+* Management contract or compensatory plan or arrangement. 
+
+     (b)  The following report on Form 8-K was filed by the Company during 
+    the second quarter of fiscal 1995: 
+ 
+Form 8-K  September 19, 1994   ITEM 5.  OTHER EVENTS.  Press Release 
+                                                       regarding first 
+                                                       quarter earnings. 
+ 
+ 
+ 
+ 
+ 
+  
+                                   SIGNATURES 
+ 
+     Pursuant to the requirements of the Securities and Exchange Act 
+of 1934, the Registrant has duly caused this report to be signed on its 
+behalf by the undersigned thereunto duly authorized. 
+ 
+                              NIKE, Inc. 
+                              An Oregon Corporation 
+  
+                              BY:  s/Robert S. Falcone 
+                                   ________________________ 
+ 
+                                   Robert S. Falcone 
+                                   Vice President,  
+                                   Chief Financial Officer 
+ 
+ 
+DATED:  January 17, 1995 
+ 
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>2
+<TEXT>
+ 
+ 
+              Amendment No. 2 to Credit Agreement 
+ 
+     This Amendment No. 2 to Credit Agreement dated as of June 1, 
+1991, (the "Amendment") is dated as of November 7, 1994, and is 
+among NIKE, Inc. (the "Company"), The First National Bank of 
+Chicago, as agent for the Company (the "Agent") and the Banks 
+party thereto (the "Banks"). 
+ 
+                        WITNESSETH: 
+ 
+     WHEREAS, the Company, the Agent and the Banks are parties to 
+that certain Credit Agreement dated as of June 1, 1991 (the 
+"Agreement"); and 
+ 
+     WHEREAS, the Company desires to extend the Revolving Credit 
+Termination Date (as defined in the Agreement); and 
+ 
+     WHEREAS, the Company desires to remove a Bank from the 
+Agreement and change the Commitments of the remaining Banks; and 
+ 
+     WHEREAS, the Banks are willing to grant the request on the 
+terms and subject to the conditions hereinafter set forth; and 
+ 
+     NOW, THEREFORE, in consideration of the premises herein 
+contained, and for other good and valuable consideration, the 
+receipt of which is hereby acknowledged, the parties hereto hereby 
+agree as follows: 
+ 
+1.   Defined Terms.  Capitalized terms used herein and not 
+otherwise defined shall have their meanings as attributed to 
+such terms in the Agreement. 
+ 
+2.   Amendments to the Agreement.  
+ 
+     2.1  The Revolving Credit Termination Date, which was 
+previously extended to November 30, 1995, is hereby extended to 
+November 30, 1996.  The definition of Revolving Credit Termination 
+Date is amended by deleting the date "November 30, 1995" contained 
+therein substituting therefor the date "November 30, 1996". 
+ 
+     2.2  The Commitments of the Lenders listed on the signature 
+pages of the Agreement is amended by deleting the Commitments 
+listed thereon and substituting therefor the Commitments listed 
+opposite each such Lender's name on the signature pages to this 
+Amendment No. 2. 
+ 
+     2.3  The Agreement is amended by deleting Canadian Imperial 
+Bank of Commerce ("CIBC") as a party to the Agreement, effective 
+as of the effective date of this Amendment No. 2. 
+ 
+3.   Representations and Warranties.  In order to induce the Agent 
+and the undersigned Banks to enter into this Amendment, the 
+Company represents and warrants that: 
+ 
+     3.1  The representations and warranties set forth in Article 
+V of the Agreement are true, correct and complete on the date 
+hereof as if made on and as of the date hereof and that there 
+exists no Default or Unmatured Default on the date hereof. 
+ 
+     3.2  The execution and delivery by the Company of this 
+Amendment has been duly authorized by proper corporate proceedings 
+of the Company and this Amendment, and the Agreement, as amended 
+by this Amendment, constitute the valid and binding obligations of 
+the Company, enforceable against the Company in accordance with 
+their terms, except as enforceability may be limited by 
+bankruptcy, insolvency or similar laws affecting the enforcement 
+of creditors' rights generally and subject also to the availability 
+of equitable remedies if equitable remedies are sought.
+ 
+     3.3  Neither the execution and delivery by the Company of 
+this Amendment, nor the consummation of the transactions herein 
+contemplated, nor compliance with the provisions hereof will 
+violate any law, rule, regulation, order, writ, judgment, 
+injunction, decree or award binding on the Company or any 
+Subsidiary of the Company's or any Subsidiary's articles of 
+incorporation or by-laws or the provisions of any indenture, 
+instrument or agreement to which the Company or any Subsidiary is 
+a party or is subject, or by which it or its property, is bound, 
+or conflict with or constitute a default thereunder. 
+ 
+4.   Effective Date.  This Amendment shall become effective as of 
+the date first above written upon receipt by the Agent of copies 
+hereof executed by the Company, executed by the Agent, the Company 
+and each Bank and evidence satisfactory to the Agent that CIBC has 
+been paid in full for all Obligations owing to it under the 
+Agreement. 
+ 
+5.   Ratification.  The Agreement, as amended hereby, remains in 
+full force and effect. 
+ 
+6.   Reference to Agreement.  From and after the effective date 
+hereof, each reference in the Agreement to "this Agreement", 
+"hereof", or "hereunder" or words of like import, and all 
+references to the Agreement in any and all agreements, 
+instruments, documents, notes, certificates and other writings of 
+every kind and nature shall be deemed to mean the Agreement, as 
+amended by this Amendment.
+
+7.  Execution in Counterparts.  This Amendment may be executed in 
+any number of counterparts and by different parties hereto in 
+separate counterparts, each of which when so executed shall be 
+deemed to be an original and all of which taken together shall 
+constitute one and the same agreement. 
+ 
+8.  Choice of Law.  THIS AMENDMENT SHALL BEhjgb CONSTRUED IN 
+ACCORDANCE WITH THE INTERNAL LAWS (AND NOT THE LAW OF CONFLICTS) 
+OF THE STATE OF ILLINOIS, BUT GIVING EFFECT TO FEDERAL LAWS 
+APPLICABLE TO NATIONAL BANKS. 
+ 
+9.  OREGON LEGAL NOTICE.  UNDER OREGON LAW, MOST AGREEMENTS, 
+PROMISES AND COMMITMENTS MADE BY US AFTER THE EFFECTIVE DATE OF 
+THIS ACT CONCERNING LOANS AND OTHER CREDIT EXTENSIONS WHICH ARE 
+NOT FOR PERSONAL, FAMILY OR HOUSEHOLD PURPOSES OR SECURED SOLELY 
+BY THE BORROWER'S RESIDENCE MUST BE IN WRITING, EXPRESS 
+CONSIDERATION AND BE SIGNED BY US  TO BE ENFORCEABLE.  THE TERM 
+"THIS ACT" MEANS CHAPTER 967 OREGON LAWS 1989.  THE TERM "US" 
+MEANS THE BANKS.  THE EFFECTIVE DATE OF THIS ACT IS OCTOBER 3, 
+1989. 
+ 
+     IN WITNESS WHEREOF, the Borrower, the Agent and the 
+undersigned Lenders have executed this Agreement as of the date 
+first above written. 
+ 
+                               NIKE, INC. 
+ 
+                               /s/ Marcia A. Stilwell 
+                                   Treasurer 
+Commitments 
+$ 20,000,000                   THE FIRST NATIONAL BANK OF CHICAGO, 
+                               individually and as Agent 
+ 
+                               By ___________________________ 
+ 
+$ 20,000 000                   ABN AMRO BANK N.V. 
+ 
+                               By ___________________________ 
+ 
+$ 20,000,000                   BANK BRUSSELS LAMBERT, NEW YORK 
+                               BRANCH 
+ 
+ 
+                               By ___________________________ 
+ 
+$ 20,000,000                   BANQUE NATIONAL DE PARIS 
+ 
+ 
+                               By ___________________________ 
+ 
+$ 20,000,000                   CITIBANK, N.A. 
+ 
+ 
+                               By ___________________________ 
+ 
+$ 20,000,000                   COMMERZBANK AKTIENGESELLSCHAFT, 
+                               GRAND CAYMAN BRANCH 
+ 
+ 
+                               By ___________________________ 
+ 
+$ 20,000,000                   CREDIT LYONNAIS 
+                               SAN FRANCISCO BRANCH 
+ 
+ 
+                               By ___________________________ 
+ 
+$ 20,000,000                   SEATTLE-FIRST NATIONAL BANK 
+ 
+ 
+                               By ___________________________ 
+ 
+$ 20,000,000                   BANK OF AMERICA NATIONAL TRUST 
+                               AND SAVINGS ASSOCIATION (As 
+                               successor to SECURITY PACIFIC 
+                               BANK OF OREGON) 
+ 
+ 
+                               By ___________________________ 
+ 
+$ 20,000,000                   SOCIETE GENERAL 
+ 
+ 
+                               By ___________________________ 
+ 
+$ 20,000,000                   SWISS BANK CORPORATION, 
+                               SAN FRANCISCO BRANCH 
+ 
+ 
+                               By ___________________________ 
+ 
+$ 20,000,000                   THE BANK OF NOVA SCOTIA 
+ 
+ 
+                               By ___________________________ 
+ 
+$ 20,000,000                   THE BANK OF TOKYO, LTD., 
+                               PORTLAND BRANCH 
+ 
+ 
+                               By ___________________________ 
+ 
+$ 20,000,000                   THE HONGKONG AND SHANGHAI BANKING 
+                               CORPORATION LIMITED 
+ 
+ 
+                               By ___________________________ 
+ 
+$ 20,000,000                   UNITED STATES NATIONAL BANK OF 
+                               OREGON 
+ 
+ 
+                               By ___________________________ 
+_______________ 
+ 
+$300,000,000 
+ 
+================
+
+ 
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>ART. 5 FDS FOR 2ND QUARTER 10-Q
+<TEXT>
+
+<TABLE> <S> <C>
+ 
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM
+THE NOVEMBER 30, 1994 FORM 10-Q AND IS QUALIFIED IN ITS ENTIRETY BY
+REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          MAY-31-1995
+<PERIOD-END>                               NOV-30-1994
+<CASH>                                         546,105
+<SECURITIES>                                         0
+<RECEIVABLES>                                  776,952
+<ALLOWANCES>                                    29,695
+<INVENTORY>                                    459,276
+<CURRENT-ASSETS>                             1,882,247
+<PP&E>                                         707,155
+<DEPRECIATION>                                 265,254
+<TOTAL-ASSETS>                               2,527,755
+<CURRENT-LIABILITIES>                          587,349
+<BONDS>                                         14,299
+<COMMON>                                         2,858
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                        300
+<OTHER-SE>                                   1,858,393
+<TOTAL-LIABILITY-AND-EQUITY>                 2,527,755
+<SALES>                                      2,224,101
+<TOTAL-REVENUES>                             2,224,101
+<CGS>                                        1,340,478
+<TOTAL-COSTS>                                1,340,478
+<OTHER-EXPENSES>                               555,636
+<LOSS-PROVISION>                                 6,363
+<INTEREST-EXPENSE>                               8,698
+<INCOME-PRETAX>                                312,926
+<INCOME-TAX>                                   122,000
+<INCOME-CONTINUING>                            190,926
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                   190,926
+<EPS-PRIMARY>                                     2.59
+<EPS-DILUTED>                                     2.59
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

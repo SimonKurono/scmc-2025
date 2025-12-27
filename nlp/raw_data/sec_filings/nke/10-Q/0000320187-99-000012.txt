@@ -1,0 +1,1562 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GgzKOqsshfGPK/HOWfZJZi+jnuiKopgFocu/tGX0/g10cyjAiKoo5bYz5XLIm1Tv
+ ThU9AlwTwY8OrM5hA/80KA==
+
+<SEC-DOCUMENT>0000320187-99-000012.txt : 19991018
+<SEC-HEADER>0000320187-99-000012.hdr.sgml : 19991018
+ACCESSION NUMBER:		0000320187-99-000012
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19990831
+FILED AS OF DATE:		19991015
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NIKE INC
+		CENTRAL INDEX KEY:			0000320187
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		IRS NUMBER:				930584541
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-10635
+		FILM NUMBER:		99729437
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+		BUSINESS PHONE:		5036416453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<TEXT>
+
+
+                   SECURITIES AND EXCHANGE COMMISSION
+
+                       Washington, D.C.  20549
+
+                              FORM 10-Q
+
+          FOR QUARTERLY REPORTS UNDER SECTION 13 OR 15 (d) OF
+              THE SECURITIES AND EXCHANGE ACT OF 1934
+
+  For the Quarter Ended August 31, 1999 Commission file number - 1-10635
+
+                               NIKE, Inc.
+
+        (Exact name of registrant as specified in its charter)
+
+           OREGON                                  93-0584541
+
+   (State or other jurisdiction of             (I.R.S. Employer
+    incorporation or organization)              Identification No.)
+
+        One Bowerman Drive, Beaverton, Oregon    97005-6453
+
+     (Address of principal executive offices)        (Zip Code)
+
+Registrant's telephone number, including area code (503) 671-6453
+
+Indicate by check mark whether the registrant (1) has filed all reports
+
+required to be filed by Section 13 or 15 (d) of the Securities Exchange
+
+Act of 1934 during the preceding 12 months (or for such shorter period
+
+that the registrant was required to file such reports), and (2) has been
+
+subject to such filing requirements for the past 90 days
+
+Yes  X   No     .
+    ___      ___
+
+Common Stock shares outstanding as of August 31, 1999 were:
+                                  _________________
+
+                    Class A         100,670,071
+
+                    Class B         179,370,967
+                                    -----------
+                                    280,041,038
+                                    ===========
+
+
+
+PART 1 - FINANCIAL INFORMATION
+
+Item 1.  Financial Statements
+                                   NIKE, Inc.
+
+                      CONDENSED CONSOLIDATED BALANCE SHEET
+                                                       Aug. 31,      May 31,
+                                                         1999         1999
+                                                       ________      _______
+                                                           (in millions)
+
+           ASSETS
+
+Current assets:
+     Cash and equivalents                              $  226.2     $  198.1
+     Accounts receivable                                1,701.2      1,540.1
+     Inventories (Note 4)                               1,229.4      1,199.3
+     Deferred income taxes                                117.5        120.6
+     Income taxes receivable                                 -          15.9
+     Prepaid expenses                                     183.0        190.9
+                                                       ________     ________
+
+     Total current assets                               3,457.3      3,264.9
+
+Property, plant and equipment                           2,301.2      2,001.3
+     Less accumulated depreciation                        775.8        735.5
+                                                       ________     ________
+
+                                                        1,525.4      1,265.8
+
+Identifiable intangible assets and goodwill               422.5        426.6
+Deferred income taxes and other assets                    299.1        290.4
+                                                       ________     ________
+
+                                                       $5,704.3     $5,247.7
+                                                       ========     ========
+             LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+     Current portion of long-term debt                 $   50.9     $    1.0
+     Notes payable                                        488.7        419.1
+     Accounts payable                                     488.0        373.2
+     Accrued liabilities                                  678.8        653.6
+     Income taxes payable                                 101.4            -
+                                                       ________     ________
+
+          Total current liabilities                     1,807.8      1,446.9
+Long-term debt                                            462.2        386.1
+Deferred income taxes and other liabilities                81.0         79.8
+Commitments and contingencies (Note 7)                       --           --
+Redeemable preferred stock                                  0.3          0.3
+Shareholders' equity:
+     Common stock at stated value:
+          Class A convertible-100.7 and
+            101.7 shares outstanding                        0.2          0.2
+          Class B-179.4 and 181.6 shares
+               outstanding                                  2.7          2.7
+     Capital in excess of stated value                    335.9        334.1
+     Accumulated other comprehensive income               (80.4)       (68.9)
+     Retained earnings                                  3,094.6      3,066.5
+                                                       ________     ________
+
+                                                        3,353.0      3,334.6
+                                                       ________     ________
+
+                                                       $5,704.3     $5,247.7
+                                                       ========     ========
+
+The accompanying Notes to Condensed Consolidated Financial Statements are
+an integral part of this statement.
+
+                                     NIKE, Inc.
+ <TABLE>
+ <CAPTION>
+                     CONDENSED CONSOLIDATED STATEMENT OF INCOME
+<S>                                    <C>        <C>
+
+                                      Three Months Ended
+                                       August 31, 1999
+                                      __________________
+
+                                       1999        1998
+                                       ____        ____
+
+                            (in millions, except per share data)
+Revenues                              $2,501.1    $2,504.8
+                                      _________   _________
+Costs and expenses:
+     Cost of sales                     1,534.7     1,562.6
+     Selling and administrative          626.5       652.6
+     Interest                             10.0        14.2
+     Other expense                         7.0         4.6
+                                      _________   _________
+
+                                       2,178.2     2,234.0
+                                      ________   __________
+
+Income before income taxes               322.9       270.8
+
+Income taxes                             122.7       107.0
+                                       ________     ________
+
+Net income                            $  200.2   $   163.8
+                                       =========   =========
+
+Basic earnings per common share       $   0.71   $    0.57
+(Note 3)                               =========   =========
+Diluted earnings per common share     $   0.70   $    0.56
+(Note 3)                               =========   =========
+Dividends declared per common share   $   0.12   $    0.12
+                                       =========   =========
+
+</TABLE>
+
+
+The accompanying Notes to Condensed Consolidated Financial Statements are
+an integral part of this statement.
+
+
+NIKE, Inc.
+
+
+                   CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+
+                                                          Three Months Ended
+                                                             August 31,
+                                                          _________________
+
+                                                          1999         1998
+                                                          ____         ____
+
+                                                            (in millions)
+
+Cash provided (used) by operations:
+          Net income                                     $ 200.2      $163.8
+Income charges (credits) not
+          affecting cash:
+          Depreciation                                      43.5        57.2
+          Deferred income taxes                             (8.4)       (1.7)
+          Amortization and other                            18.1        (0.6)
+          Changes in other working capital
+            components                                      62.7       150.2
+                                                         _______      _______
+
+          Cash provided by operations                      316.1       368.9
+                                                         _______      _______
+Cash provided (used) by investing activities:
+          Additions to property, plant and
+            equipment                                     (285.7)      (85.6)
+          Disposals of property, plant and
+            equipment                                        6.3         3.6
+          Increase in other assets                          (9.1)       (9.6)
+          Increase (decrease) in other liabilities           0.1        (6.4)
+                                                          _______     _______
+
+          Cash used by investing activities               (288.4)      (98.0)
+                                                          _______     _______
+
+Cash provided (used) by financing activities:
+          Additions to long-term debt                      108.9           -
+          Reductions in long-term debt
+            including current portion                       (0.3)       (0.4)
+          Increase (decrease) in notes payable              69.6      (131.9)
+          Proceeds from exercise of options                  5.1         6.4
+          Repurchase of stock                             (130.1)      (43.3)
+          Dividends - common and preferred                 (33.9)      (34.4)
+                                                          _______     _______
+
+          Cash provided (used) by financing activities      19.3      (203.6)
+                                                          _______     _______
+
+Effect of exchange rate changes on cash                    (18.9)       (8.1)
+Net increase in cash and equivalents                        28.1        59.2
+Cash and equivalents, May 31, 1999 and 1998                198.1       108.6
+                                                         _______      _______
+
+Cash and equivalents, August 31, 1999
+  and 1998                                               $ 226.2      $167.8
+                                                         =======      =======
+
+The accompanying Notes to Condensed Consolidated Financial Statements are
+an integral part of this statement.
+
+
+                                   NIKE, Inc.
+
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1 - Summary of significant accounting policies:
+         ___________________________________________
+
+Basis of presentation:
+
+     The accompanying unaudited condensed consolidated financial statements
+reflect all adjustments (consisting of normal recurring accruals) which
+are, in the opinion of management, necessary for a fair presentation of
+the results of operations for the interim period(s).  The interim financial
+information and notes thereto should be read in conjunction with the
+Company's latest annual report to shareholders.  The results of operations
+for the three (3) months ended August 31, 1999 are not necessarily
+indicative of results to be expected for the entire year.
+
+Year 2000 costs:
+
+     Costs associated with the Company's efforts around Year 2000 issues are
+expensed as incurred, unless they relate to the purchase of hardware and
+software, and software development, in which case they are capitalized.
+Capitalized software and hardware costs are depreciated from three to five
+years.
+
+NOTE 2 - Comprehensive Income:
+         __________________
+
+     Comprehensive income, net of taxes, is as
+follows:
+
+                              Three Months Ended
+                                 August 31,
+                              __________________
+
+                               1999        1998
+                               ____        ____
+
+                                (in millions)
+
+Net Income                    $200.2      $163.8
+Change in Cumulative
+Translation Adjustment         (11.5)       (5.1)
+                              _______     _______
+
+Total Comprehensive Income    $188.7      $158.7
+                              =======     =======
+
+NOTE 3 - Net income per common share:
+         ___________________________
+
+     Basic and diluted earnings per share are calculated in accordance with SFAS
+128, "Earnings per Share."  This standard requires that basic earnings per
+share be calculated using the average common shares outstanding.  Diluted
+earnings per share are calculated by taking into consideration the dilutive
+effect of issued and outstanding stock options.  The following represents a
+reconciliation from basic earnings per share to diluted earnings per share:
+
+                              Three Months Ended
+                                 August 31,
+                              __________________
+
+                               1999         1998
+                               ____         ____
+
+                   (in millions, except per share data)
+
+Determination of shares:
+   Average common shares
+     outstanding                281.1        286.7
+   Assumed conversion of
+     stock options                4.4          5.3
+                               ______       ______
+
+Diluted average common
+   shares outstanding           285.5        292.0
+                               ======       ======
+
+Basic earnings per
+   common share                $ 0.71       $ 0.57
+                               ======       ======
+Diluted earnings per
+   common share                $ 0.70       $ 0.56
+                               ======       ======
+
+
+NOTE 4 - Inventories:
+         ___________
+
+     Inventories by major classification are as follows:
+
+                                        Aug. 31,      May 31,
+                                          1999         1999
+                                        ________     ________
+
+                                           (in millions)
+                    Finished goods      $1,166.1     $1,132.7
+                    Work-in-progress        46.5         44.8
+                    Raw materials           16.8         21.8
+                                        ________     ________
+
+                                        $1,229.4     $1,199.3
+                                        ========     ========
+
+NOTE 5 - Operating Segments:
+
+     The Company's major operating segments are defined by geographic regions
+for subsidiaries participating in NIKE Brand sales activity.  Other Brands as
+shown below represent activity for non-NIKE brand subsidiaries (Cole-Haan
+Holdings, Inc., Bauer NIKE Hockey, Inc., and NIKE IHM, Inc.) and are considered
+immaterial for individual disclosure.  Where applicable, "Corporate and Other"
+represents items necessary to reconcile to the consolidated financial
+statements which generally include corporate activity and corporate
+eliminations.  The segments are evidence of the structure of the enterprise's
+internal organization.  Each NIKE Brand geographic segment operates
+predominantly in one industry:  the design, production, marketing and selling
+of sports and fitness footwear, apparel, and equipment.
+
+     Net revenues as shown below represent sales to external customers for each
+segment.  Intercompany revenues have been eliminated and are immaterial for
+separate disclosure.  The Company evaluates performance of individual operating
+segments based on Contribution Profit before Corporate Allocations, Interest
+Expense and Income Taxes.  On a consolidated basis, this amount represents
+Income Before Taxes less Interest Expense as shown in the Consolidated
+Statement of Income.  Other reconciling items for Contribution Profit represent
+corporate costs that are not allocated to the operating segments for management
+reporting and intercompany eliminations for specific income statement items.
+
+     Accounts receivable, inventory, and fixed assets for operating segments
+are regularly reviewed and therefore provided:
+
+<TABLE>
+ <CAPTION>
+<S>                                    <C>        <C>
+
+                                      Three Months Ended
+                                       August 31, 1999
+                                      __________________
+
+                                       1999        1998
+                                       ____        ____
+Net Revenue
+USA                                   $1,331.7    $1,357.1
+EURORE                                   717.8       680.9
+ASIA PACIFIC                             190.9       191.4
+AMERICAS                                 143.6       152.6
+OTHER BRANDS                             117.1       122.8
+                                      _________   _________
+                                      $2,501.1    $2,504.8
+                                      =========   =========
+
+Contribution Profit
+USA                                   $  274.3    $  286.0
+EUROPE                                   151.9       127.1
+ASIA PACIFIC                              24.0         7.7
+AMERICAS                                  20.4        27.0
+OTHER BRANDS                              20.0         5.1
+CORPORATE & OTHER                       (157.7)     (167.9)
+                                      _________   _________
+                                      $  332.9    $  285.0
+                                      =========   =========
+
+                                       Aug. 31,     May 31,
+                                        1999         1998
+                                      _________   __________
+
+Accounts Receivable, net
+USA                                   $  564.8    $  578.2
+EUROPE                                   703.3       551.6
+ASIA PACIFIC                             133.0       141.5
+AMERICAS                                 132.8       119.2
+OTHER BRANDS                             132.6       104.6
+CORPORATE & OTHER                         34.7        45.0
+                                      _________   _________
+                                      $1,701.2    $1,540.1
+                                      =========   =========
+
+Inventories, net
+USA                                   $  604.3    $  565.5
+EUROPE                                   278.2       316.3
+ASIA PACIFIC                              90.3        81.5
+AMERICAS                                  82.5        73.1
+OTHER BRANDS                             140.7       137.5
+CORPORATE & OTHER                         33.4        25.4
+                                      _________   _________
+                                      $1,229.4    $1,199.3
+                                      ========    =========
+
+Property, Plant and Equipment, net
+USA                                    $  287.8    $ 293.0
+EUROPE                                    292.6      271.4
+ASIA PACIFIC                              372.3      148.0
+AMERICAS                                   21.0       21.5
+OTHER BRANDS                              109.7      111.7
+CORPORATE & OTHER                         442.0      420.2
+                                      _________   _________
+                                       $1,525.4   $1,265.8
+                                      =========   =========
+</TABLE>
+
+
+Note 6 - Restructuring Charges:
+
+1999 Charge
+
+     During fiscal 1999, a $60.1 million charge was taken due to further cost
+realignment programs.  The charge (shown below in tabular format) was primarily
+for costs of severing employees, including severance packages, lease
+abandonments and the write down of assets no longer in use. Employees were
+terminated in Europe, Asia Pacific, and in the United States, and included
+employees affected by the Company's shift to outsourcing certain of its
+information technology functions.  The total number of employees terminated was
+1,291, with 840 having left the Company as of August 31, 1999.
+
+     Also included in the charge was a $20.2 write-off of certain assets
+related to the change in strategies around the Company's warehouse distribution
+facilities in the United States.
+
+     The remaining accrual balance will be relieved throughout fiscal 2000 and
+early 2001, as leases expire and severance payments are completed.
+
+
+
+
+Detail of the 1999 restructuring charge is as follows:
+
+<TABLE>
+<CAPTION>
+<S>                            <C>        <C>              <C>        <C>          <C>         <C>
+(in millions)
+
+                                              FY99           FY99
+DESCRIPTION                     CASH/NON- RESTRUCTURING    ACTIVITY     RESERVE     ACTIVITY     RESERVE
+                                  CASH       CHARGE                    BALANCE AT               BALANCE AT
+                                                                        5/31/99                  8/31/99
+____________________________________________________________________________________________________________
+ELIMINATION OF JOB
+RESPONSIBILITES                             $(39.9)         $21.9      $(18.0)       $4.1        $(13.9)
+
+Severance packages                cash       (28.0)          11.7       (16.3)        3.8         (12.5)
+Lease cancellations &
+commitments                       cash        (2.4)           1.6        (0.8)        0.1          (0.7)
+Write-down of assets              non-cash    (7.8)           7.8          -           -             -
+Other                             cash/non-   (1.7)           0.8        (0.9)        0.2          (0.7)
+                                   cash
+____________________________________________________________________________________________________________
+CHANGE IN WAREHOUSE
+DISTRIBUTION STRATEGY                        $(20.2)        $20.2       $  -        $  -          $  -
+
+Write-down of assets             non-cash     (20.2)         20.2          -           -             -
+____________________________________________________________________________________________________________
+Effect of foreign currency
+translation                                     -             0.1       $0.1        $(0.4)        $(0.3)
+____________________________________________________________________________________________________________
+____________________________________________________________________________________________________________
+TOTAL                                        $(60.1)        $42.2     $(17.9)        $3.7        $(14.2)
+____________________________________________________________________________________________________________
+
+<Table/
+
+
+1998 Charge
+
+     During the fourth quarter of fiscal 1998 the Company recorded a
+restructuring charge of $129.9 million as a result of certain of the Company's
+actions to better align its cost structure with expected revenue growth rates.
+The restructuring activities (shown below in tabular format) primarily related
+to:  1) the elimination of job responsibilities company-wide, resulting in costs
+to sever employees and related asset write-downs and lease abandonments related
+to the affected employees; 2) the relocation of, and elimination of, certain job
+responsibilities of the Asia Pacific headquarters in Hong Kong, resulting in
+reduction in workforce, lease abandonments and other costs of downsizing the
+Hong Kong headquarters; 3) the downsizing of the Company's Japan distribution
+center, resulting in the write-down of assets no longer in use; 4) the
+cancellation of certain non-strategic long-term endorsement contracts, resulting
+in one-time termination fees; and 5) the decision to exit certain manufacturing
+operations of the Bauer subsidiary, resulting in the reduction in manufacturing
+related jobs, the write-down of assets no longer in use, and the estimated loss
+on divestiture of certain manufacturing plants.
+
+     Employees were terminated from almost all areas of the Company, including
+marketing, sales and administrative areas.  The total number of employees
+terminated was 1,208, with 1,203 having left the Company as of August 31, 1999.
+
+     No increases to the 1998 restructuring charge have been made.  A total of
+$15 million of the restructuring charge was reversed in fiscal year 1999.
+During the first quarter of fiscal year 2000 continuing cash payments were made
+against the reserve liability as shown in the table below.  The remaining
+accrual will be relieved throughout fiscal 2000, as lease and severance
+payments, some of which are paid on a monthly basis, are completed.
+
+
+
+Detail of the 1998 restructuring charge is as follows:
+
+
+</TABLE>
+<TABLE>
+<CAPTION>
+<S>                            <C>        <C>              <C>        <C>          <C>          <C>
+(in millions)
+                                              FY98           FY99
+DESCRIPTION                     CASH/NON- RESTRUCTURING    ACTIVITY     RESERVE     ACTIVITY     RESERVE
+                                  CASH       CHARGE                    BALANCE AT               BALANCE AT
+                                                                        5/31/99                  8/31/99
+___________________________________________________________________________________________________________
+
+ELIMINATION OF JOB
+RESPONSIBILITES COMPANY-
+WIDE                                        $(49.8)         $46.5      $ (3.3)        $ 1.0        $(2.3)
+
+Severance packages                cash       (29.1)          28.2        (0.9)          0.3         (0.6)
+Lease cancellations &
+commitments                       cash       (10.8)           8.4        (2.4)          0.7         (1.7)
+Write-down of assets              non-cash    (9.6)           9.6          -             -            -
+Other                             cash        (0.3)           0.3          -             -            -
+___________________________________________________________________________________________________________
+
+DOWNSIZING THE ASIA PACIFIC
+HEADQUARTERS IN HONG KONG                   $(13.1)          13.0       $(0.1)         $0.1        $  -
+
+Severance packages                cash        (4.6)           4.6          -             -            -
+Lease cancellations &
+commitments                       cash        (5.5)           5.4        (0.1)          0.1           -
+Write-down of assets              non-cash    (3.0)           3.0          -             -            -
+____________________________________________________________________________________________________________
+DOWNSIZING THE JAPAN
+DISTRIBUTION CENTER                         $(31.6)         $30.5       $(1.1)         $1.1        $  -
+
+Write-off of assets               non-cash   (12.5)          12.5          -             -            -
+Software development costs        cash/non   (19.1)          18.0        (1.1)          1.1           -
+                                  cash
+____________________________________________________________________________________________________________
+CANCELLATION OF ENDORSEMENT
+CONTRACTS                         cash       $(5.6)          $5.3       $(0.3)         $ -        $(0.3)
+____________________________________________________________________________________________________________
+EXITING CERTAIN MANUFACTURING
+OPERATIONS AT BAUER                         $(22.7)         $21.7       $(1.0)         $0.3        $(0.7)
+
+Write-down of assets              non-cash   (14.7)          14.7          -             -            -
+Divestiture of manufacturing
+facilities                        non-cash    (5.2)           5.2          -             -            -
+Lease cancellations &
+commitments                       cash        (1.6)           0.9        (0.7)          0.2         (0.5)
+Severance packages                cash        (1.2)           0.9        (0.3)          0.1         (0.2)
+____________________________________________________________________________________________________________
+OTHER                                        $(7.1)           6.4       $(0.7)         $0.2        $(0.5)
+
+Cash                              cash        (0.6)           0.6           -             -            -
+Non-cash                          non-cash    (6.5)           5.8        (0.7)          0.2         (0.5)
+____________________________________________________________________________________________________________
+Effect of foreign currency
+translation                                     -            $0.2        $0.2         $(0.5)       $(0.3)
+____________________________________________________________________________________________________________
+____________________________________________________________________________________________________________
+TOTAL                                      $(129.9)        $123.6       $(6.3)         $2.2        $(4.1)
+____________________________________________________________________________________________________________
+</TABLE
+
+
+
+NOTE 7 - Commitments and contingencies:
+         _____________________________
+
+     There have been no other significant subsequent developments
+relating to the commitments and contingencies reported on the
+Company's most recent Form 10-K.
+
+
+Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS AND
+FINANCIAL CONDITION
+
+Operating Results
+_________________
+
+     Net income for the first quarter of fiscal year 2000 was $200.2 million, a
+22% increase compared to the $163.8 million in the prior year's first quarter.
+The increase in net income was primarily a result of a full percentage point
+increase in overall gross margins and lower selling and administrative spending,
+both in total dollars and as a percentage of revenues.  Overall revenues were
+flat with last year's first quarter and while close-out sales represented about
+the same percentage of total sales each quarter, the margins those sales
+generated increased by more than 500 basis points, leading directly to the
+overall increase in gross margins for the quarter.
+
+     Revenues in the U.S. decreased 2% for the quarter compared to last year.
+Footwear revenues were up 3% due to a 2% increase in pairs sold and a relatively
+flat average selling price.  Running, our largest U.S. footwear category,
+increased 17% in the quarter.  Other strong performing categories included
+soccer, up 28%, Jordan Brand, up 61% and Branded Athletic, up 32%.  U.S. apparel
+revenues decreased 11% for the quarter.  Our two largest apparel categories in
+the U.S., Branded Athletic and Kids, decreased 16% and increased 6%,
+respectively.  Most other apparel categories showed decreases for the quarter,
+with the exception of Basketball and Jordan Brand, with increases of 57% and
+97%, respectively.  Gross margins in the U.S. region were down slightly from the
+prior year, principally due to the need to airfreight footwear product to meet
+customers' product delivery needs.
+
+     Revenues in the Europe region increased 5%, 10% had the dollar remained
+constant with that of the prior year.  Footwear and apparel sales were equally
+strong, each increasing 6% for the quarter, 11% and 10%, respectively, on a
+constant dollar basis.  Our three largest countries, in terms of revenue levels,
+outside of the U.S., the United Kingdom, France and Italy, increased 5%, 7% and
+14%, respectively, on a constant dollar basis.  Gross margins in the region
+increased two percentage points due to increased pricing margins on in-line
+products.
+
+     Revenues in the Asia Pacific region were flat for the first quarter
+compared to last year.  Had the dollar remained constant, revenues would have
+decreased 8%.  On a constant dollar basis, footwear revenues increased 7% over
+last year while apparel revenues decreased 29%.  In both footwear and apparel,
+the close-out product sales decreased significantly compared to last year,
+representing a much lower percentage of total sales.  This was directly
+attributable to our successful efforts in the prior year to liquidate the high
+levels of inventories.  Given this change in mix to more in-line sales, overall
+gross margin percentages in the region increased 600 basis points.
+
+     Revenues in the Americas region, which includes Canada, Mexico, South
+America and Africa, decreased 6% to $143.6 million.  Had the dollar remained
+constant, revenues would have declined 3%.  Canada, the largest country in the
+region, had a 10% decrease in constant dollar revenues, while Mexico increased
+14%.  Gross margins in the region also declined due to higher freight costs and
+higher comparisons in the prior year due to the strength of certain currencies.
+
+     Other Brands' revenue, which includes Bauer NIKE Hockey, Cole Haan and NIKE
+IHM (which includes what was formally Tetra Plastics), decreased 5% for the
+quarter.
+
+
+
+
+The breakdown of revenues follows:
+
+                                           Three Months Ended
+                                              August 31,
+                                           ___________________
+                                                               %
+                                         1999       1998    change
+                                        ______     ______   _______
+
+                                                (in millions)
+U.S.A. REGION
+
+   FOOTWEAR                              $941.0    $917.4      3%
+   APPAREL                                332.0     374.7    -11%
+   EQUIPMENT AND OTHER                     58.7      65.0    -10%
+                                        _______   _______
+     TOTAL U.S.A.                       1,331.7   1,357.1     -2%
+
+EUROPE REGION
+
+   FOOTWEAR                               375.3     354.2      6%
+   APPAREL                                328.4     310.8      6%
+   EQUIPMENT AND OTHER                     14.1      15.9    -11%
+                                        _______   _______
+     TOTAL EUROPE                         717.8     680.9      5%
+
+ASIA PACIFIC REGION
+
+   FOOTWEAR                               123.2     106.3     16%
+   APPAREL                                 62.5      79.4    -21%
+   EQUIPMENT AND OTHER                      5.2       5.7     -9%
+                                        _______   _______
+     TOTAL ASIA PACIFIC                   190.9     191.4      0%
+
+AMERICAS REGION
+
+   FOOTWEAR                               100.6     102.6     -2%
+   APPAREL                                 38.6      47.0    -18%
+   EQUIPMENT AND OTHER                      4.4       3.0     47%
+                                        _______   _______
+     TOTAL AMERICAS                       143.6     152.6     -6%
+
+                                        _______   _______
+TOTAL NIKE BRAND                        2,384.0   2,382.0      0%
+
+OTHER & OTHER BRANDS                      117.1     122.8     -5%
+
+                                        _______   _______
+TOTAL REVENUES                         $2,501.1  $2,504.8      0%
+                                       ========  ========
+
+
+
+     Selling and administrative expenses decreased 4% from last year's first
+quarter and dropped to 25% of revenues, down from 26.1%.  This quarter
+represents the fifth straight comparable quarter decline in total spending.  The
+reductions in spending came primarily from marketing and advertising areas, as
+last year's first quarter included costs surrounding the World Cup with no
+corresponding event this fiscal year.  Wage related expenses increased 2.5% over
+last year.
+
+     Interest expense decreased for the quarter, compared to last year,
+primarily due to our restructured agreement with Nissho Iwai Corporation
+(discussed further below), offset by increased short term debt.  Other expense
+increased slightly over the prior year, mainly due to increased profit share
+expense and costs associated with the shutdown of one of our screenprint
+facilities.
+
+     Our tax expense for the quarter decreased to an effective rate of 38%,
+compared to 39.5% last year.  The drop was primarily due to reduced state taxes
+and the utilization of tax loss carryforwards of certain foreign operations that
+have recently turned profitable.
+
+     Worldwide futures and advance orders for NIKE brand athletic footwear and
+apparel scheduled for delivery between September 1999 and January 2000 totaled
+$3.2 billion, 2% higher than such orders for the same period last year.  These
+orders and the percentage change in these orders are not necessarily indicative
+of the change in revenues that we will experience for subsequent periods.  This
+is due to potential shifts in the mix of advance orders in relation to at once
+orders and varying cancellation rates.  Finally exchange rate fluctuations will
+also cause differences in the comparisons.
+
+Restructuring charges
+
+1999 Charge
+
+     During fiscal year 1999, a $60.1 million restructuring charge was incurred
+as a result of certain actions taken to better align our cost structure with
+expected revenue growth rates.  The charge (shown below in tabular format) was
+primarily for costs of severing employees, including severance packages, lease
+abandonments and the write down of assets no longer in use.  Two major areas
+that were affected by the reduction in force include our information technology
+functions, primarily in the U.S., as we shifted to an outsource agreement for
+certain areas, and European customer service and accounting, where we are in the
+process of consolidating functions from individual countries to our European
+headquarters.  Outside of these two areas, employees were terminated from
+various other areas around the Company, including our Asia Pacific region.  The
+total number of employees terminated was 1,291, with 840 having left as of
+August 31, 1999.
+
+     The second major component of the 1999 charge was a write-off of certain
+equipment, hardware and software development costs at one of our U.S.
+distribution centers due to a change in strategy around how we flow product for
+a specific type of business.
+
+     No increases to the 1999 charge occurred during the first quarter.  The
+primary activity was due to cash payments of severance and lease obligations.
+
+1998 Charge
+
+     During the fourth quarter of fiscal 1998, we recorded a restructuring
+charge of $129.9 million as a result of certain of our actions to better align
+our overall cost structure and organization with planned revenue levels. The
+restructuring activities (shown below in tabular format) primarily related to:
+1) the elimination of job responsibilities company-wide, resulting in costs to
+sever employees and related asset write-downs and lease abandonments related to
+the affected employees; 2) the relocation of, and elimination of, certain job
+responsibilities of the Asia Pacific headquarters in Hong Kong, resulting in
+reduction in workforce, lease abandonments and other costs of downsizing the
+Hong Kong headquarters; 3) the downsizing of the Company's Japan distribution
+center, resulting in the write-down of assets no longer in use; 4) the
+cancellation of certain non-strategic long-term endorsement contracts, resulting
+in one-time termination fees; and 5) the decision to exit certain manufacturing
+operations of the Bauer subsidiary, resulting in the reduction in manufacturing
+related jobs, the write-down of assets no longer in use and the estimated loss
+on divestiture of certain manufacturing plants.
+
+     No increases to the 1998 restructuring charge have been made.  A total of
+$15 million of the restructuring charge was reversed in fiscal year 1999.
+During the first quarter of fiscal year 2000 continuing cash payments were made
+against the reserve liability as shown in the table below. As of August 31,
+1999, there were a total of 1,208 employees terminated in the original plan
+announced in the fourth quarter of fiscal 1998, with 1,203 having left as of
+that date.
+
+
+Detail of the 1999 restructuring charge is as follows:
+
+
+</TABLE>
+<TABLE>
+<CAPTION>
+<S>                            <C>        <C>              <C>        <C>          <C>         <C>
+(in millions)
+
+                                              FY99           FY99
+DESCRIPTION                     CASH/NON- RESTRUCTURING    ACTIVITY     RESERVE     ACTIVITY     RESERVE
+                                  CASH       CHARGE                    BALANCE AT               BALANCE AT
+                                                                        5/31/99                  8/31/99
+____________________________________________________________________________________________________________
+ELIMINATION OF JOB
+RESPONSIBILITES                             $(39.9)         $21.9      $(18.0)       $4.1        $(13.9)
+
+Severance packages                cash       (28.0)          11.7       (16.3)        3.8         (12.5)
+Lease cancellations &
+commitments                       cash        (2.4)           1.6        (0.8)        0.1          (0.7)
+Write-down of assets              non-cash    (7.8)           7.8          -           -             -
+Other                             cash/non-   (1.7)           0.8        (0.9)        0.2          (0.7)
+                                   cash
+____________________________________________________________________________________________________________
+CHANGE IN WAREHOUSE
+DISTRIBUTION STRATEGY                        $(20.2)        $20.2       $  -        $  -          $  -
+
+Write-down of assets             non-cash     (20.2)         20.2          -           -             -
+____________________________________________________________________________________________________________
+Effect of foreign currency
+translation                                     -             0.1       $0.1        $(0.4)        $(0.3)
+____________________________________________________________________________________________________________
+____________________________________________________________________________________________________________
+TOTAL                                        $(60.1)        $42.2     $(17.9)        $3.7        $(14.2)
+____________________________________________________________________________________________________________
+
+<Table/>
+
+
+Detail of the 1998 restructuring charge is as follows:
+
+
+</TABLE>
+<TABLE>
+<CAPTION>
+<S>                            <C>        <C>              <C>        <C>          <C>          <C>
+(in millions)
+                                              FY98           FY99
+DESCRIPTION                     CASH/NON- RESTRUCTURING    ACTIVITY     RESERVE     ACTIVITY     RESERVE
+                                  CASH       CHARGE                    BALANCE AT               BALANCE AT
+                                                                        5/31/99                  8/31/99
+___________________________________________________________________________________________________________
+
+ELIMINATION OF JOB
+RESPONSIBILITES COMPANY-
+WIDE                                        $(49.8)         $46.5      $ (3.3)        $ 1.0        $(2.3)
+
+Severance packages                cash       (29.1)          28.2        (0.9)          0.3         (0.6)
+Lease cancellations &
+commitments                       cash       (10.8)           8.4        (2.4)          0.7         (1.7)
+Write-down of assets              non-cash    (9.6)           9.6          -             -            -
+Other                             cash        (0.3)           0.3          -             -            -
+___________________________________________________________________________________________________________
+
+DOWNSIZING THE ASIA PACIFIC
+HEADQUARTERS IN HONG KONG                   $(13.1)          13.0       $(0.1)         $0.1        $  -
+
+Severance packages                cash        (4.6)           4.6          -             -            -
+Lease cancellations &
+commitments                       cash        (5.5)           5.4        (0.1)          0.1           -
+Write-down of assets              non-cash    (3.0)           3.0          -             -            -
+____________________________________________________________________________________________________________
+DOWNSIZING THE JAPAN
+DISTRIBUTION CENTER                         $(31.6)         $30.5       $(1.1)         $1.1        $  -
+
+Write-off of assets               non-cash   (12.5)          12.5          -             -            -
+Software development costs        cash/non   (19.1)          18.0        (1.1)          1.1           -
+                                  cash
+____________________________________________________________________________________________________________
+CANCELLATION OF ENDORSEMENT
+CONTRACTS                         cash       $(5.6)          $5.3       $(0.3)         $ -        $(0.3)
+____________________________________________________________________________________________________________
+EXITING CERTAIN MANUFACTURING
+OPERATIONS AT BAUER                         $(22.7)         $21.7       $(1.0)         $0.3        $(0.7)
+
+Write-down of assets              non-cash   (14.7)          14.7          -             -            -
+Divestiture of manufacturing
+facilities                        non-cash    (5.2)           5.2          -             -            -
+Lease cancellations &
+commitments                       cash        (1.6)           0.9        (0.7)          0.2         (0.5)
+Severance packages                cash        (1.2)           0.9        (0.3)          0.1         (0.2)
+____________________________________________________________________________________________________________
+OTHER                                        $(7.1)           6.4       $(0.7)         $0.2        $(0.5)
+
+Cash                              cash        (0.6)           0.6           -             -            -
+Non-cash                          non-cash    (6.5)           5.8        (0.7)          0.2         (0.5)
+____________________________________________________________________________________________________________
+Effect of foreign currency
+translation                                     -            $0.2        $0.2         $(0.5)       $(0.3)
+____________________________________________________________________________________________________________
+____________________________________________________________________________________________________________
+TOTAL                                      $(129.9)        $123.6       $(6.3)         $2.2        $(4.1)
+____________________________________________________________________________________________________________
+</TABLE
+
+
+Euro Conversion
+
+     On January 1, 1999, eleven of the fifteen member countries of the European
+Union established permanent, fixed conversion rates between their existing
+currencies and the European Union's new common currency, the euro.  During the
+transition period ending December 31, 2001, public and private parties may pay
+for goods and services using either the euro or the participating country's
+legacy currency.  Beginning January 1, 2002, euro denominated bills and coins
+will be issued, with the legacy currencies being completely withdrawn from
+circulation on June 30, 2002.
+
+     We have had a dedicated project team working on euro strategy since January
+1998.  We are in the process of making modifications to information technology
+systems including marketing, order management, purchasing, invoicing, payroll,
+and cash management.  Many of our systems are already euro compliant.  Our plan
+is to have most systems converted to euro compliance by the end of calendar year
+2000, well ahead of the end of the transitional period.
+
+     We believe the introduction of the euro may create a move towards a greater
+level of price harmonization although differing country costs and value added
+tax rates will continue to result in price differences at a retail level.  We
+have a process in place to analyze price trends among countries.  Currency
+exchange and hedging costs could be reduced, due to the introduction of the
+euro.
+
+     The costs of implementing the euro are generally related to modification of
+existing systems, and are estimated to be approximately $14 million.  These
+costs will be expensed as incurred.  We believe that the conversion to the euro
+will not be material to our financial condition or results of operations.
+
+Year 2000 Readiness Disclosure
+
+     The Year 2000 issue (the "Year 2000" or "Y2K" issue) is the result of
+computer programs using two digits rather than four to define the applicable
+year.  Such software may recognize a date using "00" as the year 1900 or some
+other year, rather than the year 2000.  This could result in system failures or
+miscalculations leading to disruptions in NIKE's activities and operations.  If
+we, our significant suppliers or customers fail to make necessary modifications,
+conversions and contingency plans on a timely basis, the Year 2000 issue could
+have a material adverse effect on our financial condition, results of operations
+or liquidity.
+
+STATE OF READINESS
+
+     Project Categories
+
+     In May 1997, NIKE established a corporate-wide project team to oversee,
+monitor and coordinate the Company-wide Year 2000 effort.  Our Year 2000 project
+focuses on three areas: (1) information technology ("IT") systems, such as
+application software, mainframes, PCs, networks and production control systems;
+(2) non-IT systems, such as equipment, machinery, climate control and security
+systems, which may contain microcontrollers with embedded technology; and (3)
+suppliers and customers.
+
+     NIKE uses a four-phase approach to fix or replace non-compliant IT systems:
+
+     (1)     inventory, assessment of risks and impact and prioritization of
+             projects:
+
+             -  Tier 1-critical (vital to business operations)
+
+             -  Tier 2-high priority (important to business operations)
+
+             -  Tier 3-moderate priority (minor disruption to operations
+             expected if non-compliant)
+
+             -  Tier 4-low priority (will not disrupt operations even if non-
+             compliant);
+
+(2) remediation (fix, replace or develop contingency plans for
+        non-compliant systems);
+
+     (3)     testing (validation) and implementation; and
+
+     (4)     completion and auditing results where appropriate.
+
+When appropriate, we have engaged the services of independent consultants to
+analyze and develop testing standards, quality assurance and contingency plans.
+We use our internal auditing department to review Year 2000 compliance and have
+consulted with external independent consultants to evaluate and review those
+results.
+
+     IT Projects
+
+     By early 1999, we had identified 148 major internal IT remediation projects
+worldwide. Of the 148 projects, we have completed and tested 144 as Year 2000
+compliant as of September 30, 1999.  Of the remaining 4, all of which are
+classified as Tier 3, three will be completed by October 31, 1999, and one will
+be completed by November 30, 1999.  NIKE plans to continue integrated testing
+through the end of the year.  In addition, we have halted (or "frozen") new
+installations and upgrades of all operational systems as of October 1, 1999 and
+continuing through January 2000 or until we determine the risk for system
+failure has passed.
+
+     Non-IT Projects
+
+     By early 1999, we had identified 27 major internal non-IT remediation
+projects worldwide.  We designated all 27 of these projects as high priority.
+These include facilities that are critical to NIKE's business operations,
+potentially including equipment, machinery, climate control and security systems
+at regional headquarters, key distribution centers, and in countries with
+significant sales.  All of these projects have been completed and tested as Year
+2000 compliant.  All other non-IT projects are classified as non-priority non-IT
+projects, which include climate control, security and mechanical systems in all
+other facilities.  To the extent that these non-priority non-IT projects may not
+be completed by December 31, 1999, we do not expect that any non-compliance or
+failure of these systems, individually or in the aggregate, will have a material
+adverse effect on NIKE's manufacturing, distribution, inventory control or the
+management and collection of our accounts receivable.
+
+     Suppliers and Customers
+
+     We have focused our Year 2000 compliance efforts on our significant
+suppliers and customers - those that are material to our business - and are
+assessing the Year 2000 readiness of these significant suppliers and customers.
+We have assessed the Year 2000 readiness of 469 of our suppliers, 163 of which
+we consider to be significant suppliers.  We have also assessed the Year 2000
+readiness of 151 customers, 59 of which we consider to be significant customers.
+We have relationships with significant suppliers and customers in most of the
+locations in which we operate.  The level of preparedness of our significant
+suppliers and customers varies greatly from operation to operation and country
+to country.  NIKE relies on suppliers to timely deliver a broad range of goods
+and services worldwide, including raw materials, footwear, apparel, accessories,
+equipment, advertising, transportation services, banking services,
+telecommunications and utilities.  Moreover, our suppliers rely on countless
+other suppliers, over which we may have little or no influence regarding Year
+2000 compliance.
+
+     We have sent surveys to all of our significant suppliers and customers to
+determine the extent to which we may be affected by those third parties' Y2K
+preparedness plans.  A substantial majority of our significant suppliers and
+customers have not responded to our surveys, have not provided assurance of
+their Year 2000 readiness, or have not responded with sufficient detail for us
+to determine their Year 2000 readiness.  In the absence of adequate responses,
+have made independent assessments of our significant suppliers and customers and
+the countries in which they operate.  These assessments included direct contact
+and discussions with persons coordinating Y2K compliance efforts for our
+significant suppliers and customers.  We also researched regulatory filings and
+other public information available to NIKE provided by our significant suppliers
+and customers and, in general, countries in which they operate.  We have
+identified as higher risk many of the countries that have been widely identified
+by government agencies and public reports as being significantly behind in their
+Y2K status.
+
+CONTINGENCY PLANS
+
+     Having completed remediation and testing of most major projects, our
+"worst-case scenario" would be a failure of multiple significant suppliers to
+supply merchandise or services for a prolonged period of time that would
+materially impair our ability to ship product in a timely and reliable manner to
+our customers.  Although the occurrence of this scenario could have a material
+adverse effect on NIKE, we do not have a basis to determine at this time whether
+such a scenario is reasonably likely to occur.  We believe that suppliers and
+customers present the area of greatest risk to disruption of our operations
+because of our limited ability to influence actions of third parties or to
+estimate the level and impact of their noncompliance throughout the extended
+supply chain.
+
+     We have developed contingency plans for our significant suppliers and
+customers.  In addition, we have developed contingency plans that assume some
+estimated level of noncompliance by, or business disruption to, certain other
+suppliers and customers on a case-by-case basis.  We will continue to modify the
+contingency plans as conditions change throughout 1999.
+
+     The contingency plans for our suppliers and customers include, where
+appropriate, (1) booking orders and manufacturing and shipping products before
+anticipated business disruptions, (2) shifting production capacity from
+facilities that NIKE determines to be at high risk of noncompliance or business
+disruption, (3) consolidating finance vendors and (4) temporarily discontinuing
+business with suppliers determined to be high risk of noncompliance or business
+disruption and finding alternative suppliers.
+
+     We have also completed contingency plans for our Tier 1 IT systems.  These
+plans include, where appropriate, (1) manual work processes, (2) storing
+additional sets of backup data before critical process dates, (3) off-site
+system recovery, and (4) temporarily shifting production software from one
+hardware system to another.  In addition, personnel we deem essential to system
+operation and recovery are scheduled to be available during high-risk periods.
+
+     We continually update our assessments and revise our contingency plans for
+our significant suppliers and customers as we receive additional information
+from them concerning their Y2K preparedness.  However, judgments regarding
+contingency plans - such as how to develop them and to what extent - are subject
+to many variables and uncertainties.  There can be no assurance that NIKE will
+correctly anticipate the level, impact or duration of noncompliance by its
+suppliers and customers.   As a result, there is no certainty that our
+contingency plans will be sufficient to mitigate the impact of noncompliance by
+suppliers and customers and some material adverse effect to NIKE may result from
+one or more third parties regardless of our contingency plans.  The failure of
+any contingency plans could have a material adverse effect on NIKE's financial
+condition, results of operations or liquidity.
+
+     COSTS
+
+     As of August 31, 1999, NIKE estimates that total costs related to the Year
+2000 issue will be approximately $100 to $110 million, of which approximately
+$97 million have been incurred.  Of the $97 million, approximately $40 million
+are external expenses, $18 million internal costs and $39 million replacement
+projects.  Approximately $10 million of the non-replacement expenses will be
+capitalized; the remainder has been expensed as incurred.  NIKE funds Year 2000
+costs through operating cash flows.  We presently believe that the total cost of
+achieving Year 2000 compliant systems will not be material to our financial
+condition, liquidity or results of operations.
+
+     Estimates of time, cost and risk estimates are based on currently available
+information.  Developments that could affect estimates include, but are not
+limited to:  the availability and cost of trained personnel; the ability to
+locate and correct all relevant computer code and systems; cooperation and Year
+2000 readiness of our suppliers and customers (and their suppliers and
+customers); and the ability to correctly anticipate risks and implement suitable
+contingency plans in the event of system failures at NIKE or with our suppliers
+and customers (and their suppliers and customers).
+
+     The above section, even if incorporated by reference into other documents
+or disclosures, is a Year 2000 Readiness Disclosure as defined under the Year
+2000 Information and Readiness Disclosure Act of 1998.
+
+Liquidity and Capital Resources
+
+     Our financial position remained strong at August 31, 1999.  Compared to May
+31, 1999 shareholders' equity increased slightly to $3.4 billion.  Working
+capital decreased 9% to $1.6 billion and the current ratio was 1.91:1 at August
+31, 1999 compared to 2.26:1 at May 31, 1999.
+
+     Cash provided by operations was $316.1 million, a decrease of $53 million
+compared to the first quarter of last year.  While net income increased $36.4
+million in the first quarter of fiscal 2000 compared with the same period in the
+prior year, cash provided by operations was negatively affected by the
+comparable quarter on quarter decrease of $88 million in the change in other
+working capital components.  The primary reasons for the reduction relate to:
+1) the effect of prior years liquidation of high inventory levels company wide,
+which resulted in a significant reduction in inventory during the first quarter
+of the prior year compared with a slight increase in inventory during the first
+quarter of fiscal 2000; 2) cash collections were less in quarter one of fiscal
+2000 compared to the same period last year due to lower levels of revenue in
+quarter four of fiscal 1999 compared with the same period in the prior year; 3)
+a significant increase in the change in account payables and other current
+liabilities compared with the prior year given increased levels of operations
+and the timing of payments, most notably income taxes payable.
+
+     The increase in overall inventories of $30.1 million includes approximately
+$100 million of in-transit inventory at August 31, 1999 not previously
+recognized.  During the first quarter of fiscal 2000, we signed a new inventory
+supply agreement with our trading partner, Nissho Iwai Corporation, which
+changed the effective date of ownership for inventory purchases in the USA.
+Under the new agreement, we will now recognize inventory 15 to 25 days earlier
+than in the past.  The new agreement allows us to take over certain of the
+inventory financing duties from Nissho to take advantage of more favorable
+interest rates.
+
+     Additions to property, plant and equipment for the first quarter of fiscal
+2000 were $286 million.  Approximately $200 million related to the purchase of
+our distribution facility in Japan, discussed below.  The other single largest
+expenditure related to the continued expansion of our world headquarters.
+
+     During the first quarter we finalized the purchase of our distribution
+facility in Japan from Nissho Iwai Corporation.  We financed the purchase by
+assuming Nissho's loans with the Japanese Development Bank representing
+approximately one-half of the total purchase and obtaining short term debt for
+the remainder.
+
+     We believe that significant funds generated by operations, together with
+access to sufficient sources of funds, will adequately meet our anticipated
+operating, global infrastructure expansion and capital needs.  Significant short
+and long-term lines of credit are maintained with banks, which, along with cash
+on hand, provide adequate operating liquidity.  Liquidity is also provided by
+our commercial paper program, under which there was $291 million outstanding at
+August 31, 1999.
+
+     Dividends per share of common stock for the first quarter of fiscal 2000
+remained at $.12 per share, the same level as the previous year.
+
+     As of August 31, 1999, we purchased a total of 11.4 million shares of
+NIKE's Class B common stock for $497 million in the open market since the $1
+billion share repurchase program was approved in December 1997.  During the
+first quarter of fiscal 2000, we purchased a total of 2.7 million shares for
+$142 million.  Funding has, and is expected to continue to, come from operating
+cash flow in conjunction with short-term borrowings.  The timing and the amount
+of shares purchased will be dictated by working capital needs and stock market
+conditions.
+
+
+Special Note Regarding Forward-Looking Statements
+and Reports Analyst Reports
+
+     Certain written and oral statements made or incorporated by reference
+from time to time by NIKE or its representatives in this report, other
+reports, filings with the Securities and Exchange Commission, press releases,
+conferences, or otherwise, are "forward-looking statements" within the meaning
+of the Private Securities Litigation Reform Act of 1995 ("the Act").  Forward-
+looking statements include, without limitation, any statement that may predict,
+forecast, indicate, or imply future results, performance, or achievements, and
+may contain the words "believe," "anticipate," "expect," "estimate," "project,"
+"will be," "will continue," "will result," or words or phrases of similar
+meaning.  Forward-looking statements involve risks and uncertainties which may
+cause actual results to differ materially from the forward-looking statements.
+The risks and uncertainties are detailed from time to time in reports filed by
+NIKE with the S.E.C., including Forms 8-K, 10-Q, and 10-K, and include, among
+others, the following:  international, national and local general economic and
+market conditions (including the current Asian economic problems); the size and
+growth of the overall athletic footwear, apparel, and equipment markets; intense
+competition among designers, marketers, distributors and sellers of athletic
+footwear, apparel, and equipment for consumers and endorsers; demographic
+changes; changes in consumer preferences; popularity of particular designs,
+categories of products, and sports; seasonal and geographic demand for NIKE
+products; the size, timing and mix of purchases of NIKE's products; fluctuations
+and difficulty in forecasting operating results, including, without limitation,
+the fact that advance "futures" orders may not be indicative of future revenues
+due to the changing mix of futures and at-once orders; the ability of NIKE to
+sustain, manage or forecast its growth and inventories; new product development
+and introduction; the ability to secure and protect trademarks, patents, and
+other intellectual property; performance and reliability of products; customer
+service; adverse publicity; the loss of significant customers or suppliers;
+dependence on distributors; business disruptions; disruptions due to Year 2000
+noncompliance by NIKE, its suppliers or customers (or their suppliers or
+customers); increased costs of freight and transportation to meet delivery
+deadlines; changes in business strategy or development plans; general risks
+associated with doing business outside the United States, including, without
+limitation, import duties, tariffs, quotas and political and economic
+instability; changes in government regulations; liability and other claims
+asserted against NIKE; the ability to attract and retain qualified personnel;
+and other factors referenced or incorporated by reference in this report and
+other reports.
+
+     The risks included here are not exhaustive.  Other sections of this
+report may include additional factors which could adversely impact NIKE's
+business and financial performance.  Moreover, NIKE operates in a very
+competitive and rapidly changing environment.  New risk factors emerge from
+time to time and it is not possible for management to predict all such risk
+factors, nor can it assess the impact of all such risk factors on NIKE's
+business or the extent to which any factor, or combination of factors, may
+cause actual results to differ materially from those contained in any forward-
+looking statements.  Given these risks and uncertainties, investors should not
+place undue reliance on forward-looking statements as a prediction of actual
+results.
+
+     Investors should also be aware that while NIKE does, from time to time,
+communicate with securities analysts, it is against NIKE's policy to disclose
+to them any material non-public information or other confidential commercial
+information.  Accordingly, shareholders should not assume that NIKE agrees with
+any statement or report issued by any analyst irrespective of the content of
+the statement or report.  Furthermore, NIKE has a policy against issuing or
+confirming financial forecasts or projections issued by others.  Thus, to the
+extent that reports issued by securities analysts contain any projections,
+forecasts or opinions, such reports are not the responsibility of NIKE.
+
+
+                           Part II - Other Information
+
+ .
+Item 1.   Legal Proceedings:
+
+     There have been no material changes from the information previously
+reported under Item 3 of the Company's Annual Report on Form 10-K for the
+fiscal year ended May 31, 1999.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+     The Company's annual meeting of shareholders was held on September 22,
+1999.  The shareholders elected for the ensuing year all of management's
+nominees for the Board of Directors and ratified the appointment of Price
+waterhouseCoopers LLP as independent accountants for fiscal 2000.
+
+The voting results are as follows:
+
+
+Election of Directors
+
+                                       Votes Cast
+
+                           For          Withheld    Broker Non-Votes
+Directors
+Elected by holders of
+Class A Common Stock:
+
+Ralph D. DeNunzio       96,428,692        -0-           -0-
+Richard K. Donahue      96,428,692        -0-           -0-
+Douglas G. Houser       96,428,692        -0-           -0-
+John E. Jaqua           96,428,692        -0-           -0-
+Philip H. Knight        96,428,692        -0-           -0-
+Charles W. Robinson     96,428,692        -0-           -0-
+A. Michael Spence       96,428,692        -0-           -0-
+John R. Thompson, Jr.   96,428,692        -0-           -0-
+
+Elected by holders of
+Class B Common Stock:
+
+Thomas E. Clarke        155,634,130    2,931,088        -0-
+Jill K. Conway          156,340,084    2,225,134        -0-
+Delbert J. Hayes        156,092,021    2,473,197        -0-
+
+                                                                    Broker
+                             For          Against      Abstain    Non-Votes
+Proposal 2 -
+Ratify the appointment
+of PricewaterhouseCoopers LLP
+as independent accountants:
+
+Class A and Class B
+Common Stock Voting
+Together                 254,430,946       90,362      510,750        -0-
+
+
+
+Item 6.   Exhibits and Reports on Form 8-K:
+
+
+   (a)  EXHIBITS:
+
+    3.1 Restated Articles of Incorporation, as amended (incorporated by
+        reference from Exhibit 3.1 to the Company's Quarterly Report on
+        Form 10-Q for the fiscal quarter ended August 31, 1995).
+
+    3.2 Third Restated Bylaws, as amended (incorporated by reference
+        from Exhibit 3.2 to the Company's Quarterly Report on Form 10-Q for
+        the fiscal quarter ended August 31, 1995).
+
+    4.1 Restated Articles of Incorporation, as amended (see Exhibit 3.1).
+
+    4.2 Third Restated Bylaws, as amended (see Exhibit 3.2).
+
+    4.3 Form of Indenture between the Company and The First National Bank
+        of Chicago, as Trustee (incorporated by reference from Exhibit
+        4.01 to Amendment No. 1 to Registration Statement No. 333-15953
+        filed by the Company on November 26, 1996).
+
+   10.1 Credit Agreement dated as of September 15, 1995 among NIKE, Inc.,
+        Bank of America National Trust & Savings Association,
+        individually and as Agent, and the other banks party thereto
+        (incorporated by reference from the Company's Quarterly Report
+        on Form 10-Q for the fiscal quarter ended August 31, 1995).
+
+   10.2 Form of non-employee director Stock Option Agreement (incorporated
+        by reference from Exhibit 10.3 to the Company's Annual Report on
+        Form 10-K for the fiscal year ended May 31, 1993).*
+
+   10.3 Form of Indemnity Agreement entered into between the Company and
+        each of its officers and directors (incorporated by reference from
+        the Company's definitive proxy statement filed in connection with
+        its annual meeting of shareholders held on September 21, 1987).
+
+   10.4 NIKE, Inc. Restated Employee Incentive Compensation Plan
+        (incorporated by reference from Registration Statement No. 33-29262
+        on Form S-8 filed by the Company on June 16, 1989).*
+
+   10.5 NIKE, Inc. 1990 Stock Incentive Plan (incorporated by reference
+        from the Company's definitive proxy statement filed in connection
+        with its annual meeting of shareholders held on September 22, 1997).*
+
+   10.6 NIKE, Inc. Executive Performance Sharing Plan (incorporated
+        by reference from the Company's definitive proxy statement filed
+        in connection with its annual meeting of shareholders held on
+        September 18, 1995).*
+
+   10.7 NIKE, Inc. Long-Term Incentive Plan (incorporated by reference
+        from the Company's definitive proxy statement filed in connection
+        with its annual meeting of shareholders held on September 22, 1997).*
+
+   10.8 Collateral Assignment Split-Dollar Agreement between NIKE, Inc.
+        and Philip H. Knight dated March 10, 1994 (incorporated by
+        reference from Exhibit 10.7 to the Company's Annual Report on
+        Form 10-K for he fiscal year ended May 31, 1994).*
+
+   12.1 Computation of Ratio of Earnings to Charges.
+
+   27   Financial Data Schedule.
+
+* Management contract or compensatory plan or arrangement.
+
+  (b) Reports on Form 8-K:
+
+      No reports on Form 8-K were filed during the fiscal quarter ending
+      August 31, 1999.
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+                              NIKE, Inc.
+                              An Oregon Corporation
+
+                              BY:/s/Robert E. Harold
+                                 ________________________
+
+                                 Robert E. Harold
+                                 Interim Chief Financial Officer
+
+
+DATED:  October 15, 1999
+
+
+
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12.1
+<SEQUENCE>2
+<TEXT>
+
+
+                                  NIKE, INC.
+                  COMPUTATION OF RATIO OF EARNINGS TO CHARGES
+
+                                         Three Months Ended
+                                             August 31,
+                                         __________________
+
+                                        1999           1998
+                                        ____           ____
+
+                                           (in millions)
+
+Net income                             $200.2         $163.8
+Income taxes                            122.7          107.0
+                                       ______         ______
+
+      Income before income taxes        322.9          270.8
+                                       ______          _____
+
+Add fixed charges
+      Interest expense (A)               11.7           15.6
+      Interest component of leases (B)   11.7           10.4
+                                       ______         ______
+
+Total fixed charges                      23.4           26.0
+                                       ______         ______
+
+Earnings before income taxes and
+      fixed charges (C)                $344.6         $295.4
+                                       ======         ======
+Ratio of earnings to total fixed
+      charges                           14.73          11.36
+                                       ======         ======
+
+(A) Interest expense includes both expensed and capitalized.
+(B) Interest component of leases includes one-third of rental expense,
+    which approximates the interest component of operating leases.
+(C) Earnings before income taxes and fixed charges is exclusive of
+    capitalized interest.
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>ART. 5 FDS FOR 1ST QUARTER 10-Q
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM
+THE AUGUST 31, 1999 FORM 10-Q AND IS QUALIFIED IN ITS ENTIRETY BY
+REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          MAY-31-2000
+<PERIOD-END>                               AUG-31-1999
+<CASH>                                              226
+<SECURITIES>                                          0
+<RECEIVABLES>                                      1776
+<ALLOWANCES>                                         75
+<INVENTORY>                                        1129
+<CURRENT-ASSETS>                                   3457
+<PP&E>                                             2301
+<DEPRECIATION>                                      776
+<TOTAL-ASSETS>                                     5704
+<CURRENT-LIABILITIES>                              1808
+<BONDS>                                             462
+<COMMON>                                              3
+<PREFERRED-MANDATORY>                                 0
+<PREFERRED>                                           0
+<OTHER-SE>                                         3350
+<TOTAL-LIABILITY-AND-EQUITY>                       5704
+<SALES>                                            2501
+<TOTAL-REVENUES>                                   2501
+<CGS>                                              1535
+<TOTAL-COSTS>                                      1535
+<OTHER-EXPENSES>                                    630
+<LOSS-PROVISION>                                      4
+<INTEREST-EXPENSE>                                   10
+<INCOME-PRETAX>                                     323
+<INCOME-TAX>                                        123
+<INCOME-CONTINUING>                                 200
+<DISCONTINUED>                                        0
+<EXTRAORDINARY>                                       0
+<CHANGES>                                             0
+<NET-INCOME>                                        200
+<EPS-BASIC>                                      0.71
+<EPS-DILUTED>                                      0.70
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
