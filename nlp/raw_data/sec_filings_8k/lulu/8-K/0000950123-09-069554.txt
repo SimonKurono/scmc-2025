@@ -1,0 +1,2318 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VbXCE+CgMMu/n9HuGgXcBvmkUBASKKuAABA0bFlqQiJrfJnrlE/0AIz/EgB7eToH
+ Qfb25LpzFUO7s1bLKZLXWg==
+
+<SEC-DOCUMENT>0000950123-09-069554.txt : 20091209
+<SEC-HEADER>0000950123-09-069554.hdr.sgml : 20091209
+<ACCEPTANCE-DATETIME>20091209161610
+ACCESSION NUMBER:		0000950123-09-069554
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20091209
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20091209
+DATE AS OF CHANGE:		20091209
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			lululemon athletica inc.
+		CENTRAL INDEX KEY:			0001397187
+		STANDARD INDUSTRIAL CLASSIFICATION:	APPAREL & OTHER FINISHED PRODS OF FABRICS & SIMILAR MATERIAL [2300]
+		IRS NUMBER:				203842867
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0201
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33608
+		FILM NUMBER:		091231194
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+		BUSINESS PHONE:		604-732-6124
+
+	MAIL ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lululemon Corp.
+		DATE OF NAME CHANGE:	20070420
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>c93516e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="margin-left: 0.25in; width: 7.2in;font-family: 'Times New Roman',Times,serif">
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 8-K</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 OR 15(d) of The Securities Exchange Act of 1934</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Date of Report (Date of earliest event reported): December 9, 2009</B></DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>lululemon athletica inc.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+<TD width="32%">&nbsp;</TD>
+<TD width="2%">&nbsp;</TD>
+<TD width="32%">&nbsp;</TD>
+<TD width="2%">&nbsp;</TD>
+<TD width="32%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+<TD nowrap align="center" valign="top"><B>Delaware
+</B></TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top"><B>001-33608
+</B></TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top"><B>20-3842867</B></TD>
+</TR>
+<TR style="font-size: 1px">
+<TD valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD valign="top" align="left">&nbsp;</TD>
+<TD valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD valign="top" align="left">&nbsp;</TD>
+<TD valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" valign="top">(State or other jurisdiction<BR>
+of incorporation)
+</TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top">(Commission File Number)
+</TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top">(IRS Employer Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+<TD width="48%">&nbsp;</TD>
+<TD width="2%">&nbsp;</TD>
+<TD width="48%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+<TD align="center" valign="top"><B>2285 Clark Drive<BR>
+Vancouver, British Columbia <BR>Canada, V5N
+</B></TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top"><B>&nbsp;<BR><BR> 3G9 </B></TD>
+</TR>
+<TR style="font-size: 1px">
+<TD valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+<TD valign="top" align="left">&nbsp;</TD>
+<TD valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" valign="top">(Address of principal executive offices)
+</TD>
+<TD>&nbsp;</TD>
+<TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Registrant&#146;s telephone number, including area code: <B>(604) 732-6124</B></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B></B></DIV>
+
+<DIV align="center" style="font-size: 10pt"><FONT style="border-top: 1px solid #000000">(Former name or former address, if changed since last report.)</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: </DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+<TD width="3%" nowrap align="left"><FONT face="wingdings" size="2">&#111;</FONT></TD>
+<TD width="1%">&nbsp;</TD>
+<TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</TD>
+</TR>
+
+<TR>
+<TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+<TD width="3%" nowrap align="left"><FONT face="wingdings" size="2">&#111;</FONT></TD>
+<TD width="1%">&nbsp;</TD>
+<TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+</TR>
+
+<TR>
+<TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+<TD width="3%" nowrap align="left"><FONT face="wingdings" size="2">&#111;</FONT></TD>
+<TD width="1%">&nbsp;</TD>
+<TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</TD>
+</TR>
+
+<TR>
+<TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+<TD width="3%" nowrap align="left"><FONT face="wingdings" size="2">&#111;</FONT></TD>
+<TD width="1%">&nbsp;</TD>
+<TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio --><!-- /Folio --> </DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Item&nbsp;2.02. Results of Operations and Financial Condition.</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">On December&nbsp;9, 2009, lululemon athletica inc. (the &#147;Company&#148;) issued a press release
+announcing its financial results for the third fiscal quarter ended November&nbsp;1, 2009 and certain
+other information. A copy of the Company&#146;s press release is attached hereto as Exhibit&nbsp;99.1 and is
+incorporated herein by reference. As previously announced, the Company has scheduled a conference
+call for 4:30 p.m. EST on December&nbsp;9, 2009 to discuss financial results.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Item&nbsp;9.01. Financial Statements and Exhibits.</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">(d)&nbsp;Exhibits.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="77%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Exhibit No.</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Description</TD>
+</TR>
+
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">99.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Press release entitled &#147;lululemon athletica inc. Announces Third Quarter Fiscal 2009
+Results&#148;, issued by the Company on December&nbsp;9, 2009.</DIV></TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">SIGNATURES
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the
+registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">lululemon athletica inc.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Dated: December 9, 2009&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000" align="left">/s/ <FONT style="font-variant: SMALL-CAPS">John E. Currie</FONT>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">John E. Currie&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>EXHIBIT INDEX</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="77%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Exhibit No.</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Description</TD>
+</TR>
+
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">99.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Press release entitled &#147;lululemon athletica inc. Announces Third Quarter Fiscal 2009
+Results&#148;, issued by the Company on December&nbsp;9, 2009.</DIV></TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>c93516exv99w1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Exhibit 99.1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: Helvetica,Arial,sans-serif; margin-left: .25in; width: 7.20in">
+
+<DIV align="right" style="font-size: 10pt; margin-top: 10pt"><B>Exhibit&nbsp;99.1</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><IMG src="c93516c9351600.gif" alt="(LULULEMON LOGO)">
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>LULULEMON ATHLETICA INC. ANNOUNCES THIRD QUARTER FISCAL 2009 RESULTS<BR>
+Third Quarter Net Revenue Increases 30% to $112.9&nbsp;million<BR>
+Third Quarter Diluted EPS of $0.20<BR>
+Introduces Fourth Quarter Diluted EPS Outlook in the Range of $0.26 to $0.28</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>Vancouver, Canada &#151; December&nbsp;9, 2009 </B>&#151; lululemon athletica inc. &#091;NASDAQ: LULU; TSX: LLL&#093; today
+announced financial results for the third quarter ended November&nbsp;1, 2009.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt">For the third quarter of 2009:
+</DIV>
+
+<DIV style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Net revenue increased 29.7% to $112.9&nbsp;million from $87.0&nbsp;million for the third
+quarter of fiscal 2008. Net revenue from corporate-owned stores was $98.1&nbsp;million, an
+increase of 26.4% from $77.6&nbsp;million for the third quarter of fiscal 2008, and
+comparable-store sales increased by 10% on a constant-dollar basis compared to the third quarter of fiscal 2008.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Gross profit for the quarter increased by 34.4% to $56.3&nbsp;million, and as a
+percentage of net revenue gross profit increased to 49.9% for the third quarter of fiscal 2009 from 48.1% in
+the third quarter of fiscal 2008.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Income from operations increased by 60.3% to $20.9&nbsp;million, and as a percentage of
+net revenue was 18.5% compared to 15.0% of net revenue in the third quarter of fiscal
+2008.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Diluted earnings per share was $0.20 on net income of $14.1&nbsp;million, compared to
+diluted earnings per share of $0.13 on net income of $8.8&nbsp;million in the third quarter
+of fiscal 2008. The tax rate for the quarter was 32.8% versus 33.1% a year ago.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt">For the first three fiscal quarters of 2009:
+</DIV>
+
+<DIV style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Net revenue increased 17.1% to $292.3&nbsp;million from $249.6&nbsp;million for the same
+period of fiscal 2008. Net revenue from corporate-owned stores was $256.1&nbsp;million, an
+increase of 13.7% from $225.2&nbsp;million for the same period of fiscal 2008, and
+comparable-store sales were even on a constant-dollar basis compared to the same period of fiscal 2008.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Gross profit as a percentage of net revenue decreased to 46.7% from 51.1% of net
+revenue in the first three quarters of fiscal 2008.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Income from operations was $45.1&nbsp;million, or 15.4% of net revenue, compared to $40.5
+million, or 16.2% of net revenue, in the first three quarters of fiscal 2008.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 10pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Diluted earnings per share was $0.42 on net income of $29.8&nbsp;million, compared to
+diluted earnings per share of $0.40 on net income of $28.4&nbsp;million in the first three
+quarters of fiscal 2008.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt">The Company ended the quarter with $101.8&nbsp;million in cash and cash equivalents as compared to $56.8
+million at the end of fiscal 2008. Inventory at the end of the quarter totaled $52.1&nbsp;million as
+compared to $49.1&nbsp;million at the end of the third quarter in fiscal 2008.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt">Christine Day, lululemon&#146;s CEO stated: &#147;Sales momentum
+continued to build in the third quarter as consumers responded to our distinctive product, community connections and in
+store guest experience. Our hard work on our supply chain initiatives and strong relationships with our suppliers
+allowed us to meet our growing demand.&#148; Ms. Day continued, &#147;We also made significant progress in improving our gross margin
+with a return to the 50% level, and are very pleased to deliver these results in a challenging retail environment.&#148;
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>Updated Outlook</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><I>For the fourth quarter of fiscal 2009, we expect net revenue to be in the range of $140&nbsp;million to
+$145&nbsp;million based on a comparable-store sales increase in the mid teens on a
+constant-dollar basis. Diluted earnings per share are expected to be in the range of $0.26 to $0.28
+for the quarter. This assumes a tax rate of 35% and 71.3&nbsp;million diluted weighted-average shares
+outstanding.</I>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">Creating components for people to live longer, healthier and more fun lives
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif; margin-left: .25in; width: 7.20in">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><IMG src="c93516c9351600.gif" alt="(LULULEMON LOGO)">
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>Conference Call Information</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt">A conference call to discuss third quarter results is scheduled for today, December&nbsp;9, 2009, at
+4:30 PM Eastern Time. Investors interested in participating in the call are invited to dial (877)
+741-4242 approximately ten minutes prior to the start of the call. The conference call will also be
+webcast live at <u>www.lululemon.com</u>. The webcast will be accessible on our website for approximately
+30&nbsp;days after the call.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>About lululemon athletica inc.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt">lululemon athletica (NASDAQ:LULU; TSX:LLL) is a yoga-inspired athletic apparel company that creates
+components for people to live longer, healthier and more fun lives. By producing products that
+help keep people active and stress free, lululemon believes that the world will be a better place.
+Setting the bar in technical fabrics and functional designs, lululemon works with yogis and
+athletes in local communities for continuous research and product feedback. For more information,
+visit <u>www.lululemon.com</u>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>Non-GAAP Financial Measure</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt">Constant-dollar net revenue changes, which exclude the impact of changes in foreign exchange rates,
+is not a U.S. Generally Accepted Accounting Principle (&#147;GAAP&#148;) performance measure. We provide
+constant-dollar net revenue changes because we use the measure to understand the underlying growth
+rate of revenue excluding the impact on a quarter by quarter basis of changes in foreign exchange
+rates, which are not under management&#146;s direct control. We believe that disclosing net revenue
+changes on a constant-dollar basis is useful to investors because it enables them to better
+understand the level of growth of our business.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>Forward-Looking Statements:</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt">This press release contains &#147;forward-looking statements&#148; within the meaning of Section&nbsp;27A of the
+Securities Act of 1933 and Section&nbsp;21E of the Securities Exchange Act of 1934 that involve risks,
+uncertainties and assumptions, such as statements regarding our future financial condition or
+results of operations, our prospects and strategies for future growth, the development and
+introduction of new products, and the implementation of our marketing and branding strategies. In
+many cases, you can identify forward-looking statements by terms such as &#147;may,&#148; &#147;will,&#148; &#147;should,&#148;
+&#147;expects,&#148; &#147;plans,&#148; &#147;anticipates,&#148; &#147;outlook,&#148; &#147;believes,&#148; &#147;intends,&#148; &#147;estimates,&#148; &#147;predicts,&#148;
+&#147;potential&#148; or the negative of these terms or other comparable terminology. These forward-looking
+statements are based on management&#146;s current expectations but they involve a number of risks and
+uncertainties. Actual results and the timing of events could differ materially from those
+anticipated in the forward-looking statements as a result of risks and uncertainties, which
+include, without limitation: the possibility that we may not be able to manage operations at our
+current size or manage growth effectively; risks that consumer spending may continue to decline
+and that U.S. and global macroeconomic conditions may worsen; the possibility that levels of
+comparable-store sales or average sales per square foot will decline; the possibility that we may
+not be able to successfully expand in the United States and other new markets; increased
+competition causing us to reduce the prices of our products or to increase significantly our
+marketing efforts in order to avoid losing market share; the possibility that we may not be able
+to continually innovate and provide our consumers with improved products; the possibility that our
+suppliers or manufacturers may not produce or deliver our products in a timely or cost-effective
+manner; and other risk factors detailed in our Annual Report on Form 10-K for the fiscal year ended
+February&nbsp;1, 2009 and in our subsequent reports on Form 10-Q filed with the Securities and Exchange
+Commission and available at <u>www.sec.gov</u>. You are urged to consider these factors carefully in
+evaluating the forward-looking statements contained herein and are cautioned not to place undue
+reliance on such forward-looking statements, which are qualified in their entirety by these
+cautionary statements. The forward-looking statements made herein speak only as of the date of this
+press release and the company undertakes no obligation to publicly update such forward-looking
+statements to reflect subsequent events or circumstances.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">Creating components for people to live longer, healthier and more fun lives
+</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->2<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif; margin-left: .25in; width: 7.20in">
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><IMG src="c93516c9351600.gif" alt="(LULULEMON LOGO)">
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>Contacts:</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>Investor Contact:</B><BR>
+Joseph Teklits/Jean Fontana<BR>
+ICR, Inc<BR>
+203-682-8200
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>Media Contact:</B><BR>
+Evan Goetz/Diane Zappas<BR>
+FD<BR>
+212-850-5600
+
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">Creating components for people to live longer, healthier and more fun lives
+</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif; margin-left: .25in; width: 7.20in">
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><IMG src="c93516c9351600.gif" alt="(LULULEMON LOGO)">
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>lululemon athletica inc.</B><BR>
+<I>Condensed Consolidated Statements of Operations<BR>
+Expressed in thousands, except per share amounts<BR>
+(Unaudited)</I>
+
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="44%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Thirteen</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Thirteen</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Thirty-Nine</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Thirty-Nine</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Weeks Ended</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Weeks Ended</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Weeks Ended</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Weeks Ended</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>November 1,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>November 2,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>November 1,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>November 2,</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>2009</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>2008</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>2009</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>2008</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net revenue</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">112,891</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">87,047</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">292,292</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">249,565</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Costs of goods sold</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">56,553</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">45,154</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">155,766</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">122,159</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Gross profit</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">56,338</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">41,893</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">136,526</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">127,406</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px"><I>As a percent of net revenue</I></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right"><I>49.9</I></TD>
+    <TD nowrap><I>%</I></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right"><I>48.1</I></TD>
+    <TD nowrap><I>%</I></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right"><I>46.7</I></TD>
+    <TD nowrap><I>%</I></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right"><I>51.1</I></TD>
+    <TD nowrap><I>%</I></TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Selling, general and
+administrative expenses</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">35,412</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">28,838</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">91,415</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">86,886</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px"><I>As a percent of net revenue</I></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right"><I>31.4</I></TD>
+    <TD nowrap><I>%</I></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right"><I>33.1</I></TD>
+    <TD nowrap><I>%</I></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right"><I>31.3</I></TD>
+    <TD nowrap><I>%</I></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right"><I>34.8</I></TD>
+    <TD nowrap><I>%</I></TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Income from operations</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">20,926</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,055</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">45,111</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">40,520</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px"><I>As a percent of net revenue</I></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right"><I>18.5</I></TD>
+    <TD nowrap><I>%</I></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right"><I>15.0</I></TD>
+    <TD nowrap><I>%</I></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right"><I>15.4</I></TD>
+    <TD nowrap><I>%</I></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right"><I>16.2</I></TD>
+    <TD nowrap><I>%</I></TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Other income (expense), net</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(3</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">145</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">98</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">612</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Income before income taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">20,923</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,200</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">45,209</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">41,132</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Provision for income taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,855</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4,370</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">15,379</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">11,571</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net income from continuing
+operations</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">14,068</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">8,830</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">29,830</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">29,561</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net income (loss)&nbsp;from
+discontinued operations</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(1,136</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">14,068</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">8,834</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">29,830</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">28,425</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Basic earnings (loss)&nbsp;per share:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Continuing operations</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.20</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.13</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.42</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.44</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Discontinued operations</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(0.02</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Net basic earnings per share</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.20</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.13</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.42</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.42</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Diluted earnings (loss)&nbsp;per share:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Continuing operations</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.20</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.13</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.42</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.42</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Discontinued operations</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(0.02</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Net diluted earnings per share</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.20</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.13</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.42</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.40</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Weighted-average outstanding:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Basic</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">70,279</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">69,162</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">70,205</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">68,316</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Diluted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">71,100</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">70,609</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">70,759</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">71,008</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">Creating components for people to live longer, healthier and more fun lives
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->4<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif; margin-left: .25in; width: 7.20in">
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><IMG src="c93516c9351600.gif" alt="(LULULEMON LOGO)">
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>lululemon athletica inc.</B><BR>
+<I>Condensed Consolidated Balance Sheets<BR>
+Expressed in thousands</I>
+
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="66%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>November 1, 2009</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>February 1, 2009</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">(unaudited)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>ASSETS</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Current assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Cash and cash equivalents</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">101,832</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">56,797</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Inventories</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">52,103</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">52,051</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Other current assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">12,133</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">8,140</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Total current assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">166,068</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">116,988</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Property and equipment, net</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">59,900</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">61,662</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Intangible assets, net</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">8,257</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">8,160</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Deferred income taxes and other assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">12,543</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">24,826</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Total assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">246,768</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">211,636</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>LIABILITIES AND STOCKHOLDERS&#146; EQUITY</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Current liabilities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Accounts payable</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">5,866</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">5,269</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Other current liabilities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">33,581</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">37,933</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Income taxes payable</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,133</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Total current liabilities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">39,447</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">45,335</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Deferred income taxes and other non-current liabilities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">14,722</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">11,459</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Stockholders&#146; equity</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">192,599</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">154,842</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Total liabilities and stockholders&#146; equity</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">246,768</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">211,636</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">Creating components for people to live longer, healthier and more fun lives
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->5<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif; margin-left: .25in; width: 7.20in">
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><IMG src="c93516c9351600.gif" alt="(LULULEMON LOGO)">
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>lululemon athletica inc.</B><BR>
+<I>Condensed Consolidated Statements of Cash Flows<BR>
+Expressed in thousands<BR>
+(Unaudited)</I>
+
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="66%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Thirty-Nine</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Thirty-Nine</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Weeks Ended</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Weeks Ended</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>November 1, 2009</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>November 2, 2008</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Cash flows from operating activities</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net income from continuing operations</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">29,830</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">29,561</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Items not affecting cash</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">20,829</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,146</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Other, including net changes in other non-cash balances</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">834</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(3,503</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net cash provided by operating activities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">51,493</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">29,204</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net cash used in investing activities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(10,214</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(35,639</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net cash provided by financing activities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">252</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">11,125</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Effect of exchange rate changes on cash</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,504</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(5,196</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Increase (decrease)&nbsp;in cash and cash equivalents from
+continuing operations</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">45,035</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(506</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Cash and cash equivalents from continuing operations,
+beginning of period</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">56,797</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">52,545</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Cash and cash equivalents from continuing operations, end
+of period</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">101,832</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">52,039</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">Creating components for people to live longer, healthier and more fun lives
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->6<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: Helvetica,Arial,sans-serif; margin-left: .25in; width: 7.20in">
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><IMG src="c93516c9351600.gif" alt="(LULULEMON LOGO)">
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>lululemon athletica inc.</B><BR>
+<I>Reconciliation of Non-GAAP Financial Measure<BR>
+Constant-dollar changes</I>
+
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="66%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Thirteen Weeks Ended</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Thirteen Weeks Ended</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>November 1, 2009</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>November 2, 2008</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>% Change</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>% Change</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Comparable-store sales (GAAP)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">11</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(2</TD>
+    <TD nowrap>)%</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Increase (decrease)&nbsp;due to foreign
+exchange rate changes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(1</TD>
+    <TD nowrap>)%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">6</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff; padding-top: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Comparable-store sales in constant dollars</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">10</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">4</TD>
+    <TD nowrap>%</TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">Creating components for people to live longer, healthier and more fun lives
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->7<!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>c93516c9351600.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 c93516c9351600.gif
+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
+"`#L_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

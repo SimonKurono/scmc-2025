@@ -1,0 +1,506 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ J0Wml4A0lwYVk6P/7XWYMYCULimcQPvxHI34T35UKvaKCfRsVGbSGsI0VcxGJBVF
+ r4MwWpssAS8hy9RYomltmg==
+
+<SEC-DOCUMENT>0000945234-07-000621.txt : 20071017
+<SEC-HEADER>0000945234-07-000621.hdr.sgml : 20071017
+<ACCEPTANCE-DATETIME>20071017111958
+ACCESSION NUMBER:		0000945234-07-000621
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20071017
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20071017
+DATE AS OF CHANGE:		20071017
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			lululemon athletica inc.
+		CENTRAL INDEX KEY:			0001397187
+		STANDARD INDUSTRIAL CLASSIFICATION:	APPAREL & OTHER FINISHED PRODS OF FABRICS & SIMILAR MATERIAL [2300]
+		IRS NUMBER:				203842867
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33608
+		FILM NUMBER:		071175697
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+		BUSINESS PHONE:		604-732-6124
+
+	MAIL ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lululemon Corp.
+		DATE OF NAME CHANGE:	20070420
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>o38006e8vk.htm
+<DESCRIPTION>CURRENT REPORT ON FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Current Report on Form 8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 8-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>CURRENT REPORT<BR>
+PURSUANT TO SECTION 13 OR 15(d)<BR>
+OF THE SECURITIES EXCHANGE ACT OF 1934</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Date of Report (Date of Earliest Event Reported):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October&nbsp;17, 2007</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>lululemon athletica inc.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact Name of Issuer as Specified in Charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="31%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="31%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="31%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>001-33608</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>20-3842867</B></TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or Other Jurisdiction of
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer Identification</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">Incorporation or Organization)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Number)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>2285 Clark Drive<BR>
+Vancouver, British Columbia<BR>
+Canada, V5N 3G9</B><BR>
+(Address of Principal Executive Offices) (Zip Code)</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>(604)&nbsp;732-6124</B><BR>
+(Registrant&#146;s Telephone Number, Including Area Code)</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following provisions:
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">On October&nbsp;15, 2007, the Board of Directors of lululemon athletica inc. (the &#147;Company&#148;) increased
+the size of the Board of Directors from eight to nine members and appointed Michael Casey to fill
+the newly-created vacancy. Mr.&nbsp;Casey will serve as a member of the class of directors whose terms
+expire at the 2008 Annual Meeting of Stockholders and until such time as his successor is duly
+elected and qualified, or until his earlier resignation or removal. The Board of Directors has
+determined that Mr.&nbsp;Casey is &#147;independent&#148; as contemplated by The Nasdaq Stock Market and other
+governing laws and applicable regulations. Mr.&nbsp;Casey will also serve as a member of the Audit
+Committee of the Board of Directors. Mr.&nbsp;Casey&#146;s compensation for his service as a director will
+be consistent with that of the Company&#146;s other non-employee directors, as described in the
+Company&#146;s definitive proxy statement filed with the Securities and Exchange Commission on September
+5, 2007, except that for fiscal 2007 he will receive a pro rata portion of the annual retainer and
+restricted stock unit and option grants based on the number of months in which he serves as a
+director in fiscal 2007. Mr.&nbsp;Casey will also enter into the standard form indemnification
+agreement for directors and certain officers (which was previously filed as Exhibit&nbsp;10.16 to the
+Company&#146;s Registration Statement on Form&nbsp;S&#8209;1 dated July&nbsp;9, 2007, Registration No.&nbsp;333-142477).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">There is no arrangement or understanding between Mr.&nbsp;Casey and any other person pursuant to which
+he was selected as a director. There are no relationships between Mr.&nbsp;Casey and the Company or its
+subsidiaries that would require disclosure pursuant to Item 404(a) of Regulation&nbsp;S&#8209;K.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">A copy of the press release issued by the Company on October&nbsp;17, 2007, announcing Mr.&nbsp;Casey&#146;s
+appointment to the Board of Directors is filed as Exhibit&nbsp;99.1 to this Current Report on Form 8-K
+and is incorporated herein by reference.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;9.01 Financial Statements and Exhibits.</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">(d)&nbsp;Exhibits
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="95%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release entitled &#147;MICHAEL CASEY JOINS
+LULULEMON BOARD OF DIRECTORS&#148; issued by lululemon
+athletica inc. on October&nbsp;17, 2007.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Date: October 17, 2007&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/  <FONT style="font-variant: SMALL-CAPS">John E. Currie</FONT>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">John E. Currie                           &nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 18pt"><B>Exhibit&nbsp;Index</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="90%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit No.</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000">Description</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release entitled &#147;MICHAEL CASEY JOINS LULULEMON BOARD OF DIRECTORS&#148; issued by lululemon
+athletica inc. on October&nbsp;17, 2007.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>o38006exv99w1.htm
+<DESCRIPTION>MICHAEL CASEY JOINS LULULEMON ATHLETICA BOARD
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Michael Casey Joins Lululemon Athletica Board</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+
+</TABLE>
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt"><B>Exhibit&nbsp;99.1</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>MICHAEL CASEY JOINS LULULEMON ATHLETICA BOARD OF DIRECTORS</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Vancouver, Canada &#151; October&nbsp;17, 2007 &#151; lululemon athletica inc. &#091;NASDAQ: LULU; TSX: LLL&#093; today
+announced that Michael Casey has been appointed to its board of directors and will serve on the
+company&#146;s audit committee. The company increased the size of the board of directors from eight to
+nine members and appointed Mr.&nbsp;Casey to fill the newly-created vacancy.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Mr.&nbsp;Casey previously served as senior vice president and chief financial officer of Starbucks from
+1995 to September&nbsp;30, 2007, and he continues to serve as senior advisor to Starbucks. Prior to
+joining Starbucks, Mr.&nbsp;Casey was executive vice president and chief financial officer for Family
+Restaurants, Inc., and president and chief executive officer of El Torito Restaurants, Inc.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&#147;Michael&#146;s extensive experience and insight in high growth retail companies, particularly in the
+areas of audit, culture and governance, make him a valuable addition to our board of directors,&#148;
+said Chip Wilson, chairman and chief product designer at lululemon.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Mr.&nbsp;Casey is also a member of the board of directors of The Nasdaq Stock Market, Inc. Mr.&nbsp;Casey
+graduated from Harvard College with a Bachelor&#146;s degree in Economics and later returned to graduate
+school, where he earned his MBA degree from Harvard Business School.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>About lululemon athletica inc.</B><BR>
+lululemon athletica (NASDAQ:LULU; TSX:LLL) is a yoga-inspired athletic apparel company that creates
+components for people to live longer, healthier and more fun lives. By producing products that
+keep people active and stress free, lululemon believes that the world will be a better place.
+Setting the bar in technical fabrics and functional designs, lululemon works with yogis and
+athletes in local communities for continuous research and product feedback. For more information,
+visit <U>www.lululemon.com</U>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Forward-Looking Statements:</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">This press release contains &#147;forward-looking statements&#148; within the meaning of Section&nbsp;27A of the
+Securities Act of 1933 and Section&nbsp;21E of the Securities Exchange Act of 1934 that involve risks,
+uncertainties and assumptions, such as statements regarding our future financial condition or
+results of operations, our prospects and strategies for future growth, the development and
+introduction of new products, and the implementation of our marketing and branding strategies. In
+many cases, you can identify forward-looking statements by terms such as &#147;may,&#148; &#147;will,&#148; &#147;should,&#148;
+&#147;expects,&#148; &#147;plans,&#148; &#147;anticipates,&#148; &#147;believes,&#148; &#147;intends,&#148; &#147;estimates,&#148; &#147;predicts,&#148; &#147;potential&#148; or
+the negative of these terms or other comparable terminology. These forward-looking statements are
+based on management&#146;s current expectations but they involve a number of risks and uncertainties.
+Actual results and the timing of events could differ materially from those anticipated in the
+forward-looking statements as a result of risks and uncertainties, which include, without
+limitation: the possibility that we may not be able to manage operations at our current size or
+manage growth effectively; the possibility that we may not be able to locate suitable locations to
+open new stores or attract customers to our stores; the possibility that we may not be able to
+successfully expand in the United States and other new markets; the possibility that we may not be
+able to finance our growth and maintain sufficient levels of cash flow; increased competition
+causing us to reduce the prices of our products or to increase significantly our marketing efforts
+in order to avoid losing market share; the possibility that we may not be able to effectively
+market and maintain a positive brand image; the possibility that we may not be able to maintain
+recent levels of comparable store sales or average sales per square foot; the possibility that we
+may not be able to continually innovate and provide our consumers with improved products; and the
+possibility that our suppliers or manufacturers may not produce or deliver our products in a timely
+or cost-effective manner; and other risk factors detailed in our filings with the Securities and
+Exchange Commission (&#147;the SEC&#148;), including Risk Factors contained in our final prospectus relating
+to our initial public offering filed included in our Registration Statement on Form S-1 (file no.
+333-142477)
+filed with the Securities and Exchange Commission and available at <U>www.sec.gov</U>. You are
+urged to consider these factors carefully in evaluating the forward-looking statements herein and
+are cautioned not to place undue reliance on such forward-looking statements, which are qualified
+in their entirety by this cautionary statement. The forward-looking statements made herein speak
+only as of the date of this press release and the company undertakes no obligation to publicly
+update such forward-looking statements to reflect subsequent events or circumstances.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Company Contact:<BR>
+John Currie<BR>
+Chief Financial Officer<BR>
+lululemon athletica inc.<BR>
+604-732-6124
+
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

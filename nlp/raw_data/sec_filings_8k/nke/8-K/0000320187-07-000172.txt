@@ -1,0 +1,194 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PGLlMoirPC8s0HzV8hOCorRG5XSLePUIRmeXLLY23FF5JUphz/Ybt3EpwG0izI1B
+ 71+WmFQ0nMMrkEXPwyzliw==
+
+<SEC-DOCUMENT>0000320187-07-000172.txt : 20070919
+<SEC-HEADER>0000320187-07-000172.hdr.sgml : 20070919
+<ACCEPTANCE-DATETIME>20070918175506
+ACCESSION NUMBER:		0000320187-07-000172
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20070917
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20070919
+DATE AS OF CHANGE:		20070918
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NIKE INC
+		CENTRAL INDEX KEY:			0000320187
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		IRS NUMBER:				930584541
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10635
+		FILM NUMBER:		071123277
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+		BUSINESS PHONE:		5036713173
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f8k070917.txt
+<DESCRIPTION>FORM 8-K - ANNUAL MEETING VOTE
+<TEXT>
+                               UNITED STATES
+                    SECURITIES AND EXCHANGE COMMISSION
+                          Washington, DC 20549
+
+
+                                 FORM 8-K
+
+
+                              CURRENT REPORT
+ Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+   Date of Report (Date of earliest event reported): September 17, 2007.
+
+
+                                 NIKE, INC.
+
+          (Exact Name of Registrant as Specified in Charter)
+
+
+       Oregon                  1-10635                 93-0584541
+    ____________             ____________             ____________
+
+   (State of                  (Commission            (I.R.S.Employer
+   Incorporation)            File Number)          Identification No.)
+
+                             One Bowerman Drive
+                         Beaverton, Oregon 97005-6453
+
+                   (Address of Principal Executive Offices)
+                          __________________________
+
+                               (503) 671-6453
+
+             (Registrant's telephone number, including area code)
+
+                                NO CHANGE
+                          ______________________
+        (Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions:
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act
+    (17 CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under Exchange Act (17
+    CFR 240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+    Exchange Act (17CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+    Exchange Act (17 CFR 240.13e-4(c))
+
+                          ___________________________
+
+Item 8.01 Other Events
+
+Submission of Matters to a Vote of Security Holders
+
+     The Company's annual meeting of shareholders was held on Monday, September
+17, 2007, in Beaverton, Oregon.  The following matters were submitted to a
+vote of the shareholders, the results of which are as follows:
+
+
+Proposal 1 - Election of Directors:
+
+                                       Votes Cast
+                           For          Withheld
+                           ___         __________
+
+Directors Elected by holders of Class A Common Stock:
+
+John G. Connors         114,866,721      16,003
+Timothy D. Cook         114,866,722      16,002
+Ralph D. DeNunzio       114,866,720      16,004
+Douglas G. Houser       114,866,722      16,002
+Philip H. Knight        114,866,722      16,002
+Mark G. Parker          114,866,721      16,003
+Johnathan A. Rodgers    114,866,722      16,002
+Orin C. Smith           114,866,721      16,003
+John R. Thompson, Jr.   114,866,722      16,002
+
+Directors Elected by holders of Class B Common Stock:
+
+Jill K. Conway          324,376,404    7,808,006
+Alan B. Graf, Jr.       328,533,963    3,650,447
+Jeanne P. Jackson       327,789,078    4,395,332
+
+
+Proposal 2 - Approve the extension of and amendments to the NIKE, Inc.
+             Long-Term Incentive Plan:
+
+Class A and Class B Common Stock Voting Together:
+
+
+                             For          Against      Abstain
+                             ___          _______      _______
+
+                         431,602,092    12,927,279    2,537,761
+
+
+Proposal 3 - Ratify the appointment of PricewaterhouseCoopers LLP as
+             Independent registered public accounting firm:
+
+Class A and Class B Common Stock Voting Together:
+
+
+                             For          Against      Abstain
+                             ___          _______      _______
+
+                         439,993,018     4,770,944    2,303,167
+
+
+
+
+                             SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                          NIKE, Inc.
+                                         (Registrant)
+
+Date:  September 18, 2007
+                                         /s/ Donald W. Blair
+                                         __________________________
+                                         By: Donald W. Blair
+                                             Chief Financial Officer
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

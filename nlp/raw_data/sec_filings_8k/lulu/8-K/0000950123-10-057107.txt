@@ -1,0 +1,375 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VA7mXzOttBUG0mW4nXXvhJY2by08qcf/cu6g+5Zx0zxn1AmryYlT7iZiB0Nn+iyA
+ EcXut5w3iUXG1+6FlRPxAg==
+
+<SEC-DOCUMENT>0000950123-10-057107.txt : 20100610
+<SEC-HEADER>0000950123-10-057107.hdr.sgml : 20100610
+<ACCEPTANCE-DATETIME>20100610074452
+ACCESSION NUMBER:		0000950123-10-057107
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100610
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20100610
+DATE AS OF CHANGE:		20100610
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			lululemon athletica inc.
+		CENTRAL INDEX KEY:			0001397187
+		STANDARD INDUSTRIAL CLASSIFICATION:	APPAREL & OTHER FINISHED PRODS OF FABRICS & SIMILAR MATERIAL [2300]
+		IRS NUMBER:				203842867
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0201
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33608
+		FILM NUMBER:		10888944
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+		BUSINESS PHONE:		604-732-6124
+
+	MAIL ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lululemon Corp.
+		DATE OF NAME CHANGE:	20070420
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>o62748be8vk.htm
+<DESCRIPTION>8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">
+<DIV align="center"><DIV style="FONT-size: 3pt; margin-top: 16pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></DIV>
+
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 8-K</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">
+<DIV align="center"><DIV style="FONT-size: 3pt; margin-top: 16pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></DIV>
+
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">
+<B>June&nbsp;10, 2010</B><BR>
+
+Date of Report (Date of earliest event reported)</DIV>
+
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>lululemon athletica inc.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">
+(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B><BR>
+(State or other jurisdiction of <BR>
+incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>001-33608</B><BR>
+(Commission<BR>
+File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>20-3842867</B><BR>
+(IRS Employer<BR>
+Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">
+<B>2285 Clark Drive</B><BR>
+
+<B>Vancouver, British Columbia<BR>
+
+Canada, V5N 3G9</B><BR>
+
+(Address of principal executive offices, including Zip Code)</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">
+Registrant&#146;s telephone number, including area code: <B>(604)&nbsp;732-6124</B></DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">
+<DIV align="center"><DIV style="FONT-size: 3pt; margin-top: 16pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy
+the filing obligation of the registrant under any of the following provisions:</DIV>
+
+<DIV align="left" style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+
+<TR>
+    <TD valign="top"><FONT style="font-family: Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)
+</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+
+<TR>
+    <TD valign="top"><FONT style="font-family: Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)
+</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+
+<TR>
+    <TD valign="top"><FONT style="font-family: Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+
+<TR>
+    <TD valign="top"><FONT style="font-family: Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+</TD>
+</TR>
+</TABLE>
+</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;7.01</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Regulation&nbsp;FD Disclosure.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+June&nbsp;8, 2010, Dennis J. Wilson, founder and Chairman of the Board of Directors of
+lululemon athletica inc. (the &#147;Company&#148;) informed the Company that he intends to establish a
+pre-arranged stock trading plan to sell a portion of his stock in the Company over time as part of
+his individual long-term strategy for asset diversification and liquidity. Mr.&nbsp;Wilson indicated
+that he intends to adopt the stock trading plan in accordance with guidelines specified under Rule
+10b5-1 of the Securities Exchange Act of 1934 and the Company&#146;s policies regarding stock
+transactions.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rule&nbsp;10b5-1 permits insiders to implement written, pre-arranged stock trading plans when they
+are not in possession of material non-public information. These plans establish predetermined
+trading parameters that do not permit the person adopting the plan to exercise any subsequent
+influence over how, when, or whether to effect trades. Using these plans, insiders can gradually
+diversify their investment portfolios, spread stock trades out over an extended period of time to
+reduce market impact, and avoid concerns about transactions occurring at a time when they might
+possess inside information.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under the plan Mr.&nbsp;Wilson proposes to adopt, he would sell up to 3&nbsp;million shares of the
+Company&#146;s common stock over a period of up to two years. The shares sold under the plan would include
+shares of the Company&#146;s common stock issuable upon the exchange of exchangeable shares of Lulu
+Canadian Holding, Inc. held by Mr.&nbsp;Wilson. Lulu Canadian Holding, Inc. is an indirect wholly-owned
+subsidiary of the Company. Exchangeable shares of Lulu Canadian Holding, Inc. may be exchanged on
+a one-for-one basis for shares of the Company&#146;s common stock. If Mr.&nbsp;Wilson completed all the
+planned sales under this Rule&nbsp;10b5-1 trading plan, he would beneficially own approximately 21.3
+million shares (approximately 30.1%) of the Company&#146;s outstanding common stock and common stock
+issuable upon exchange of exchangeable shares.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr.&nbsp;Wilson indicated that the transactions under this plan would commence no earlier than July
+15, 2010 and will be disclosed publicly through required filings with the
+Securities and Exchange Commission.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">SIGNATURES
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the
+registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">lululemon athletica inc.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Dated: June 10, 2010&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000" align="left">/s/ <FONT style="FONT-variant: SMALL-CAPS">John E. Currie</FONT>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">John E. Currie&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,477 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LFCMbVtq6s1CZiDb1JrpmTx/HvuG3F0G0YJaKfLQ2YbZodOllJPbwDG9XGO5jvuP
+ 95+WI19zhcKd50VQdu/XeA==
+
+<SEC-DOCUMENT>0000950123-10-058211.txt : 20100615
+<SEC-HEADER>0000950123-10-058211.hdr.sgml : 20100615
+<ACCEPTANCE-DATETIME>20100615144835
+ACCESSION NUMBER:		0000950123-10-058211
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100614
+ITEM INFORMATION:		Submission of Matters to a Vote of Security Holders
+FILED AS OF DATE:		20100615
+DATE AS OF CHANGE:		20100615
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			lululemon athletica inc.
+		CENTRAL INDEX KEY:			0001397187
+		STANDARD INDUSTRIAL CLASSIFICATION:	APPAREL & OTHER FINISHED PRODS OF FABRICS & SIMILAR MATERIAL [2300]
+		IRS NUMBER:				203842867
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0201
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33608
+		FILM NUMBER:		10897193
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+		BUSINESS PHONE:		604-732-6124
+
+	MAIL ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lululemon Corp.
+		DATE OF NAME CHANGE:	20070420
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>o62903e8vk.htm
+<DESCRIPTION>8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">
+<DIV align="center"><DIV style="FONT-size: 3pt; margin-top: 6pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></DIV>
+
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 8-K</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">
+<DIV align="center"><DIV style="FONT-size: 3pt; margin-top: 9pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></DIV>
+
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 16pt"><B>CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 14pt">
+<B>June&nbsp;9, 2010</B><BR>
+
+Date of Report (Date of earliest event reported)</DIV>
+
+
+<DIV align="center" style="font-size: 24pt; margin-top: 16pt"><B>lululemon athletica inc.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">
+(Exact name of registrant as specified in its charter)<BR><BR></DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="85%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B><BR>
+(State or other jurisdiction of <BR>
+incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>001-33608</B><BR>
+(Commission<BR>
+File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>20-3842867</B><BR>
+(IRS Employer<BR>
+Identification No.)
+</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 14pt"><B>2285 Clark Drive</B><BR>
+<B>Vancouver, British Columbia<BR>
+Canada, V5N 3G9</B><BR>
+(Address of principal executive offices, including Zip Code)
+
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 14pt">
+Registrant&#146;s telephone number, including area code: <B>(604)&nbsp;732-6124</B></DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">
+<DIV align="center"><DIV style="FONT-size: 3pt; margin-top: 18pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 14pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy
+the filing obligation of the registrant under any of the following provisions:</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left"><FONT style="font-family: Wingdings">&#111;</FONT>&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left"><FONT style="font-family: Wingdings">&#111;</FONT> &nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left"><FONT style="font-family: Wingdings">&#111;</FONT> &nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left"><FONT style="font-family: Wingdings">&#111;</FONT> &nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;5.07</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Submission of Matters to a Vote of Security Holders.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the lululemon athletica inc. (the &#147;Company&#148;) 2010 Annual Meeting of Stockholders held on
+June&nbsp;9, 2010, the matters on which the stockholders voted, in person or by proxy were:
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(i)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>to elect two nominees as Class&nbsp;III directors to serve until the annual
+meeting of stockholders in 2013 and until their successors have been elected and
+qualified; and</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">(ii)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>to ratify the appointment of PricewaterhouseCoopers LLP as the Company&#146;s
+independent registered public accounting firm for the fiscal year ending January
+30, 2011.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The two nominees were elected and the appointment of the independent registered public
+accounting firm was ratified. The results of the voting were as follows:
+</DIV>
+
+<DIV style="margin-top: 15pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><U>Election of Directors</U>:</TD>
+</TR>
+
+</TABLE>
+</DIV>
+<DIV align="center" style="margin-top: 3pt">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="92%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="20%">&nbsp;</TD>
+
+    <TD width="8%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+
+    <TD width="8%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+
+    <TD width="8%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><B>Director</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>Votes For</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>Votes Withheld</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid #000000"><B>Broker Non-Votes</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Thomas G. Stemberg</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center">62,672,398</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center">41,917</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center">2,685,602</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Dennis J. Wilson</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center">62,638,071</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center">76,244</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center">2,685,602</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV style="margin-top: 18pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><U>Ratification of Appointment of Independent Registered Public Accounting Firm</U>:</TD>
+</TR>
+
+</TABLE>
+</DIV>
+<DIV align="center" style="margin-top: 6pt">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="92%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="9%">&nbsp;</TD>
+
+    <TD width="14%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="12%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000"><B>Votes For</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>Votes Withheld</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>Votes Against</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD nowrap align="center" valign="top">65,388,339
+</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" valign="top">&nbsp;</TD>
+    <TD align="center" valign="top">4,960</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" valign="top">&nbsp;</TD>
+    <TD align="center" valign="top">6,618</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">SIGNATURES
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the
+registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left"><BR>lululemon athletica inc.<BR><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Dated:&nbsp;&nbsp;June 14, 2010&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000" align="left">/s/&nbsp;&nbsp;<FONT style="FONT-variant: SMALL-CAPS">John E. Currie</FONT>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">John E. Currie&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,144 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Fv7lgSos27oOD1yS1JGoUXb04UsXVP1vR73eO2+fni11nWiH+ib/enpY1NuWr7ZH
+ EFjlONyvFTjcHl46CBVkjg==
+
+<SEC-DOCUMENT>0000320187-07-000163.txt : 20070810
+<SEC-HEADER>0000320187-07-000163.hdr.sgml : 20070810
+<ACCEPTANCE-DATETIME>20070810132249
+ACCESSION NUMBER:		0000320187-07-000163
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20070810
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+FILED AS OF DATE:		20070810
+DATE AS OF CHANGE:		20070810
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NIKE INC
+		CENTRAL INDEX KEY:			0000320187
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		IRS NUMBER:				930584541
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10635
+		FILM NUMBER:		071044249
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+		BUSINESS PHONE:		5036713173
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f8k0708lds.txt
+<DESCRIPTION>FORM 8-K - LDS RETIRE ANNOUCEMENT
+<TEXT>
+                               UNITED STATES
+                    SECURITIES AND EXCHANGE COMMISSION
+                          Washington, DC 20549
+
+
+                                 FORM 8-K
+
+
+                              CURRENT REPORT
+ Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+   Date of Report (Date of earliest event reported): August 6, 2007.
+
+
+                                 NIKE, INC.
+
+          (Exact Name of Registrant as Specified in Charter)
+
+
+       Oregon                  1-10635                 93-0584541
+    ____________             ____________             ____________
+
+   (State of                  (Commission            (I.R.S.Employer
+   Incorporation)            File Number)          Identification No.)
+
+                             One Bowerman Drive
+                         Beaverton, Oregon 97005-6453
+
+                   (Address of Principal Executive Offices)
+                          __________________________
+
+                               (503) 671-6453
+
+             (Registrant's telephone number, including area code)
+
+                                NO CHANGE
+                          ______________________
+        (Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions:
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act
+    (17 CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under Exchange Act (17
+    CFR 240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+    Exchange Act (17CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+    Exchange Act (17 CFR 240.13e-4(c))
+
+                          ___________________________
+
+Item 5.02   Departure of Directors or Certain Officers; Election of
+Directors; Appointment of Certain Officers; Compensatory Arrangements of
+Certain Officers
+
+     Lindsay D. Stewart, our Vice President and Chief of Staff, and
+employee of NIKE, Inc. since 1981, has announced that he will be retiring
+as an officer and employee of NIKE effective on or about August 31, 2007.
+
+
+
+                             SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                          NIKE, Inc.
+                                         (Registrant)
+
+Date:  August 10, 2007
+                                         /s/ Donald W. Blair
+                                         __________________________
+                                         By: Donald W. Blair
+                                             Chief Financial Officer
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

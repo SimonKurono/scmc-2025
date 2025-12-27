@@ -1,0 +1,338 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LUgljPhBu30EqsEP+j1b5G2zySkXggBqW4ygBXwIHGyj+1cMxTWy9VnjFr7gPnjn
+ ZJdZd9LvKYlNr6iT0nE8bg==
+
+<SEC-DOCUMENT>0000945234-07-000600.txt : 20070928
+<SEC-HEADER>0000945234-07-000600.hdr.sgml : 20070928
+<ACCEPTANCE-DATETIME>20070928155328
+ACCESSION NUMBER:		0000945234-07-000600
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20070928
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+FILED AS OF DATE:		20070928
+DATE AS OF CHANGE:		20070928
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			lululemon athletica inc.
+		CENTRAL INDEX KEY:			0001397187
+		STANDARD INDUSTRIAL CLASSIFICATION:	APPAREL & OTHER FINISHED PRODS OF FABRICS & SIMILAR MATERIAL [2300]
+		IRS NUMBER:				203842867
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33608
+		FILM NUMBER:		071142418
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+		BUSINESS PHONE:		604-732-6124
+
+	MAIL ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lululemon Corp.
+		DATE OF NAME CHANGE:	20070420
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>o37812e8vk.htm
+<DESCRIPTION>CURRENT REPORT ON FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Current Report on Form 8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 8-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>CURRENT REPORT<BR>
+PURSUANT TO SECTION 13 OR 15(d)<BR>
+OF THE SECURITIES EXCHANGE ACT OF 1934</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%"></TD>
+    <TD width="5%"></TD>
+    <TD width="47%"></TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" align="center" valign="top">Date of Report (Date of Earliest Event Reported):
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September&nbsp;28, 2007</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>lululemon athletica inc.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact Name of Issuer as Specified in Charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="31%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="31%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="31%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>001-33608</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>20-3842867</B></TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or Other Jurisdiction of
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer Identification</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">Incorporation or Organization)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Number)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>2285 Clark Drive<BR>
+Vancouver, British Columbia<BR>
+Canada, V5N 3G9</B><BR>
+(Address of Principal Executive Offices) (Zip Code)</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>(604)&nbsp;732-6124</B><BR>
+(Registrant&#146;s Telephone Number, Including Area Code)</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following provisions:
+</DIV>
+
+
+
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;5.02.</B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Departure of Directors or Certain Officers; Election of Directors; Appointment of
+Certain Officers; Compensatory Arrangements of Certain Officers.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On September&nbsp;28, 2007, the stockholders of lululemon athletica inc., a Delaware corporation
+(the &#147;Company&#148;), upon recommendation of the Company&#146;s Board of Directors (the &#147;Board&#148;), approved
+the Company&#146;s 2007 Employee Share Purchase Plan (the &#147;ESPP&#148;). The Board adopted the ESPP on August
+21, 2007, subject to stockholder approval.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ESPP is designed to provide employees of the Company and its subsidiaries with an
+opportunity to purchase shares of the Company&#146;s common stock, par value $0.01 per share (&#147;Common
+Stock&#148;), through payroll deductions and thereby to better enable the Company and its subsidiaries
+to retain and attract qualified employees and to provide additional incentives through increased
+stock ownership. The Company will make cash contributions as additional compensation to each
+participant equal to one-third of the aggregate amount of the participant&#146;s payroll deductions that
+will be used to purchase additional shares of Common Stock to be credited to such participant&#146;s
+account. Up to 3,000,000 shares of Common Stock may be purchased under the ESPP, subject to
+adjustment as provided in the ESPP.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The description of the ESPP contained herein is qualified in its entirety by reference to the
+full text of the ESPP which is filed as Appendix&nbsp;A to the Company&#146;s Definitive Proxy Statement as
+filed with the SEC on September&nbsp;5, 2007.
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+</DIV>
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;<BR><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Date: September 28, 2007&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ <FONT style="font-variant: SMALL-CAPS">John E. Currie</FONT>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">John E. Currie                           &nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

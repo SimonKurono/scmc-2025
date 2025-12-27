@@ -1,0 +1,1072 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Aqklo28mBVREu3eEKs64IOvyv8yoOMNXQ86NUzJ7EwibPqIY/vi1H1pteunxHCDD
+ cskG8WNVt7UE8D0xYIyEyg==
+
+<SEC-DOCUMENT>0000320187-10-000036.txt : 20100323
+<SEC-HEADER>0000320187-10-000036.hdr.sgml : 20100323
+<ACCEPTANCE-DATETIME>20100323131435
+ACCESSION NUMBER:		0000320187-10-000036
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20100317
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20100323
+DATE AS OF CHANGE:		20100323
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NIKE INC
+		CENTRAL INDEX KEY:			0000320187
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		IRS NUMBER:				930584541
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10635
+		FILM NUMBER:		10698654
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+		BUSINESS PHONE:		5036713173
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f8k100322ercc.htm
+<DESCRIPTION>Q3FY10 FORM 8-K ERCC
+<TEXT>
+<html>
+<head>
+    <title>f8k100322ercc.htm</title>
+<!-- Licensed to: NIKE, Inc.-->
+<!-- Document Created using EDGARizer 5.1.2.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div>
+<br>&#160;</div>
+<div>&#160;</div>
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font>
+<div>
+<hr style="COLOR: black" align="left" noshade size="1" width="100%"></div></div>
+<div>
+<br>&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">UNITED STATES</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES AND EXCHANGE COMMISSION</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington, D.C. 20549</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">_______________</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FORM 8-K</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">CURRENT REPORT</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td colspan="2" valign="top" width="53%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Date of Report (Date of earliest event reported):</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">March 17, 2010</font></font></div></td></tr><tr>
+<td colspan="3" valign="top" width="80%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><img src="redswoosh.jpg" alt="logo"></font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">NIKE, Inc.</font></div></td></tr><tr>
+<td colspan="3" valign="top" width="80%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Exact name of registrant as specified in charter)</font></div></td></tr><tr>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">OREGON</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">1-10635</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">93-0584541</font></div></td></tr><tr>
+<td valign="top" width="27%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(State or other jurisdiction</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">of incorporation)</font></div></td>
+<td valign="top" width="27%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Commission</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">File Number)</font></div></td>
+<td valign="top" width="27%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(IRS Employer</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Identification No.)</font></div></td></tr><tr>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td colspan="2" valign="top" width="53%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">ONE BOWERMAN DRIVE</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">BEAVERTON, OR</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">97005-6453</font></div></td></tr><tr>
+<td colspan="2" valign="top" width="53%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Address of principal executive offices)</font></div></td>
+<td valign="top" width="27%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Zip Code)</font></div></td></tr><tr>
+<td colspan="2" valign="top" width="53%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td align="left" colspan="2" valign="top" width="53%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Registrant&#8217;s telephone number, including area code:</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">(503)671-6453</font></font></div></td></tr><tr>
+<td colspan="2" valign="top" width="53%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td colspan="3" valign="top" width="80%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">NO CHANGE</font></div></td></tr><tr>
+<td colspan="3" valign="top" width="80%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Former name or former address, if changed since last report.)</font></div></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div></td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div></td></tr></table></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div></td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div></td></tr></table></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div></td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div></td></tr></table></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div></td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div></td></tr></table></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div>
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2"></div></div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div></div>
+<br>
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+</table></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left">
+<div align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Item 2.02 Results of Operations and Financial Condition</font></font></div></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">On March 17, 2010, NIKE, Inc. held a public telephone call to discuss its financial results for the fiscal quarter ended February 28, 2010.&#160;&#160;The transcript of the conference call is furnished herewith as Exhibit 99.1.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Item 9.01 Financial Statements and Exhibits</font></font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(d) Exhibits.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The following exhibit is furnished with this Form 8-K:</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">99.1&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Transcript of earnings release conference call on March 17, 2010.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURES</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="2" valign="top" width="38%">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">NIKE, Inc.</font></font></div>
+<div><font style="DISPLAY: inline; FONT-WEIGHT: bold">(Registrant)</font></div></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td align="left" valign="top" width="50%" style="BORDER-BOTTOM: #ffffff solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Date:&#160; March 23, 2010</font></div></td>
+<td valign="top" width="3%" style="BORDER-BOTTOM: #ffffff solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By: </font></div></td>
+<td align="left" nowrap valign="top" width="35%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">/s/&#160; Donald W. Blair</font></td>
+<td valign="top" width="12%" style="BORDER-BOTTOM: #ffffff solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="left" nowrap valign="bottom" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Donald W. Blair</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief Financial Officer</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr></table></div>
+<br></body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit99ercc.htm
+<DESCRIPTION>ERCC TRANSCRIPT
+<TEXT>
+<html>
+<head>
+    <title>exhibit99ercc.htm</title>
+<!-- Licensed to: NIKE, Inc.-->
+<!-- Document Created using EDGARizer 5.1.2.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div>&#160;</div>
+<div>&#160;</div>
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font>
+<div>
+<hr style="COLOR: black" align="left" noshade size="1" width="100%"></div></div>
+<div>
+<br>&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><img src="redswoosh.jpg" alt="logo"></font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">NIKE, Inc.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FY 2010 Q3 Earnings Release Conference Call Transcript</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">March 17, 2010</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">This transcript is provided by NIKE, Inc. only for reference purposes.&#160;&#160;Information presented was current only as of the date of the conference call, and may have subsequently changed materially.&#160;&#160;NIKE, Inc. does not update or delete outdated information contained in this transcript, and disclaims any
+obligation to do so.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td>
+<div align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">PRESENTATION</font></div></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Operator</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">:&#160;&#160;</font>Good afternoon everyone. Welcome to NIKE's fiscal 2010 third-quarter conference call. For those who need to reference today's press release you will find
+it at www.nikebiz.com. Leadings today's call is Pamela Catlett, Vice President Investor Relations.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Before I turn the call over to Mrs. Catlett, let me remind you that participants on this call will make forward-looking statements based on current expectations, and those statements are subject to certain risks and uncertainties that could cause actual results to differ materially. These risks and uncertainties are detailed in the reports
+filed with the SEC, including Forms 8-K, 10-K and 10-Q.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Some forward-looking statements concern future orders that are not necessarily indicative of changes in total revenues or subsequent periods due to a mix of features and at-once orders, exchange rate fluctuations, order cancellations, and discounts which may vary significantly from quarter to quarter.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In addition, it is important to remember a significant portion of NIKE, Inc.'s business, including equipment, most of NIKE Retail, NIKE Golf, Cole Haan, Converse, Hurley and Umbro are not included in these features numbers.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Finally, participants may discuss non-GAAP financial measures. The presentation of comparable GAAP measures and quantitative reconciliations are found at NIKE's website.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">This call might also include discussion of nonpublic financial and statistical information, which is also publicly available on that site, www.nikebiz.com. Now I would like to turn the call over to Pamela Catlett, Vice President Investor Relations.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Pamela Catlett:</font> Thank you. Hello everyone and Happy St. Patrick's Day. Thank you very much for joining us today to discuss NIKE's fiscal 2010 third-quarter results. As the operator indicated, participants on today's call may discuss non-GAAP financial measures.
+And if we do so, you will find the appropriate reconciliations in our press release, which was issued about an hour ago, and at our website, nikebiz.com.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Joining us on today's call will be NIKE, Inc. CEO, Mark Parker, followed by Charlie Denson, President of the NIKE Brand. And finally you will hear from our Chief Financial Officer, Don Blair, who will give you an in-depth review of our financial results.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Following their prepared remarks we will take your questions. We would like to allow as many of you to ask questions as possible in our allotted time. So as usual, we would appreciate you limiting your initial questions to two. In the event you have additional questions that are not covered by others, please feel free to re-queue and we will
+do our best to come back to you. Thank you very much for your cooperation on this.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">With that I would like to turn the call over to NIKE, Inc. President and CEO, Mark Parker.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Mark Parker:</font> Thanks, Pam, and hello everybody. On our last call I said, given what we know about the marketplace and about ourselves, we are well-positioned to leverage the power of Global Sports and drive hard against those growth opportunities that have the
+most impact. Q3 shows this to be the case. NIKE is more than a survivor in these tough economic times. We are able to manage up and through the recession to expand separation for our brands and our businesses.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We have returned to top and bottom line growth in our third quarter, both on a real and constant dollar basis. With few exceptions we are seeing improving trends across all NIKE Brand product types, categories and geographies, as seen in our strong acceleration of global futures orders.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Our Other Businesses continue to deliver brand heat, while increasing revenue and profits. And we are delivering record cash flows, driven by clean inventory positions and the tightest supply chain we have ever had.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We are very pleased by the results for the quarter. Revenue increased 7% to $4.7 billion. Inventories are in great shape, down about 13% compared to last year. Gross margins were up 3 points due to hot products, elevated consumer experiences in the marketplace, and operational excellence inside.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Worldwide NIKE Brand futures are up 9%, and 6% on a currency neutral basis. Converse continues to expand in virtually every dimension of the business, product, brand and financial. Hurley is outperforming all competitors in their market. Umbro has delivered over 20% revenue growth year to date, and is poised for a positive World Cup season.
+And NIKE Golf and Cole Haan continue to deliver innovation and manage healthy inventories, and are well-positioned for recovery in their industries.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">It is important to remember how we are able to deliver this kind of quarter in this kind of environment. Now many of the reasons are familiar to you. Now we have the most compelling and innovative product. We have deep and meaningful relationships with consumers. And we run this Company with an eye toward efficiency, opportunity and growth.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Two things I want to cover in a bit more depth. The first is apparel. This is the single biggest opportunity for NIKE, Inc. We are already one of the world's largest apparel companies, but that is nothing compared to what is possible in this space.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Two years ago we refocused the apparel business with specific objectives for both the performance and sportswear sides of the business. Our performance apparel continues to be strong and lead in innovation, gaining marketshare and creating growth.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For NIKE, performance is the anchor of our brands. You see it in the National Team kits we launched in London, and in the competitive and replica apparel for the Vancouver Winter games. In every category performance takes the lead.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In Sportswear we see the benefits of being a good editor on the product level. We are focusing on fewer, more productive styles. And that helps us achieve some crucial benefits -- a clear premium position for the brand, a powerful connection to performance, and ultimately a more efficient and more profitable apparel business.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">When we amplify this connection to sports we create more distinction for the brand, and we offer easier and more attractive choices for consumers. And NIKE has the unique ability to pull that lever.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We have been working on our apparel business for some time, and we really began to see the impact in Q3. NIKE Brand Apparel revenues grew 3% for the quarter, while gross margins expanded 160 basis points and inventories fell 8%.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We are also starting to realize the broader benefits of becoming a better retailer. Over the past few years we have spoken about expanding our Direct-to-Consumer business. We saw a huge upside to bringing innovation and excitement into the marketplace in our own stores, with our wholesale partners and online.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To do that we committed to building our retail capabilities, smoother product flow, surgical assortment planning that focuses on key items, more compelling merchandising, stronger brand stories, and more efficient back of house systems. All balanced to produce greater consumer experiences and strong profitability.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">It is a powerful mix that helped NIKE Brand retail deliver 11% revenue growth and 140 basis points of gross margin expansion year-to-date.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We will continue to invest in bringing world-class solutions to consumers who are hungry for new retail experiences. Nowhere is this more important than online. The digital lifestyle is driving dramatic change in our industry and significant potential to our Company. We are attacking that in every dimension, online shopping, customization,
+immersing our brands in consumer cultures, and telling inspiring and entertaining stories.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">So the question is what can we learn about NIKE by looking at apparel and retail? What can we learn from our surging business in China, where NIKE's product innovation and premium brand position continue to connect with the burgeoning middle class? Why are we aggressively expanding digitally enabled sport and creating the next level generation
+of NIKE+ technology? It all shows our ability to create innovation in the marketplace and leverage our resources and capability to deliver growth.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We have made a lot of investments over the last few years aimed at enhancing our ability to innovate and grow. We moved to a category offense and refocused on apparel. We reorganized to become a leaner and stronger company. We are expanding our retail influence, and leading in the move toward a greener, more sustainable future. And we continue
+to amplify the key moments in sports around the world. In short, we have continued to lead the industry by challenging ourselves to become better at every turn.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">It all points to one word, momentum. While others froze or retrenched over the past two years, we never stopped moving. We never stop designing better products. We never stopped making deep connections to consumer communities. We never stopped increasing the strength of our balance sheet or building a stronger company for our shareholders.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">And because we never stopped it is easier for us to gain speed and momentum. That to me is the story of Q3. While some companies are still trying to decide what to do and when to do it, NIKE is accelerating. In just the next three months alone we will see March Madness and the Final Four, The Masters, the NBA Playoffs, the French Open and
+Wimbledon, the London and Boston Marathons, the Champions League, and of course, the World Cup.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">These are the moments that we rally around at NIKE. And they go on for as far as the eye can see. On to London in 2012 and Brazil in 2014 and 2016 and beyond. For NIKE it is a future defined by two things, a wealth of opportunity and our ability to invest surgically and aggressively to maximize growth.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Thanks, and now here's Charlie.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Charlie Denson:</font> Thanks, Mark. Hello, everybody. I will apologize in advance for a little bit of a nasal tone. I am suffering from my annual spring cold. But with that said, you have heard us talk many times about how we work to differentiate ourselves in the
+marketplace. We do it by addressing consumer benefits through innovation, connecting with consumers through our brand, and creating compelling retail experience for our consumers.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We all saw the same events unfold over the last years. We read the same headlines, asked the same questions, and had the same concerns. When I look at our Q3 results I see the confidence we have in our brand and our business, delivering results against the opportunities we talked about on these calls all the time.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We innovate, not just for the sake of innovation, but to continuously supply benefits for the athlete. We operated with discipline in the marketplace, managing our buys and our inventories. That keeps the brand premium. And we keep a close watch on costs, while continuing to build brand strength.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">It is a strategy that illustrates how we sustained growth even in a tough environment. Q3 was a strong quarter for NIKE and a big quarter for sports. Four of our seven key categories delivered increased revenue. Gross margins expanded, futures are up, inventories remain lean. And worldwide NIKE Direct-to-Consumer delivered a 19% revenue increase
+and a 390 basis point increase in gross margins.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">There are a couple of patterns that I see in our results. First, consumers continue to rely on trusted, authentic brands. Second, as Mark said, we are able to innovate and manage up and out of the recession, because we never stopped doing what we do best. As we said this time last year, managing costs is crucial. But these are also the times
+when we can really separate with a strong brand and weakened competition.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">So let's cover a few of the highlights from the quarter. On the category side we took advantage of the global stage at the Vancouver Olympics, where NIKE athletes excelled in both action sports, as well as the traditional winter sports. Bodie Miller, Julia Mancuso, Shani Davis, Kim Yu-Na, and dozens of other NIKE athletes brought home a box
+full of medals. If you needed a reminder about the passion of sport, you got a great dose of it in the gold medal hockey game.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In Basketball we continue to gain share and increase revenue. NIKE had a big NBA All-Star break. Our marquee product from Kobe and LeBron continues to sell through very well. On the apparel side, our brand-new collegiate jerseys weigh 60% less than the league-sanctioned jerseys in the NBA. And we think ours even look better too.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">That momentum in Basketball is only going to increase as we move through the NBA season and get into March Madness, where we have an all-time high number of teams, 52 out of 65 for the men and 52 for the women. Those are in NIKE footwear. 46 in men's and 49 in women's, they are head to toe. But the big question is, can anybody beat the UConn
+women.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">That is just the U.S. When you add the appetite to the consumers that have basketball in China and Europe, we see ample opportunity to expand the business on multiple fronts.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Just as the category focus is the model for the rest of the business, basketball is a model for the rest of the categories. And I see the same potential for those categories to claim the cultural relevance, product leadership and share dominance in each of their markets.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In Running we are seeing a long and steady growth potential that comes from breakthrough innovation and putting the consumer first. LunarGlide and our Dynamic Fit concept is revolutionizing running performance footwear. This focus on innovation is driving greater momentum in running specialty shops, and contributing to our Running futures
+being up double digits.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">As Mark mentioned, Apparel was up 3% year-over-year, including a 6% gain in North America, showing some positive traction from the work we have been doing over the past couple of years. In fact, over the last year alone we have cut the number of global apparel styles by close to 20%.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">By focusing on the most important key styles we are beginning to see leverage and more robust long-term growth opportunities. A great example of how editing and amplifying the business allows us to do more with less.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">There are a lot of reasons we are able to deliver these kinds of results. One of the biggest reasons is our unique connection to sports. In February alone we saw Drew Brees win the Super Bowl MVP. But then again, with 75% of the NFL in NIKE shoes, we stood a pretty good chance of our guy winning.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We watched Christiana Rinaldo unveil the boot he will be wearing in South Africa come June, the Mercurial Vapor SuperFly II. Dwyane Wade won the NBA's All-Star MVP wearing the new Jordan 2010 game shoe. And the Olympic athletes I already mentioned, showing our spread of innovation in the cold weather gear and the entire apparel business overall.
+Great examples of leveraging those moments in sports that are endless.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">So a few highlights from the geography side. I already mentioned that worldwide revenue from NIKE Direct-to-Consumer was up 19%. Revenue in North America was up 20%, and gross margins were up 550 basis points. I think that is a pretty strong indicator of a couple of things. First, when you give consumers compelling products they will buy them.
+That is what we mean when we say we are creating the marketplace.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Second, our focus on Direct-to-Consumer, both in-store and online, is really starting to differentiate our brand.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Real quick, before I leave the North American region, there has been a lot of talk out there about toning recently. There is a real benefits to the idea of the body strengthening itself, which is really the basis of the NIKE Free concept.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Toning is a benefit story about women getting fit and looking and feeling great. That comes from training, from working out. The more efficient your training, the more dramatic the results. That is why we focus so much on performance and design to maximize benefits, and not compromise on stability, flexibility or any other key performance
+characteristic.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We feel that is a more authentic commitment to the consumer and a more sustainable position for the NIKE Brand. You will continue to see that commitment come to market with the new wave of women's footwear over the upcoming months.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Onto China. We are very pleased with our Q3 performance. Revenue and EBIT are both up double digits and futures shows positive growth. All evidence that our premium distribution strategy and investment in China over the last three to five years is paying off. We have the strongest brand, the most strategic retail penetration. And we continue
+to invest to extend our leadership position and expand our potential in this incredibly promising market.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Then finally there is football. We had a terrific launch in London of our World Cup offensive. We unveiled our lightest generation of boots ever, including the SuperFly II that includes an amazing self-adjusting cleat technology. We debuted an online app we call NIKE Soccer+ that lets you train like the greats in the game.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We launched the world's first Considered Design jersey, which is a breakthrough in lightweight performance. It keeps players drier and cooler, and is made from recycled polyethylene and completely sustainable.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">One final thought about football. It doesn't belong to any one brand. It belongs to the athletes and fans around the world. We have tremendous passion for the game and we are committed to helping it grow globally. Do we plan to break new ground around South Africa in 2010? We think we already have. Are we already working on products and plans
+for Brazil 2014? Absolutely.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">But there is something else that is really important. NIKE is not driven by a single event or a sport. We are a complete sports brand and innovation leader. We've got seven major categories and 30 plus sports we call home. It is that breadth, depth and flexibility of our portfolio that continues to inspire us to drive growth and competitive
+separation.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">So with that I will turn it over to Don.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Don Blair:</font> Thanks a lot, Charlie. In his earlier remarks Mark talked about building momentum in our business. We are very encouraged by the strength of our business through the downturn, validating the strategies and operational execution we have delivered
+over the last two years and in the last decade.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We do see improving trends in most markets. But while we are more optimistic than 12 months ago, worldwide consumer confidence hasn't recovered fully, and we have not yet reached our normal revenue and profit growth trajectory. That means we will keep a laser focus on delivering value to consumers and maintaining strategic financial and operational
+discipline.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Now let's review our third-quarter results. Third-quarter revenues were $4.7 billion, up 7% on a reported basis, and up 2% on a currency neutral basis. Currency neutral revenue for the NIKE Brand was up 1%, while our other businesses grew 11%.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Futures orders for NIKE Brand footwear and Apparel, scheduled for delivery from March through July 2010, increased 6% on a currency neutral basis, reflecting sequential improvement from spring through the fall 2010 seasons. On a real dollar basis we estimate futures orders will be 9% higher than the prior year.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Diluted earnings per share for the quarter increased 102% to $1.01. If you exclude the prior year's $0.49 charge for the impairment of Umbro assets, EPS grew 2% for Q3.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Third-quarter gross margin was 46.9%, a 300 basis point increase over the prior year. There were a number of factors driving the increase, including higher in-line product margins as a result of favorable product mix, lower raw material and freight costs, lower off-price volumes and improved off-price margins, driven by clean inventory positions
+at NIKE and at retail, the growth and expanding profitability of NIKE-owned retail, and finally, expanding margins in our other businesses.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FX was a modest gross margin headwind in the quarter. SG&amp;A for the quarter increased 16% on a reported basis, and 11% on a currency neutral basis. Excluding currency changes, demand creation was 11% higher than last year due to heavier spending to support third-quarter marketing initiatives this year, including the Winter Olympics, compared
+to scaled back spending in the prior year.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Operating overhead also increased 11%, driven primarily by increased accruals for performance-based compensation and the expansion of NIKE-owned retail, which increased retail OpEx 9%. Excluding performance-based compensation, wholesale OpEx increased only slightly.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Other Income for Q3 was $8.6 million, comprised largely of currency-related gains. We estimate the combination of translation of foreign currency denominated profits from our international businesses, and the year-over-year change in currency-related gains included in other income, increased pretax income growth by $23 million for the quarter,
+and $5 million year-to-date.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Our effective tax rate for the third quarter was 25% compared to a 3.6% tax benefit for the same period last year. Excluding the tax effect of the Umbro impairment charge, the effective tax rate for the third quarter of fiscal 2009 would have been 23.9%, only slightly lower than this year's rate.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Our balance sheet continues to reflect the strength of our business and our long-standing focus on capital efficiency. At the end of the third quarter our cash and short-term investments totaled $4 billion, or over $8 a share. Once again, strong working capital management was a key contributor to this increase.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Versus last year's third-quarter end, Accounts Receivable declined 2%, and inventory fell 13%, reflecting a 14% decline in units for the NIKE Brand. By tightly managing the inventory in our supply chain, and working with our retail partners to keep sales channels clean, we are maintaining the strength of our brands and maximizing profitability
+both for NIKE and our retail partners.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Now let's take a look at our results by geography. In North America third-quarter reported revenue increased 1% versus the prior year, and was flat on a currency neutral basis, reflecting a 2% decline in wholesale revenues and 20% growth in Direct-to-Consumer revenue.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Comparable sales for brick-and-mortar NIKE-owned retail stores increased 17%, and online sales grew 25%. Profitability for the businesses grew even faster as better merchandising, lower promotions and more surgical markdowns drove gross margins up 550 basis points versus last year.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Excluding currency impacts, footwear revenues in North America declined 2% in the quarter. However, futures for the upcoming five months turned positive, driven by double-digit growth in Running, NIKE Basketball, Soccer and Men&#8217;s Training.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">As Mark and Charlie both noted, North American Apparel is beginning to see positive results from stronger product, more focused assortments, and more disciplined distribution. For the third quarter revenues were up at 5%, and gross margins expanded over 3 points. As pleased as we are by the resulting Q3, we continue to see further improvement
+ahead, as apparel futures for North America grew double digits.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">From a total category perspective Q3 revenue growth from Basketball, Soccer, Men&#8217;s Training and Action Sports was more than offset by declines in Running, Sportswear and Women&#8217;s Training.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We are particularly encouraged by the futures trend for Running, which posted nearly 30% growth in futures for the upcoming summer and fall seasons.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Q3 EBIT for North America increased 4% as improved gross margins more than offset higher demand creation, retail operating overhead, and performance-based compensation. The remainder of wholesale operating overhead was flat with the prior year.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In Western Europe reported revenue for the quarter increased 4%, but declined 5% on a currency neutral basis. Excluding currency impacts, footwear revenue declined 2%, and Apparel revenue fell 10% as a result of tough market conditions and lower off-price sales.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Although most territories in the geography reported lower revenues for the quarter, our largest market, the UK, rebounded with double-digit currency neutral growth, driven by strength in Football and Sportswear, as well as improved retailer performance.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Five-month futures for Western Europe grew 7%, reflecting accelerated growth in the UK, Northern Europe, Iberia, and our AGS territory, comprised of Austria, Germany and Switzerland. Revenue trends also improved in France.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">From a total category perspective double-digit growth in Football, Action Sports and Basketball was offset by declines in Sportswear, Running and Men&#8217;s and Women&#8217;s Training. As I noted earlier, futures growth for Western Europe accelerated to 7%. Football, Running and Action Sports were the key category growth drivers.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For the quarter EBIT for Western Europe was essentially flat, as gross margin expansion, lower operating overhead, and favorable currency translation were offset by lower currency neutral revenues and higher demand creation.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In Central and Eastern Europe third-quarter reported revenue declined 8%, while currency neutral revenues fell by 18%. Although most countries in this geography continue to experience high levels of economic volatility and unemployment, we are beginning to see improvement in the marketplace.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In the geography as a whole futures are showing sequential improvement from spring through summer and fall 2010. Russia continues to be the most difficult market in the geography, as retailers struggle with tight credit and a promotional marketplace, but we have seen some improvement there.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In Q3 South Africa posted double-digit revenue growth, driven by strength in the Football category in advance of the World Cup. Q3 EBIT for Central and Eastern Europe declined 47%, due to lower revenue and gross margins, increased demand creation, and higher reserves against Accounts Receivable.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In Greater China the NIKE Brand continues to lead the market by a significant margin. Revenue for the quarter grew 10% on both a reported and currency neutral basis. Footwear revenues increased 11%, and Apparel revenues were up 7% for the quarter, driven by China's three largest categories, Sportswear, Running and Basketball. These three categories
+also helped drive futures growth of 9%. As the market leader we are well positioned for future growth as marketplace trends improve and the Chinese middle class continues to expand.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Q3 EBIT for Greater China increased 21%, driven by revenue growth and strong gross margin expansion. Inventory was down 27% year-on-year, reflecting clean positions both on our books and in the marketplace.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Our Emerging Markets business delivered another exceptional quarter as revenue increased 43%, including an 18 percentage point benefit from stronger currencies in the geography.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">While nearly every market in the geography delivered strong growth, I want to call out a few highlights. Revenues in Brazil grew over 60%, as we continue to expand distribution and excitement builds for the World Cup. Mexico and the Southern Cone territory, that is Argentina, Chile, Uruguay and Paraguay, each delivered growth of about 30%,
+while the largest market in the geography, Korea, posted 15% growth for the quarter. Focus on the key categories of Football, Running and Sportswear fueled the growth. And futures are up 36% on a currency neutral basis. Third-quarter EBIT for the Emerging Markets increased 72%, driven by revenue growth and SG&amp;A leverage.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Without a doubt, Japan has been the most challenging market for the NIKE Brand, as revenue fell 7% for the quarter, including a 3% benefit from the strength of the yen. On a constant currency basis footwear and Apparel revenues declined 9% and 12%, respectively.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Continued deterioration in macroeconomic conditions, eroding consumer confidence, and a highly promotional marketplace all are contributing to a sluggish retail environment in Japan. That said, we are performing better than the industry, and continuing to do the right things to return this market to sustained profitable growth.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We are delivering innovative Japan-specific product in key categories, such as running. We are investing in our brand. And we are leveraging our new flagship store in Tokyo. In addition, as the retail market consolidates we are continuing to build our business with our strategic retail partners and take greater control of distribution to smaller
+accounts.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Third-quarter EBIT for Japan felt 16%, as lower revenues and higher SG&amp;A were partially offset by gross margin improvements. Despite the revenue softness, we continue to tightly manage inventories, which were down 12% versus the prior year.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Third-quarter reported revenue for our Other Businesses increased 13% versus the prior year, and was up 11% on a constant currency basis. Converse continues to deliver steady growth as revenues expanded 4% for the quarter. Revenues at Umbro more than doubled in the third quarter, and are up over 20% year-to-date, driven by successful launches
+of new kits for the English National Team and Man City, as well as growth in the branded business in the UK.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Hurley had double-digit revenue growth for the quarter, as the brand continues to outperform its competitors in the action sports space. Sales for Cole Haan and NIKE Golf were essentially flat for the quarter. Excluding last year's non-cash impairment charge related to Umbro, third-quarter EBIT for our other businesses increased 80%. The improvement
+was driven by revenue growth, more than 3 points of gross margin improvement, and SG&amp;A leverage.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">As we look to the fourth quarter of fiscal 2010 we continue to be somewhat cautious about the pace of macroeconomic improvement, but have a high level of confidence in our strategies and operational performance.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For the fourth quarter we expect to report mid to high single digit revenue growth, bringing full-year revenue only slightly below prior-year levels. Fourth-quarter gross margins should be well above last year's fourth quarter, but reflect somewhat less year-on-year expansion than this year's third quarter.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We expect fourth-quarter SG&amp;A to grow about 20%, driven by demand creation investments such as the World Cup, that we believe will drive growth and competitive separation. Higher year-over-year performance-based compensation and investments in retail will also increase fourth-quarter operating overhead. For the full year we expect to report
+a low single-digit increase in SG&amp;A.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We have begun planning for fiscal 2011 and are confident that we will deliver growth in revenue and profitability. While we are not prepared to provide details today, we do look forward to doing so at our upcoming investor meeting in May. So a strong quarter with equally strong opportunities ahead. So with that we will open it up for questions.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td>
+<div align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">QUESTION AND ANSWER SECTION</font></div></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Operator</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">:&#160;&#160;</font>(Operator Instructions). Robbie Ohmes, Bank of America.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Robbie Ohmes&gt;:</font>&#160;&#160;Good afternoon and great numbers, guys. Just two quick questions focused on the U.S. market. Can you just speak a little bit more about this sort of uptick you are saying in the footwear futures orders? And what -- is it unit volume driven? Is
+it ASP driven? Is it a specific channel or is it very broad? It is nice to see the sequential acceleration, but I think some of the numbers you gave out are pretty surprising. Is there a big cycle going on here?</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Then maybe, Charlie, a follow-up with you, or I forgot -- maybe Mark, you mentioned it -- the toner, and I think you guys use the word toner, and maybe you could give us a little more visibility on what that word means for NIKE and what the product could look like? Thanks.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Charlie Denson&gt;:</font> This is Charlie. I will talk about North America U.S. footwear business first. It is fairly broad. Our average selling prices are up a little bit. The unit numbers are up a little bit. And so we are seeing those complement each other. It is having over
+more than just a single category. So -- as well as across more than just a single channel.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">So we are very happy and pleased at the balance of the acceleration as much as just the -- specifically around footwear. Then the third piece of the puzzle that probably excites me personally as much as anything is the apparel numbers in North America. So I think it does speak to the strength of the brand overall. And as we said in some of
+the prepared remarks, when we are introducing new and compelling product there is still an appetite. So that I feel good about.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">I think with regards to that toning category, we are responding to it. We feel very good about the insights that we are gaining from consumers in our women's training segment. We have some new product coming into the marketplace as early as this fall, and into holiday and next spring. And we are continuing to stay committed and focused on
+the performance authentic end of that spectrum, and continuing to innovate and to find benefits for that female consumer. I think overall it is exciting to see the female consumer respond.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Robbie Ohmes&gt;:</font>&#160;&#160;Just quickly in apparel, is it more weighted towards sportswear and sort of the department store channel responding really well to new product, or is it also the upper tier and Dick's Sporting Goods, etc., where you are seeing a build in apparel?</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Charlie Denson&gt;:</font> It is actually weighted actually towards the performance side of the business, which again is very pleasing to us. We continue to leverage both the sportswear position, and as well as the training position, against that high-end performance position.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Robbie Ohmes&gt;:</font>&#160;&#160;Terrific, thank you very much.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Operator</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">:&#160;&#160;</font>Michelle Tan, Goldman Sachs.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Michelle Tan&gt;:</font>&#160;&#160;Thanks and congrats. On the apparel side I was wondering if you could elaborate a little bit more there in terms of how your focus on more productive inventory is helping margins. How -- I think you have given some color -- but how some of the
+retailers are responding now that they have had more experience with the repositioned product.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">And then also whether you think there is a longer-term opportunity to increase your relative penetration of apparel to the total mix.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Charlie Denson&gt;:</font> This is Charlie again. I think -- well, if you will recall, a couple of years back we started talking about reorganizing our apparel model where we had engines or product creation units around the world. What it did was it created a lot of different styles
+that at the end of the day were somewhat duplicative of each other. We have consolidated that into a global engine where they are focusing on those key products that make the most difference.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">I think our quality levels have increased. I think our ability to source and gain leverage across a global order book has allowed us to become more efficient in the process. And I think when we talk, we are doing more with less, that is what we mean.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">So I think that is the core of some of the early successes that we are seeing in apparel. And you had a second-half to your question.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Michelle Tan&gt;:</font>&#160;&#160;Yes, it was just whether you ultimately think the mix or penetration of apparel can go up relative to your total business. Is that part of a longer-term objective or whether it is just about seeing it grow with the total?</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Charlie Denson&gt;:</font> No, I believe -- we all believe that we have a lot of opportunity in apparel. And that we think that from a penetration standpoint we are just at the very start of what we believe is a pretty long runway.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Mark Parker&gt;:</font>&#160;&#160;I'm going to jump in too. I said apparel represents one of the biggest growth opportunities for the Company. And I think that is certainly true with NIKE Brand, and frankly the affiliates as well.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">But one of the things that Charlie said that I want to put an exclamation point on is this obsessive kind of focus on highlighting the key styles, highlighting and leveraging the key styles within and across the categories, and the productivity improvements we have seen from that and how much retailers and consumers are responding to that
+focus.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Michelle Tan&gt;:</font>&#160;&#160;Great. Thanks and good luck.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Operator</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">:&#160;&#160;</font>Omar Saad, Credit Suisse.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Omar Saad&gt;:</font>&#160;&#160;&#160;My question is actually for Dan -- I mean Don. The China profitability numbers, in all seriousness, are off the charts, up year-over-year relative to the rest of the geographies. Help us understand this dynamic. Is it sustainable? It is obviously
+one of the bigger segments now and one of the fastest growing segments. Help us understand that dynamic and how sustainable it is for NIKE.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Don Blair&gt;:</font>&#160;&#160;Omar, I have to confess, I was so busy laughing at your relabeling of me there I missed which segment you're talking about. Which piece are we (multiple speakers).</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Omar Saad&gt;:</font>&#160;&#160;China. I mean that 38.5% EBIT margin, I mean, it is expanding compared to the rest of the geographies.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Don Blair&gt;:</font>&#160;&#160;Well, I think there is a couple of things to bear in mind. First of all, the expansion year-on-year you need to bear in mind some of the prior year comparisons. And I think what you're seeing this quarter is really a much cleaner supply chain, a
+cleaner marketplace.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We are definitely in a position now where we've got product flowing through the marketplace at full margin. So that is certainly an important part of the equation. There is also the impact of the timing of demand creation spending. Last year we were spending more heavily against the business this quarter, so we've got less of that.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">So in terms of year-on-year improvement it is really a cleaner marketplace and some of the timing on demand creation spending.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">As far as the overall profitability of that market, one of the things to bear in mind is that a lot of the demand creation spending that we use to help drive the business in China is actually recorded somewhere else. So the marketing mix in China is actually a blend of global assets and local assets. It is the way we market the brand there.
+So Kobe and LeBron are tremendously popular in China. Those expenses are reported in North America.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">So in some ways what you're looking at in China is a little bit of an artifact of how we do the accounting, but it is a tremendous market for us, and certainly we are really enthusiastic about the growth.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Omar Saad&gt;:</font>&#160;&#160;Okay, then I guess with a new local Chinese brand being IPO'ed every other month, and you got a lot of local players going after it, you're not seeing that sort of profit erosion that one might potentially see in an increasingly competitive marketplace?</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Don Blair&gt;:</font>&#160;&#160;No, I think that the positioning we had for the brand in China is very premium. And we think the Chinese consumer really connects with the brand and the product that we are putting in that marketplace. As the middle-class grows, we think those consumers
+are increasingly resonating towards our brand.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Omar Saad&gt;:</font>&#160;&#160;Great, thanks.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Operator</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">:&#160;&#160;</font>Kate McShane, Citi Investment Research.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Kate McShane&gt;:</font>&#160;&#160;Can you tell us how much inventories were down on a currency neutral basis? And how should we think about your inventory position going into the next month? With inventories down so significantly but features up 6%, should we start to see more
+of an inventory build now?</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Don Blair&gt;:</font>&#160;&#160;Well, first of all, inventories are down 17% on a currency neutral basis. And one of the reasons why we give you a unit number too is that currencies have been pretty volatile. So that unit number we gave you, minus 14, on the NIKE Brand, that gives
+you an indication of the absolute level of inventory reduction.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">I do think we are going to start to see some stabilizing of the absolute level of inventory towards the end of this year and the beginning of the first quarter of next year as the business grows. Certainly we have seen a reacceleration of futures, and that means that we will certainly need the inventory to support that business.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Having said that, as Mark indicated in his prepared remarks, I think our supply chains are as tight as they have ever been right now. It is a culmination of a lot of investment in systems and people and process. And our focus on this is maintaining a pull market, and I think what you saw in the third quarter is the profit and balance sheet
+implications of running a tight supply chain.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Kate McShane&gt;:</font>&#160;&#160;Okay, great, thank you. And if I could ask a follow-up question to China. Is there any way you can break down for us the growth that we are seeing in China? Is any growth coming from marketshare gains yet in that market? And what has been the
+trend for ASPs?</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Charlie Denson&gt;:</font> This is Charlie. As far as the marketshare gains, it depends on how you segment the market. So in the premium space we are seeing marketshare gains. We are also seeing overall growth in the marketplace. So you have to get into some level of granularity,
+and I'm not sure exactly where you were going as far as that goes. And we are also seeing growth in both footwear and apparel. So I think those are the two primary ways we look at it, from a price point premium standpoint, as well as the product types.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Don Blair&gt;:</font>&#160;&#160;I think maybe to anticipate where your question is going to, there is both increases in distribution, as well as comp store growth. So the throughput on existing points of distribution grows as the middle class has more disposable income. And we
+are expanding distribution into new cities and new shopping districts.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Mark Parker&gt;:</font>&#160;&#160;We are certainly seeing that in the tier 1 and tier 2 cities, and expect to see more of that coming in tier 3 and 4.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Kate McShane&gt;:</font>&#160;&#160;Okay, thank you.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Operator</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">:&#160;&#160;</font>Michael Binetti, UBS Securities.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Michael Binetti&gt;:</font>&#160;&#160;Thanks, guys, and congratulations and a nice quarter. Just a couple of questions on Western Europe. I think you're starting to get a look at the order window for that market post-World Cup, if I'm not mistaken. And I was wondering if you could
+maybe give us a little preview on how the long end of that window looks.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">And then I am just -- I am also curious, excluding currencies, whether you get a sense of whether you think you are gaining share in that market right now, or how you're looking at marketshare in Western Europe?</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Don Blair&gt;:</font>&#160;&#160;Well, first of all, with respect to your first question, we really don't yet have visibility beyond the World Cup. What we are looking at right now is just futures for summer. So the first part of your question is, not yet. And with respect to the
+second point of the question, tell me again.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Pamela Catlett&gt;:</font>&#160;&#160;Share gains.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Don Blair&gt;:</font>&#160;&#160;Share gains?</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Michael Binetti&gt;:</font>&#160;&#160;Yes.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Don Blair&gt;:</font>&#160;&#160;Yes, we are definitely making progress. And most of the markets in Western Europe -- I have recall off the top of my head each of the individual markets, but in aggregate, yes, we have definitely been make a lot of progress. We are particularly
+excited about some of the growth we have seen in the Football categories. We have made great progress in Running in Germany, for example. So absolutely, we believe that is a place where we can continue to pick up share.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Charlie Denson&gt;:</font> The only other explanation point I would put on it would be the performance that we are seeing out of the UK market, which is something we have been focused on, and we are happy to see some early results there.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Michael Binetti&gt;:</font>&#160;&#160;If I have time for just one quick follow-up. Could you tell me how much of the growth you think in Western Europe right now is coming from maybe new distribution versus comp or existing distribution?</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Charlie Denson&gt;:</font> I would say very, very little is coming from new distribution. It is all pretty much -- it is a pretty stable marketplace from a distribution standpoint.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Michael Binetti&gt;:</font>&#160;&#160;Thanks a lot.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Operator</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">:&#160;&#160;</font>Brian McGough, Hedgeye Risk Management.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Brian McGough&gt;:</font>&#160;&#160;Thanks a lot. Happy St. Patrick's Day everybody. I have a question for both Mark and Charlie -- I guess everybody really. In that it has been a really tough year overall. If I look back at what was happening at this time last year from February,
+I guess, through about May it was -- there were a lot of very difficult calls being made over there. When you dial the clock back and you look at how things were then versus how they are right now, could you give us some kind of feel as to how it is like walking the halls now from an overall energy level relative to a year ago?</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Mark Parker&gt;:</font>&#160;&#160;Let me jump in on that. This is Mark. A big difference I think here -- nothing creates energy internally versus growth, and a positive trend in terms of how NIKE is being received, how consumers are responding, the things that we have done around
+some of the major sporting events into last year and the success we have had, that really breathes the most positive energy, I think possible.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In that respect it is a much different climate, because we have delivered, I think. The product is stronger. As I said, the energy around some of these big sporting events is very palpable. The leadership -- we tend to -- as I say often, we focus on our potential, not on the distance between NIKE and our competition.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">I am really proud of where we are in that respect. We never sit back and feel comfortable with where we are, despite how successful a quarter we might have, because we are always looking at the potential ahead. I think the energy around that for NIKE is as strong as it has ever been.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Then I also think people see the strength of the product in the pipeline, what is coming. I mentioned just a short list of some of the big sporting events over the next few months. So people are really excited about that and what that represents to NIKE. We rally around those things. And that is where you see great innovation, great product,
+great marketing. And I am really personally very proud of what we have done and what you will see over the next 90 days or so.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Brian McGough&gt;:</font>&#160;&#160;Great. Then one more question. It is a little long, so please bear with me. But both for you Mark and also Don, I was hoping you could both address just your overall capital structure in the context of where the strategic vision is over there
+in the upcoming two to three years. I mean, you've got the $4 billion in cash right now, which I think is about the size of all of the non-NIKE brands out there in the U.S. market, which is a little scary. Well, it is good.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">There is not a whole heck of a lot out there with your business for overall cap spending -- spending requirements. There is not a lot of acquisitions out there, at least that would be big needle movers. And I think we know your stand on stock repo and also dividends. So while I am not encouraging an all-out spending blitz, I was just hoping
+for more thoughts about just what you think about as far as whether you currently have the capital structure to turn this business from being a $20 billion company into $25 billion or $30 billion. Is what has been done recently as far as always all of your reset, is that enough or might you still need to think outside the box as to how you deploy that capital?</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Mark Parker&gt;:</font>&#160;&#160;Let me jump in here. We are definitely thinking outside the box, and we see more opportunity ahead. I want to back up for a second and just said how particularly proud I am of the work that we have done. I think to drive cash flow and to maintain
+the balance of our -- or the strength, I should say, of our balance sheet. This has been a tough and challenging macroeconomic environment, and to come through where we are is something I think we are all proud of.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">A big part of that has been the tight working capital management, I think. We have -- Don mentioned how accounts receivable and inventory balances are down versus prior year. But even if you back up, looking at the last decade, our business model and our operational discipline is really what has enabled us to generate the kind of cash flows
+that you have seen.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">So we have proven that we can do that in good times and in bad times. So as a result, and this is more to your question, I think we are confident that we can invest in both new and existing businesses to create some more long-term value, and increase, as you have said, the cash return to shareholders through dividends and share repurchase.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">That said, I think there is a lot more opportunity here. And we are prepared to discuss that in more depth and detail at the upcoming investor meeting in New York in the first week in May.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Brian McGough&gt;:</font>&#160;&#160;Mark, not to try to pull anything out of you in advance of that, but --.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Pamela Catlett&gt;:</font>&#160;&#160;We've got to move along.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Brian McGough&gt;:</font>&#160;&#160;All right.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Pamela Catlett&gt;:</font>&#160;&#160;Sorry.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Operator</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">:&#160;&#160;</font>Bob Drbul, Barclays Capital.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Bob Drbul&gt;:</font>&#160;&#160;I guess the one question that I have is on Central Europe and Eastern Europe can you just talk about the opportunities to sort of restore the margin and recover the margin, and sort of the timeline for the efforts that are going on there?</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Don Blair&gt;:</font>&#160;&#160;I think that market, as you know from following us for some time, has been a great growth engine for us. And we think it will be again. Certainly that market has been probably with Japan among the hardest hit by the macroeconomic environment, but
+we are seeing improvement there.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">A lot of the profitability of that market -- what you're seeing right now is really deleveraging. So when the revenues are as soft as they are, the profitability is a little bit more challenging. But over time we believe, just like a lot of the other less-developed markets, the middle class is growing. We feel great about where our distribution
+is headed, where the product is, where the brand strength is. So I absolutely think that market is going to come back to growth. And as the topline starts moving again, I think we're going to see the bottom line move along very nicely as well.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Charlie Denson&gt;:</font> I would just add one other piece, and I think that is from a consumer standpoint. I think we feel very, very confident that that marketplace still possesses all of the passion and interest in the world of sports that it has demonstrated over the last
+several years. And has been one of the foundational pieces of the growth that we saw during the past four or five year. So we think that is still there. And the consumer is still telling us that we have a strong brand and a very, very strong position in the marketplace.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">But I think as the economic conditions do continue to improve, we will be able to accelerate there as well, just like we are in the rest of the world. But until they do, there is a little bit of governor on our ability to move.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Bob Drbul&gt;:</font>&#160;&#160;Great. I just have one quick follow-up. On the toning category, just the question is, is Pam Catlett toning today?</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Pamela Catlett&gt;:</font>&#160;&#160;Let's move on.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Bob Drbul&gt;:</font>&#160;&#160;Thank you.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Operator</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">:&#160;&#160;</font>Tom Shaw, Stifel Nicolaus.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Tom Shaw&gt;:</font>&#160;&#160;Let me add my congrats on a nice quarter. Just quickly on the gross margin, I guess where was the real surprise? You sort of talked about a slight positive to the margin side, where was the real delta there? And I guess I'm surprised that you wouldn't
+see even greater expansion, maybe in the fourth quarter, given currency probably turning to more of a benefit.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Don Blair&gt;:</font>&#160;&#160;Well, first of all, I think we have talked about this many times before. There is a lot of macro factors in margin, as well as things that we control. Our guidance says, as you pointed out, is pretty significant year-over-year improvement in the
+fourth quarter, but not quite at the level of the third quarter.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">One of the things in the macro space that has been a key driver for us this year is raw material costs and freight. Both of those have been pretty low. As we have said before, there is a bit of a lag on that, probably six to twelve months, so we are looking at cost structures really that were essentially dictated by fairly slack demand and
+excess capacity about a year ago. So that is starting to turn now. And I think we're going to start to see a little bit more headwind out of raw material and freight costs.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Currency, as you pointed out, it has been a modest headwind. Part of that is on a lag as well. We did a pretty aggressive hedging program about two years ago when the euro was up in the $1.50s. That was a very good thing, and actually as a result we didn't really take the full hit on the weakening euro in fiscal '10. That has really been bleeding
+in over probably the last six months, and it is going to hit us a little bit more into next fiscal year.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">So there are a couple of factors that had been positive in FY 10 that are going to turn into a little bit more headwind. Having said that, one of the things we are really very thrilled about is the stuff that we do control. Charlie and Mark both talked about apparel, where we have done some really good work in terms of streamlining the product
+line. We continue to work on lean manufacturing, raw material consolidation. Those things are all driving benefits in fiscal 10, and we think they will into '11 as well.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Our owned retail, we have all spoken to that today. The margins in owned retail have been fantastic. That is both a commentary on cleaner inventories, as well as more sophistication in terms of how we price product in the stores, and also the strength of our brand.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">So we feel great about those factors, and we think those continue into 2011. So the outlook for margin, I think we are going to see a little more macroeconomic pressure as we go forward, but a lot of the things we are doing internally are really paying dividends, and we feel great about those continuing into the future.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Tom Shaw&gt;:</font>&#160;&#160;Alright, thanks for that color. And a quick question on running. A pretty sharp change of pace here from 3Q to the orders plus 30% in the fourth quarter. I guess maybe -- is it really the Lunar product that is driving that? And also how do you look
+at maybe some of the strategic changes that Foot Locker is going through with how they are positioning their merchandising?</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Charlie Denson&gt;:</font> This is Charlie. I think the Lunar product is definitely a big part of that. I think the work that we have put in and R&amp;D and the innovation that we have introduced over the last six months is really starting to take hold. I think that you're seeing
+the running silhouette continue to be the silhouette of choice in a lot of the different markets around the world. But with that, I also say that our basketball product continues to get better and better as well.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">So what I like to see is the fact that we are doing well in both the basketball and the running silhouette from a casual standpoint. And then I think the performance positioning in running continues to get sharper and sharper for us. And we are seeing the benefit of that coming out of the running specialty account.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">With regards to the Foot Locker announcement and position, we feel great that they're taking a larger interest in running. A healthy Foot Locker goes a long way in being a healthy brand in the United States. Their ability to look at multiple categories at a heightened way is something we are pretty excited about.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Mark Parker&gt;:</font>&#160;&#160;I will (inaudible) to the steps that they are taking to further differentiate their banners is good for Foot Locker, and it is great for NIKE as well. We are very much in line in terms of that strategy. They continue to focus on basketball. I
+think Ken Hicks talked about NIKE's relationship in terms of House of Hoops and its success there. But we think any steps that they take to differentiate and segment their banners is really good for Foot Locker and good for NIKE.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Tom Shaw&gt;:</font>&#160;&#160;Thanks, guys.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Pamela Catlett&gt;:</font>&#160;&#160;Thank you. We have time for one more question.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Operator</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">:&#160;&#160;</font>Jim Duffy, Thomas Weisel Partners.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Jim Duffy&gt;:</font>&#160;&#160;Thanks and happy St. Patrick's Day. A single question. Can I ask you to speak in more detail about the role you see owned retail playing in your growth strategy? Should we expect owned retail to increase materially as a percent of the overall mix?
+And maybe if you could provide a little color by geography that would be helpful as well.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Mark Parker&gt;:</font>&#160;&#160;I will just take it overall. We have been very vocal about our commitment to becoming a better retailer, not from the standpoint of making direct retail a significantly higher percentage of our business, but I think to lift our entire business
+and our ability or our potential as a company to grow and create a more exciting experience for the consumer at point of sale.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">So we are doing that, obviously, through our own doors. We are doing that through our wholesale partners with some of the concepts that you have seen, House of Hoops, for example, the work we are doing with Finish Line, with Dick's, other key retail partners.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Then I think you'll see more of that continue -- and likewise online. Some of the work we are doing online to better connect with consumers, and make that whole commerce experience, I think -- or brand experience with NIKE that much more compelling.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">So I firmly believe, and I have said this many times, and I will probably say it many more, is that our ability to become a better retailer is going to help us become a better company with a lot more potential, and really ultimately become a better wholesale partner as well.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Charlie Denson&gt;:</font> I will just pick it up in the geography piece. Because it does differ from one geography to another, and it does differ from an in-line versus a factory store footprint as well. So in the United States we have a very large factory footprint, and an increasing
+in-line footprint. In most other geographies we are actually reversed.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">And then you get the difference from a consumer standpoint, which they don't really see the difference, what is owned and what is actually a partner door, and we break it down. I would just say that we are going to spend a lot more time on this, breaking this down when we get to the investor day in May. I would probably just reserve any further
+comment on how it breaks down until then.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;Q &#8211; Jim Duffy&gt;:</font>&#160;&#160;Great. I Look forward to hearing more in May.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&lt;A &#8211; Pamela Catlett&gt;:</font>&#160;&#160;Thank you, Jim, and thanks everyone. Again, happy St. Patrick's Day. We will speak to you soon.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div>
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2"></div></div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div></div>
+<br></body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>redswoosh.jpg
+<DESCRIPTION>LOGO
+<TEXT>
+begin 644 redswoosh.jpg
+M_]C_X``02D9)1@`!`0$`8`!@``#_VP!#``@&!@<&!0@'!P<)"0@*#!0-#`L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+#`Q-#0T'R<Y/3@R/"XS-#+_
+MVP!#`0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P``1"``I`&$#`2(``A$!`Q$!_\0`
+M'P```04!`0$!`0$```````````$"`P0%!@<("0H+_\0`M1```@$#`P($`P4%
+M!`0```%]`0(#``01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T?`D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0`'P$``P$!`0$!
+M`0$!`0````````$"`P0%!@<("0H+_\0`M1$``@$"!`0#!`<%!`0``0)W``$"
+M`Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O`58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H`#`,!``(1`Q$`/P#WYW6-&=V"
+MJHR2>@%8VDWYUJ\GO%R+.!C%`#_$W\3_`)'`_&L/QSK3(!I4#8W`-,1Z=A_7
+M\JT?`TD;^'0BD;DE8./?K_*N/ZPIXCV2>B_,]/ZFZ6#^L2WEHO)=_G^1TM%%
+M%=AY@44C,J*69@JCJ2<5D7?BC1[/(>]1W'\,7SG].*B52,/B=C2G2J5':$6_
+M0V**XJ[^(,2Y6SLF;GAI6P/R'^-8LGBK7]3E$-NY5FZ1V\?)_F:Y)YA1CHM?
+M0]&ED^)FKR2BO-GIDLT4";YI$C7^\[`#]:Q;OQ?HUH#_`*3YS?W85W?KT_6N
+M:LO!NJ:C()M5N&B7J=S[W/\`A75Z;X9TO3`#%;B24<^;*`S?AZ?A3C4Q%3X8
+M\J\_\B9T,'0TE-S?9:+[]?P*L.LZOJ>#8:3Y,+#B>[?`^NT<FM&"PNFPU_?R
+M3'^Y$/*0?ER?Q/X5H45T1I/[;O\`UV.2==/2G%17WO[W^EB#[';?\\$_*BIZ
+M*ODCV,>:7<\7U"Z:]U"XN7.3+(6_#/'Z5/I.LW>C7!EMF&&^\C<JU)J^F3Z3
+MJ$EM,A`!)1NS+V(JA7R[<X3N]&C[^,:56DHI7BT=F/B%<;1G3XB>Y$A_PK/N
+M_&^KW&1$\5NI_P">:9/YG-<\B/(X1%+,>BJ,DUOZ=X-U6^`>1!:QGO-PW_?/
+M7\\5T*MB:WNQ;?H<4\)@,-[\XI>NOX,Q;F]NKQMUS<2S'.?WCD_SJQIVBZAJ
+MC8M+9G7NYX4?B:]"TWP=I=@5>1#<RC^*7I_WST_/-;ZJ%4*H``Z`5U4LME+6
+MJSAKYY""Y</'YO;[O^&.,T[P#"@#ZC<&1O\`GG%POY]3^E=9:65K8Q"*U@2)
+M/11UJQ17I4L/3I?`CPL1C*^(?[R5_+H%%%%;',%%%%`!1110!!=V5M?P^5=0
+M)*GHPZ?3TK+'A'0@^[[`,^\CX_+-;=%9RI4Y.\HI_(UAB*M-6A)I>396M=/L
+M[(8M;6*'/4H@!-6:**M))61G*3D[R=PHHHIB"BBB@`HHHH`****`"BBB@#__
+!V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

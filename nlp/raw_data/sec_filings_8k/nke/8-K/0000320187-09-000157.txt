@@ -1,0 +1,392 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MCgsiGNWBXukW+I3jGW2s8bLxMKFTG+CaBQRSfTwX0Qdtls1ZSPHkuDIBt/WzpkG
+ 5F48lF/zVqZOyujazE957g==
+
+<SEC-DOCUMENT>0000320187-09-000157.txt : 20091123
+<SEC-HEADER>0000320187-09-000157.hdr.sgml : 20091123
+<ACCEPTANCE-DATETIME>20091123161717
+ACCESSION NUMBER:		0000320187-09-000157
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20091119
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20091123
+DATE AS OF CHANGE:		20091123
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NIKE INC
+		CENTRAL INDEX KEY:			0000320187
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		IRS NUMBER:				930584541
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10635
+		FILM NUMBER:		091201946
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+		BUSINESS PHONE:		5036713173
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f8k091119pw.htm
+<DESCRIPTION>FORM 8-K WISE
+<TEXT>
+<html>
+<head>
+    <title>f8k091119pw.htm</title>
+<!-- Licensed to: NIKE, Inc.-->
+<!-- Document Created using EDGARizer 5.1.2.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div>
+<br>
+<div>
+<hr style="COLOR: black" align="left" noshade size="1" width="100%"></div></div>
+<div>&#160;</div>
+<div>
+<br>&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">UNITED STATES</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES AND EXCHANGE COMMISSION</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington, D.C. 20549</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">_______________</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FORM 8-K</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">CURRENT REPORT</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td colspan="2" valign="top" width="53%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Date of Report (Date of earliest event reported):</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">November 19, 2009</font></font></div></td></tr><tr>
+<td colspan="3" valign="top" width="80%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: center">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><img src="redswoosh.jpg" alt="swoosh"></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">NIKE, Inc.</font></div></td></tr><tr>
+<td colspan="3" valign="top" width="80%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Exact name of registrant as specified in charter)</font></div></td></tr><tr>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">OREGON</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">1-10635</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">93-0584541</font></div></td></tr><tr>
+<td valign="top" width="27%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(State or other jurisdiction</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">of incorporation)</font></div></td>
+<td valign="top" width="27%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Commission</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">File Number)</font></div></td>
+<td valign="top" width="27%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(IRS Employer</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Identification No.)</font></div></td></tr><tr>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td colspan="2" valign="top" width="53%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">ONE BOWERMAN DRIVE</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">BEAVERTON, OR</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">97005-6453</font></div></td></tr><tr>
+<td colspan="2" valign="top" width="53%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Address of principal executive offices)</font></div></td>
+<td valign="top" width="27%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Zip Code)</font></div></td></tr><tr>
+<td colspan="2" valign="top" width="53%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td align="left" colspan="2" valign="top" width="53%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Registrant&#8217;s telephone number, including area code:</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">(503)671-6453</font></font></div></td></tr><tr>
+<td colspan="2" valign="top" width="53%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td colspan="3" valign="top" width="80%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">NO CHANGE</font></div></td></tr><tr>
+<td colspan="3" valign="top" width="80%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Former name or former address, if changed since last report.)</font></div></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div></td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div></td></tr></table></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div></td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div></td></tr></table></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div></td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div></td></tr></table></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div></td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div></td></tr></table></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div>
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2"></div></div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div></div>
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Item 5.02&#160;&#160;Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</font></font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Effective November 19, 2009, the NIKE, Inc. (the "Company") Board of Directors appointed Dr. Phyllis M. Wise to serve as a Director of the Company.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Phyllis M. Wise, Ph.D., is Executive Vice President and Provost of the University of Washington, where she is also professor of physiology and biophysics, biology, and obstetrics and gynecology.&#160;&#160;She joined the University of Maryland School of Medicine as an assistant professor in 1976, was appointed associate professor in 1982,
+and professor in 1987.&#160;&#160;Dr. Wise was appointed a professor and chair of the department of physiology at the University of Kentucky in 1993, and was appointed dean of the division of biological sciences and distinguished professor of neurobiology at the University of California Davis in 2002.&#160;&#160;In 2005, she was appointed Vice President and Provost at the University of Washington, and was appointed Executive Vice President and Provost in 2007.&#160;&#160;Dr. Wise has a doctorate in zoology from
+the University of Michigan, has an honorary doctorate from Swarthmore College, and is an elected member of the Institute of Medicine.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">There was no arrangement or understanding pursuant to which Dr. Wise was elected as a director, and there are no related party transactions between the Company and Dr. Wise.&#160;&#160;Dr. Wise will also serve on the Company's Corporate Responsibility Committee.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company issued a press release on November 19, 2009 announcing the appointment of Dr. Wise.&#160;&#160;The press release is attached hereto as Exhibit 99.1.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Item 9.01&#160;&#160;Financial Statements and Exhibits</font></font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 72pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(d)&#160;&#160;</font></div></td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Exhibits</font></div></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The following exhibits are being furnished with this Current Report on Form 8-K:</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Exhibit 99.1&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Press Release dated November 19, 2009.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURES</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br>&#160;</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="2" valign="top" width="38%">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">NIKE, Inc.</font></font></div>
+<div><font style="DISPLAY: inline; FONT-WEIGHT: bold">(Registrant)</font></div></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td align="left" valign="top" width="50%" style="BORDER-BOTTOM: #ffffff solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Date:&#160; November 23, 2009</font></div></td>
+<td valign="top" width="3%" style="BORDER-BOTTOM: #ffffff solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By: </font></div></td>
+<td align="left" nowrap valign="top" width="35%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">/s/&#160;&#160;&#160;&#160;&#160;&#160; Donald W. Blair</font></td>
+<td valign="top" width="12%" style="BORDER-BOTTOM: #ffffff solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="left" nowrap valign="bottom" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Name&#160; <font style="FONT-WEIGHT: bold">Donald W. Blair</font></font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Title&#160;&#160;&#160; Chief Financial Officer</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr></table></div></div></body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit99.htm
+<DESCRIPTION>WISE PRESS RELEASE
+<TEXT>
+<html>
+<head>
+    <title>exhibit99.htm</title>
+<!-- Licensed to: NIKE, Inc.-->
+<!-- Document Created using EDGARizer 5.1.2.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">
+</font></font><font style="DISPLAY: inline; FONT-WEIGHT: bold">&#160; </font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font>
+<div>
+<hr style="COLOR: black" align="left" noshade size="1" width="100%"></div></div>
+<div>&#160;</div>
+<div>&#160;</div>
+<div>Exhibit 99.1</div>
+<div>&#160;</div>
+<div style="TEXT-ALIGN: center"><img src="redswoosh.jpg" alt="Swoosh">
+<br>
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 15pt; FONT-FAMILY: Times New Roman">Phyllis M. Wise Joins Nike&#8217;s Board of Directors</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 15pt; FONT-FAMILY: Times New Roman">19 November, 2009</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+<div>&#160;</div>
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">BEAVERTON, Ore. (Nov. 19, 2009)</font> &#8211; NIKE, Inc. (NYSE:NKE) today announced that Phyllis M. Wise, Ph.D. has been appointed to the Company's Board of Directors. Wise, 64, is the Executive Vice President and Provost of the University of Washington, where she is also professor of physiology and biophysics, biology, and obstetrics and gynecology.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">"Dr. Wise&#8217;s outstanding academic career, experience as a respected university leader and administrator of a multi-billion-dollar budget for the University of Washington, is a rare combination that makes her an ideal addition to our board,&#8221; said Philip H. Knight, Nike Founder and Chairman. &#8220;We look forward to her contributions
+to expand Nike&#8217;s position as the industry leader in innovation.&#8221;</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Wise was appointed Vice President and Provost of the University of Washington in August 2005 and became Executive Vice President in September 2007.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Wise has been a faculty member at a number of prominent research universities, first joining the University of Maryland School of Medicine as an assistant professor in 1976, and thereafter was appointed associate professor in 1982 and professor in 1987. At the University of Kentucky, she was appointed as professor and chair of the department
+of physiology in 1993 and in 2002, Wise was appointed as dean of the division of biological sciences and distinguished professor of neurobiology at the University of California Davis.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Wise has a doctorate in zoology from the University of Michigan, an honorary doctorate from Swarthmore College and is an elected member of the National Academies Institute of Medicine.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">About NIKE, Inc.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">NIKE, Inc. based near Beaverton, Oregon, is the world's leading designer, marketer and distributor of authentic athletic footwear, apparel, equipment and accessories for a wide variety of sports and fitness activities. Wholly-owned Nike subsidiaries include Cole Haan, which designs, markets and distributes luxury shoes, handbags, accessories
+and coats; Converse Inc., which designs, markets and distributes athletic footwear, apparel and accessories; Hurley International LLC, which designs, markets and distributes action sports and youth lifestyle footwear, apparel and accessories; and Umbro Ltd., a leading United Kingdom-based global football (soccer) brand. For more information, visit <font style="DISPLAY: inline; TEXT-DECORATION: underline">www.nikebiz.com</font>.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div>
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2"></div></div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div></div>
+<br></body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>redswoosh.jpg
+<DESCRIPTION>SWOOSH
+<TEXT>
+begin 644 redswoosh.jpg
+M_]C_X``02D9)1@`!`0$`8`!@``#_VP!#``@&!@<&!0@'!P<)"0@*#!0-#`L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+#`Q-#0T'R<Y/3@R/"XS-#+_
+MVP!#`0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P``1"``I`&$#`2(``A$!`Q$!_\0`
+M'P```04!`0$!`0$```````````$"`P0%!@<("0H+_\0`M1```@$#`P($`P4%
+M!`0```%]`0(#``01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T?`D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0`'P$``P$!`0$!
+M`0$!`0````````$"`P0%!@<("0H+_\0`M1$``@$"!`0#!`<%!`0``0)W``$"
+M`Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O`58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H`#`,!``(1`Q$`/P#WYW6-&=V"
+MJHR2>@%8VDWYUJ\GO%R+.!C%`#_$W\3_`)'`_&L/QSK3(!I4#8W`-,1Z=A_7
+M\JT?`TD;^'0BD;DE8./?K_*N/ZPIXCV2>B_,]/ZFZ6#^L2WEHO)=_G^1TM%%
+M%=AY@44C,J*69@JCJ2<5D7?BC1[/(>]1W'\,7SG].*B52,/B=C2G2J5':$6_
+M0V**XJ[^(,2Y6SLF;GAI6P/R'^-8LGBK7]3E$-NY5FZ1V\?)_F:Y)YA1CHM?
+M0]&ED^)FKR2BO-GIDLT4";YI$C7^\[`#]:Q;OQ?HUH#_`*3YS?W85W?KT_6N
+M:LO!NJ:C()M5N&B7J=S[W/\`A75Z;X9TO3`#%;B24<^;*`S?AZ?A3C4Q%3X8
+M\J\_\B9T,'0TE-S?9:+[]?P*L.LZOJ>#8:3Y,+#B>[?`^NT<FM&"PNFPU_?R
+M3'^Y$/*0?ER?Q/X5H45T1I/[;O\`UV.2==/2G%17WO[W^EB#[';?\\$_*BIZ
+M*ODCV,>:7<\7U"Z:]U"XN7.3+(6_#/'Z5/I.LW>C7!EMF&&^\C<JU)J^F3Z3
+MJ$EM,A`!)1NS+V(JA7R[<X3N]&C[^,:56DHI7BT=F/B%<;1G3XB>Y$A_PK/N
+M_&^KW&1$\5NI_P">:9/YG-<\B/(X1%+,>BJ,DUOZ=X-U6^`>1!:QGO-PW_?/
+M7\\5T*MB:WNQ;?H<4\)@,-[\XI>NOX,Q;F]NKQMUS<2S'.?WCD_SJQIVBZAJ
+MC8M+9G7NYX4?B:]"TWP=I=@5>1#<RC^*7I_WST_/-;ZJ%4*H``Z`5U4LME+6
+MJSAKYY""Y</'YO;[O^&.,T[P#"@#ZC<&1O\`GG%POY]3^E=9:65K8Q"*U@2)
+M/11UJQ17I4L/3I?`CPL1C*^(?[R5_+H%%%%;',%%%%`!1110!!=V5M?P^5=0
+M)*GHPZ?3TK+'A'0@^[[`,^\CX_+-;=%9RI4Y.\HI_(UAB*M-6A)I>396M=/L
+M[(8M;6*'/4H@!-6:**M))61G*3D[R=PHHHIB"BBB@`HHHH`****`"BBB@#__
+!V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

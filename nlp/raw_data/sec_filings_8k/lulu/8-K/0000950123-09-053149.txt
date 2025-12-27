@@ -1,0 +1,667 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TJl2cHmP9uKSGOlFL8s6121/4Lhk4gmm+8PCLwB6opvY61yjjvqgVPjktma+LOjB
+ TOCjLGIiPoTdm+yq/uUFCg==
+
+<SEC-DOCUMENT>0000950123-09-053149.txt : 20091026
+<SEC-HEADER>0000950123-09-053149.hdr.sgml : 20091026
+<ACCEPTANCE-DATETIME>20091026160524
+ACCESSION NUMBER:		0000950123-09-053149
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20091026
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20091026
+DATE AS OF CHANGE:		20091026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			lululemon athletica inc.
+		CENTRAL INDEX KEY:			0001397187
+		STANDARD INDUSTRIAL CLASSIFICATION:	APPAREL & OTHER FINISHED PRODS OF FABRICS & SIMILAR MATERIAL [2300]
+		IRS NUMBER:				203842867
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0201
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33608
+		FILM NUMBER:		091137003
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+		BUSINESS PHONE:		604-732-6124
+
+	MAIL ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lululemon Corp.
+		DATE OF NAME CHANGE:	20070420
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>c91465e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+
+
+<DIV style="font-size: 10pt">
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+<FONT style="font-size: 12pt">Washington, D.C. 20549
+</FONT></B>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+<P align="center" style="font-size: 12pt"><B>CURRENT REPORT<BR>
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</B>
+
+<P align="center" style="font-size: 10pt"><B>Date of Report (Date of earliest event reported): October 26, 2009</B>
+
+<P align="center">
+
+<P align="center" style="font-size: 24pt"><B>lululemon athletica inc.<BR></B>
+<FONT style="font-size: 10pt">(Exact name of registrant as specified in its charter)
+</FONT>
+
+<TABLE border="0" width="100%" cellspacing="0" cellpadding="0" style="font-size: 10pt; text-align: center">
+<TR>
+    <TD width="32%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="33%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="32%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD style="border-bottom: 1px solid #000000"><B>Delaware</B></TD>
+    <TD>&nbsp;</TD>
+    <TD style="border-bottom: 1px solid #000000"><B>001-33608</B></TD>
+    <TD>&nbsp;</TD>
+    <TD style="border-bottom: 1px solid #000000"><B>20-3842867</B></TD>
+</TR>
+<TR valign="top">
+    <TD>(State or other Jurisdiction of Incorporation)</TD>
+    <TD>&nbsp;</TD>
+    <TD>(Commission File Number)</TD>
+    <TD>&nbsp;</TD>
+    <TD>(IRS Employer Identification No.)</TD>
+</TR>
+</TABLE>
+
+<TABLE border="0" width="100%" cellspacing="0" cellpadding="0" style="font-size: 10pt; text-align: center">
+<TR>
+    <TD width="49%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="49%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD style="border-bottom: 1px solid #000000"><B>2285 Clark Drive<BR>Vancouver, British Columbia<BR>Canada<BR></B></TD>
+    <TD>&nbsp;</TD>
+    <TD style="border-bottom: 1px solid #000000"><B>V5N 3G9</B></TD>
+</TR>
+<TR valign="top">
+    <TD>(Address of Principal Executive Offices)</TD>
+    <TD>&nbsp;</TD>
+    <TD>(Zip Code)</TD>
+</TR>
+</TABLE>
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code: <B>(604) 732-6124</B>
+
+
+<TABLE border="0" width="30%" cellspacing="0" cellpadding="0" style="font-size: 10pt; text-align: center">
+<TR>
+    <TD width="100%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD nowrap style="border-bottom: 1px solid #000000"><B>&nbsp;</B></TD>
+</TR>
+<TR>
+    <TD nowrap>(Former name or former address if changed since last report.)</TD>
+</TR>
+</TABLE>
+
+<P align="left" style="font-size: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+<P align="left" style="font-size: 10pt">
+<FONT face="Wingdings">&#111;</FONT> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)<BR><BR>
+<FONT face="Wingdings">&#111;</FONT> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)<BR><BR>
+<FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))<BR><BR>
+<FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))<BR>
+
+
+<P>
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt; display: none">1
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<P align="justify" style="font-size: 10pt"><B>Item&nbsp;7.01. Regulation&nbsp;FD Disclosure.</B>
+
+
+<P align="justify" style="font-size: 10pt; text-indent: 4%">On October&nbsp;26, 2009, lululemon athletica inc. (the &#147;Company&#148;) issued a press release announcing that the Company
+is raising its guidance for the third quarter of fiscal 2009 ending November&nbsp;1, 2009. The Company is furnishing a copy
+of the press release hereto as Exhibit&nbsp;99.1.
+
+
+<P align="justify" style="font-size: 10pt; text-indent: 4%">The information in this Current Report is being furnished and shall not be deemed &#147;filed&#148; for purposes of Section
+18 of the Securities Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;), nor shall such information be deemed
+incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as
+expressly stated by specific reference to such filing.
+
+
+<P align="justify" style="font-size: 10pt"><B>Item&nbsp;9.01. Financial Statements and Exhibits.</B>
+
+
+<P align="justify" style="font-size: 10pt">(d)&nbsp;Exhibits.
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+
+    <TD width="3%" nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit&nbsp;No.</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD style="border-bottom: 1px solid #000000"><DIV style="text-align: left">Description</DIV></TD>
+</TR>
+
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left">99.1</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Press release entitled &#147;lululemon athletica inc. Raises Guidance for Third Quarter of Fiscal 2009&#148;,
+issued by the Company on October&nbsp;26, 2009.</DIV></TD>
+</TR>
+
+</TABLE>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt; display: none">2
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<P align="center" style="font-size: 10pt">SIGNATURES
+
+
+
+<P align="justify" style="font-size: 10pt; text-indent: 4%">Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="42%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">lululemon athletica inc.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Dated: October&nbsp;26, 2009
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">/s/ <FONT style="font-variant: SMALL-CAPS">John E. Currie</FONT></TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD colspan="2" align="left" valign="top">John E. Currie,
+Chief Financial Officer</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt; display: none">3
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<P align="center" style="font-size: 10pt"><B>EXHIBIT INDEX</B>
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+
+    <TD width="3%" nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit&nbsp;No.</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD style="border-bottom: 1px solid #000000"><DIV style="text-align: left">Description</DIV></TD>
+</TR>
+
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+
+    <TD width="3%" nowrap align="left">99.1</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><DIV style="text-align: justify">Press release entitled &#147;lululemon athletica inc. Raises Guidance for Third Quarter of Fiscal 2009&#148;, issued
+by the Company on October&nbsp;26, 2009.</DIV></TD>
+</TR>
+
+</TABLE>
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt; display: none">4
+
+
+
+
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>c91465exv99w1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Exhibit 99.1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<P align="right" style="font-size: 10pt"><B>Exhibit 99.1</B>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><IMG src="c91465p9146501.jpg" alt="(LULULEMON ATHLETICA LOGO)">
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><B>LULULEMON ATHLETICA INC. RAISES GUIDANCE FOR THIRD QUARTER OF FISCAL 2009</B>
+
+
+
+<P align="left" style="font-size: 10pt"><B>Vancouver, Canada &#151; October&nbsp;26, 2009 </B>&#151; lululemon athletica inc. &#091;NASDAQ: LULU; TSX: LLL&#093; today announced that the
+Company is raising its guidance for the third quarter of fiscal 2009 ending November&nbsp;1, 2009.
+
+
+<P align="left" style="font-size: 10pt">For the third quarter of fiscal 2009, the Company now expects diluted earnings per share to be in the range of $0.17 to
+$0.19 as compared to its previous guidance range for diluted earnings per share of $0.11 to $0.13. The Company&#146;s
+improved guidance reflects stronger than anticipated net revenues for the quarter.
+
+
+<P align="left" style="font-size: 10pt">The Company now expects net revenue to be in the range of $110&nbsp;million to $112&nbsp;million for the third quarter of fiscal
+2009. This compares to the Company&#146;s previous guidance of net revenue in the range of $95&nbsp;million to $100&nbsp;million for
+the quarter, and compares to net revenue of $87&nbsp;million for the third quarter of fiscal 2008. Comparable-store sales
+for the third quarter of fiscal 2009 are expected to reflect a high-single digit increase on a constant-dollar basis
+compared to the third quarter of fiscal 2008. This compares to the Company&#146;s previous guidance of relatively flat
+comparable-store sales for the third quarter of fiscal 2009.
+
+
+<P align="left" style="font-size: 10pt">Christine Day, lululemon&#146;s CEO stated: &#147;Our sourcing and production strategies designed to chase inventory and&nbsp;keep
+pace with renewed sales momentum proved to be very effective during this fall season.&nbsp; By staying in stock in our core
+items, as well as our new running line and seasonal outerwear offerings, we have been able to satisfy strong guest
+demand and exceed our original revenue expectations for the quarter. &nbsp;We will continue to chase inventory and will also
+increase our reinvestment in the business to ensure that we are delivering the product and in-store experience that our
+guests have come to expect from lululemon&#148;.
+
+
+<P align="left" style="font-size: 10pt">The Company is also announcing that management will be attending the Credit Suisse Retail Round-Up Conference on Wednesday,
+October&nbsp;28 in Chicago.&nbsp;
+
+
+<P align="left" style="font-size: 10pt">The Company is providing this information in light of the significant expected outperformance of its original third
+quarter guidance provided in conjunction with the announcement of the Company&#146;s second quarter fiscal results on
+September&nbsp;10, 2009. Investors should not expect the Company to provide regular interim quarterly updates of guidance or
+outlook information in advance of quarterly earnings announcement dates.
+
+
+<P align="left" style="font-size: 10pt"><B>About lululemon athletica inc.</B>
+<BR>
+lululemon athletica (NASDAQ:LULU; TSX:LLL) is a yoga-inspired athletic apparel Company that creates components for
+people to live longer, healthier and more fun lives. By producing products that help keep people active and stress
+free, lululemon believes that the world will be a better place. Setting the bar in technical fabrics and functional
+designs, lululemon works with yogis and athletes in local communities for continuous research and product feedback. For
+more information, visit www.lululemon.com.
+
+
+<P align="left" style="font-size: 10pt"><B>Non-GAAP Financial Measure</B>
+<BR>
+Constant-dollar net revenue changes, which exclude the impact of changes in foreign exchange rates, are not a U.S.
+Generally Accepted Accounting Principle (&#147;GAAP&#148;) performance measure. We provide constant-dollar net revenue changes
+because we use the measure to understand the underlying growth rate of revenue excluding the impact on a quarter by
+quarter basis of changes in foreign exchange rates, which are not under management&#146;s direct control. We believe that
+disclosing net revenue changes on a constant-dollar basis is useful to investors because it enables them to better
+understand the level of growth of our business.
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt; display: none">1
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><IMG src="c91465p9146501.jpg" alt="(LULULEMON ATHLETICA LOGO)">
+</DIV>
+
+
+<P align="left" style="font-size: 10pt"><B>Forward-Looking Statements:</B>
+<BR>
+This press release contains &#147;forward-looking statements&#148; within the meaning of Section&nbsp;27A of the Securities Act of
+1933 and Section&nbsp;21E of the Securities Exchange Act of 1934 that involve risks, uncertainties and assumptions, such as
+statements regarding our future financial condition or results of operations and our prospects and strategies for future growth.
+In many cases, you can identify forward-looking statements by terms such as &#147;may,&#148; &#147;will,&#148; &#147;should,&#148; &#147;expects,&#148;
+&#147;plans,&#148; &#147;anticipates,&#148; &#147;outlook,&#148; &#147;believes,&#148; &#147;intends,&#148; &#147;estimates,&#148; &#147;predicts,&#148; &#147;potential&#148; or the negative of these
+terms or other comparable terminology. These forward-looking statements are based on management&#146;s current expectations
+but they involve a number of risks and uncertainties. Actual results and the timing of events could differ materially
+from those anticipated in the forward-looking statements as a result of risks and uncertainties, which include, without
+limitation: the possibility that we may not be able to manage operations at our current size or manage growth
+effectively; risks that consumer spending may continue to decline and that U.S. and global macroeconomic conditions may
+worsen; the possibility that levels of comparable-store sales or average sales per square foot will decline; the
+possibility that we may not be able to successfully expand in the United States and other new markets; increased
+competition causing us to reduce the prices of our products or to increase significantly our marketing efforts in order
+to avoid losing market share; the possibility that we may not be able to continually innovate and provide our consumers
+with improved products; the possibility that our suppliers or manufacturers may not produce or deliver our products in
+a timely or cost-effective manner; and other risk factors detailed in our Annual Report on Form 10-K for the fiscal
+year ended February&nbsp;1, 2009 and in our subsequent reports on Form 10-Q filed with the Securities and Exchange
+Commission and available at www.sec.gov. You are urged to consider these factors carefully in evaluating the
+forward-looking statements contained herein and are cautioned not to place undue reliance on such forward-looking
+statements, which are qualified in their entirety by these cautionary statements. The forward-looking statements made
+herein speak only as of the date of this press release and the Company undertakes no obligation to publicly update such
+forward-looking statements to reflect subsequent events or circumstances.
+
+
+<P align="left" style="font-size: 10pt"><B>Contacts:</B>
+
+
+<P align="left" style="font-size: 10pt"><B>Investors:</B>
+<BR>
+ICR, Inc
+<BR>
+Joseph Teklits / Jean Fontana
+<BR>
+203-682-8200
+
+
+<P align="left" style="font-size: 10pt">or
+
+
+<P align="left" style="font-size: 10pt"><B>Media:</B>
+<BR>
+FD
+<BR>
+Evan Goetz / Diane Zappas
+<BR>
+212-850-5600
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt; display: none">2
+
+
+
+
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>c91465p9146501.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 c91465p9146501.jpg
+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
+GD****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`__9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

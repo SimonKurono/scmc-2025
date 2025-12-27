@@ -1,0 +1,408 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Q6OsS5VrRkTkI5V6ccYPh+iseGLrHk8GH2yCYy4vqVucEJXUAvBMmqXSMJkQmHvW
+ W6TNlHmq4XeguQTAJ92zKA==
+
+<SEC-DOCUMENT>0000320187-09-000111.txt : 20090929
+<SEC-HEADER>0000320187-09-000111.hdr.sgml : 20090929
+<ACCEPTANCE-DATETIME>20090928180123
+ACCESSION NUMBER:		0000320187-09-000111
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20090928
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20090929
+DATE AS OF CHANGE:		20090928
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NIKE INC
+		CENTRAL INDEX KEY:			0000320187
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		IRS NUMBER:				930584541
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10635
+		FILM NUMBER:		091091107
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+		BUSINESS PHONE:		5036713173
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f8k090929am.htm
+<DESCRIPTION>FORM 8-K - ANNUAL MEETING VOTE
+<TEXT>
+<html>
+<head>
+    <title>f8k090929am.htm</title>
+<!-- Licensed to: NIKE, Inc.-->
+<!-- Document Created using EDGARizer 5.1.2.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div>
+<hr style="COLOR: black" align="left" noshade size="1" width="100%"></div></font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">UNITED STATES</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES AND EXCHANGE COMMISSION</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington, D.C. 20549</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">_______________</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FORM 8-K</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">CURRENT REPORT</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td colspan="2" valign="top" width="53%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Date of Report (Date of earliest event reported):</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">September 28, 2009</font></font></div></td></tr><tr>
+<td colspan="3" valign="top" width="80%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">NIKE, Inc.</font></div></td></tr><tr>
+<td colspan="3" valign="top" width="80%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Exact name of registrant as specified in charter)</font></div></td></tr><tr>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">OREGON</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">1-10635</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">93-0584541</font></div></td></tr><tr>
+<td valign="top" width="27%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(State or other jurisdiction</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">of incorporation)</font></div></td>
+<td valign="top" width="27%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Commission</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">File Number)</font></div></td>
+<td valign="top" width="27%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(IRS Employer</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Identification No.)</font></div></td></tr><tr>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td colspan="2" valign="top" width="53%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">ONE BOWERMAN DRIVE</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">BEAVERTON, OR</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">97005-6453</font></div></td></tr><tr>
+<td colspan="2" valign="top" width="53%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Address of principal executive offices)</font></div></td>
+<td valign="top" width="27%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Zip Code)</font></div></td></tr><tr>
+<td colspan="2" valign="top" width="53%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td align="left" colspan="2" valign="top" width="53%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Registrant&#8217;s telephone number, including area code:</font></div></td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">(503)671-6453</font></font></div></td></tr><tr>
+<td colspan="2" valign="top" width="53%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td colspan="3" valign="top" width="80%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">NO CHANGE</font></div></td></tr><tr>
+<td colspan="3" valign="top" width="80%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Former name or former address, if changed since last report.)</font></div></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div></td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div></td></tr></table></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div></td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div></td></tr></table></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div></td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div></td></tr></table></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div></td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div></td></tr></table></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div>
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2"></div></div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div></div>
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Item 8.01 - <font style="DISPLAY: inline; TEXT-DECORATION: underline">Other Events</font></font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman">Submission of Matters to a Vote of Security Holders</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<br>&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company's annual meeting of shareholders was held on Monday, September 21, 2009, in Beaverton, Oregon.&#160;&#160;The following matters were submitted to a vote of the shareholders, the results of which were as follows:</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman">Proposal 1 -&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Election of Directors:</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<br>&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Directors Elected by holders of Class A Common Stock:</font></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="47%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="17%" style="PADDING-BOTTOM: 2px">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Votes Cast For</font></font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Votes Withheld</font></font></div></td></tr><tr>
+<td valign="top" width="47%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="17%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="17%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td align="left" valign="top" width="47%">
+<div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">John G. Connors</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">94,058,182</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">-0-</font></div></td></tr><tr>
+<td align="left" valign="top" width="47%">
+<div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Timothy D. Cook</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">94,058,182</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">-0-</font></div></td></tr><tr>
+<td align="left" valign="top" width="47%">
+<div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Ralph D. DeNunzio</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">94,058,182</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">-0-</font></div></td></tr><tr>
+<td align="left" valign="top" width="47%">
+<div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Douglas G. Houser</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">94,058,182</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">-0-</font></div></td></tr><tr>
+<td align="left" valign="top" width="47%">
+<div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Philip H. Knight</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">94,058,182</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">-0-</font></div></td></tr><tr>
+<td align="left" valign="top" width="47%">
+<div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Mark G. Parker</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">94,058,182</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">-0-</font></div></td></tr><tr>
+<td align="left" valign="top" width="47%">
+<div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Johnathan A. Rodgers</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">94,058,182</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">-0-</font></div></td></tr><tr>
+<td align="left" valign="top" width="47%">
+<div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Orin C. Smith</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">94,058,182</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">-0-</font></div></td></tr><tr>
+<td align="left" valign="top" width="47%">
+<div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">John R. Thompson, Jr.</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">94,058,182</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">-0-</font></div></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Directors Elected by holders of Class B Common Stock:</font></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="47%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="17%" style="PADDING-BOTTOM: 2px">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Votes Cast For</font></font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Votes Withheld</font></font></div></td></tr><tr>
+<td valign="top" width="47%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="17%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="17%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+<td align="left" valign="top" width="47%">
+<div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Jill K. Conway</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">336,271,204</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">5,665,625</font></div></td></tr><tr>
+<td align="left" valign="top" width="47%">
+<div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Alan B. Graf, Jr.</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">339,672,317</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2,264,512</font></div></td></tr><tr>
+<td align="left" valign="top" width="47%">
+<div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">John C. Lechleiter</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">338,569,616</font></div></td>
+<td valign="top" width="17%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">3,367,212</font></div></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman">Proposal 2 &#8211;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Approve an amendment to the NIKE, Inc. Employee Stock Purchase Plan.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Class A and Class B Common Stock Voting Together:</font></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="20%" style="PADDING-BOTTOM: 2px">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">For</font></font></div></td>
+<td valign="top" width="20%" style="PADDING-BOTTOM: 2px">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Against</font></font></div></td>
+<td valign="top" width="20%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Abstain</font></font></div></td>
+<td valign="top" width="20%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline">Broker Non-Votes</font></td></tr><tr>
+<td valign="top" width="20%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">392,866,980</font></div></td>
+<td valign="top" width="20%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">1,163,857</font></div></td>
+<td valign="top" width="20%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;184,933</font></div></td>
+<td valign="top" width="20%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font>41,779,240</font></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman">Proposal 3 &#8211;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Ratify the appointment of PricewaterhouseCoopers LLP as the Company's independent registered
+public accounting firm for fiscal year 2010.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Class A and Class B Common Stock Voting Together:</font></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="20%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">For</font></font></div></td>
+<td valign="top" width="20%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Against</font></font></div></td>
+<td valign="top" width="20%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Abstain</font></font></div></td>
+<td valign="top" width="20%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline">Broker Non-Votes</font></td></tr><tr>
+<td valign="top" width="20%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">430,511,783</font></div></td>
+<td valign="top" width="20%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">5,142,330</font></div></td>
+<td valign="top" width="20%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;340,895</font></div></td>
+<td valign="top" width="20%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;-0-</font></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURES</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date:&#160;&#160;September 28, 2009</font></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="43%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style=
+"LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;NIKE,
+INC.</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style=
+"LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;(Registrant)</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style=
+"LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font style="TEXT-DECORATION: underline">By:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline">/s/
+Donald W. Blair</font></font></font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div></td></tr><tr>
+<td valign="top" width="43%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB2" style="LETTER-SPACING: 9pt"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font>&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-S
+PACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Donald
+W. Blair</font></div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB1" style="MARGIN-LEFT: 36pt">&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&
+#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Chief
+Financial Officer</font></div></td></tr></table></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<br></div>
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div>
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2"></div></div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div></div>
+<br></body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

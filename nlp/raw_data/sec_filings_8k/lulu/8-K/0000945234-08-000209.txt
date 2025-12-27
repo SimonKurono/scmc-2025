@@ -1,0 +1,1952 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PQmH6ooQ7cyuqZlAqXZr0c+N03OeRb9E2W9GCceYlQOPIUT5sMIJhrNE1ibFKhiz
+ xS7Axvp7CQP/AWYAPMdk0A==
+
+<SEC-DOCUMENT>0000945234-08-000209.txt : 20080506
+<SEC-HEADER>0000945234-08-000209.hdr.sgml : 20080506
+<ACCEPTANCE-DATETIME>20080506172211
+ACCESSION NUMBER:		0000945234-08-000209
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20080430
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20080506
+DATE AS OF CHANGE:		20080506
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			lululemon athletica inc.
+		CENTRAL INDEX KEY:			0001397187
+		STANDARD INDUSTRIAL CLASSIFICATION:	APPAREL & OTHER FINISHED PRODS OF FABRICS & SIMILAR MATERIAL [2300]
+		IRS NUMBER:				203842867
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0208
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33608
+		FILM NUMBER:		08807364
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+		BUSINESS PHONE:		604-732-6124
+
+	MAIL ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lululemon Corp.
+		DATE OF NAME CHANGE:	20070420
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>o40407e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 110; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 8-K</B>
+</DIV>
+
+<DIV align="center">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 110; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>April&nbsp;30, 2008</B><BR>
+Date of Report (Date of earliest event reported)
+</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 15pt"><B>lululemon athletica inc.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 0pt">(Exact name of registrant as specified in its charter)
+</DIV>
+
+<DIV align="center" style="margin-top: 12pt">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="31%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="31%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="31%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000"><B>Delaware</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000"><B>000-33608</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000"><B>20-3842867</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction of incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 21pt"><B>2285 Clark Drive<BR>
+Vancouver, British Columbia<BR>
+Canada, V5N 3G9</B><BR>
+(Address of principal executive offices, including Zip Code)
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">&nbsp;<BR>
+Registrant&#146;s telephone number, including area code: <B>(604)&nbsp;732-6124</B>
+</DIV>
+
+<DIV align="center">
+<DIV style="font-size: 3pt; margin-top: 21pt; width: 110; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy
+the filing obligation of the registrant under any of the following provisions:
+</DIV>
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 10pt">
+<TR style="font-size: 6pt">
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="96%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 10pt">
+<TR style="font-size: 6pt">
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="96%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 10pt">
+<TR style="font-size: 6pt">
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="96%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 10pt">
+<TR style="font-size: 6pt">
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="96%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="left"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;5.02.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">(e)
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B><I>2008 Executive Bonus Plan</I></B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On April&nbsp;30, 2008, the Compensation Committee (the &#147;Compensation Committee&#148;) of the Board of
+Directors (the &#147;Board&#148;) of lululemon athletica inc. (the &#147;Company&#148;) approved a 2008 Executive Bonus
+Plan (the &#147;Plan&#148;) and related financial performance goals in respect of the fiscal year beginning February&nbsp;4, 2008 (&#147;Fiscal
+2008&#148;). The Plan is applicable to the positions of executive vice president and above, and to other
+senior officers of the Company as designated by the Compensation Committee. Target bonuses for the
+Company&#146;s executive officers eligible to participate in the Plan are weighted so that 90% of the
+target bonus is based on financial performance goals and 10% is based on individual performance
+goals. The maximum allowable bonus payout is 120% of the target bonus amount.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The financial performance goals for each of the executive officers eligible to participate in
+the Plan are based on four financial measures for Fiscal 2008: (i)&nbsp;the Company&#146;s diluted earnings
+per share; (ii)&nbsp;comparable store sales; (iii)&nbsp;operating margins; and (iv)&nbsp;inventory levels (the
+&#147;Financial Measures&#148;). Individual performance goals vary depending on the responsibilities of the
+positions held by each Plan participant. The Fiscal 2008 target bonus amounts and weighting
+between the financial and individual performance goals for each executive officer are set forth in
+the table below.
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="1%">&nbsp;</TD>
+    <TD width="22%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD><!-- VRule -->
+    <TD width="2%">&nbsp;</TD>
+    <TD width="22%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD><!-- VRule -->
+    <TD width="2%">&nbsp;</TD>
+    <TD width="21%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD><!-- VRule -->
+    <TD width="2%">&nbsp;</TD>
+    <TD width="21%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR><TR style="font-size: 1px" valign="bottom">
+    <TD nowrap align="left" colspan="12" style="border-bottom: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">    <TD width="1%" style="border-left: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Target Bonus (as a</B></TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Financial Performance</B></TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Individual Performance</B></TD>
+    <TD width="1%" style="border-right: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">    <TD width="1%" style="border-left: 1px solid #000000">&nbsp;</TD>
+    <TD nowrap align="left"><B>Executive Officer</B></TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Percentage of Salary)</B></TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Goals Weight</B></TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Goals Weight</B></TD>
+    <TD width="1%" style="border-right: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD width="1%" style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:15px; text-indent:-15px">Chief Executive Officer</DIV></TD>
+    <TD style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">75%</TD>
+    <TD style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">90%</TD>
+    <TD style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">10%</TD>
+    <TD width="1%" style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD width="1%" style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:15px; text-indent:-15px">Chief Product Designer</DIV></TD>
+    <TD style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">75%</TD>
+    <TD style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">90%</TD>
+    <TD style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">10%</TD>
+    <TD width="1%" style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD width="1%" style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:15px; text-indent:-15px">Executive Vice President</DIV></TD>
+    <TD style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">60%</TD>
+    <TD style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">90%</TD>
+    <TD style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">10%</TD>
+    <TD width="1%" style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD width="1%" style="border-left: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:15px; text-indent:-15px">Other Executive Officers</DIV></TD>
+    <TD style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">60%</TD>
+    <TD style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">90%</TD>
+    <TD style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+    <TD style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">10%</TD>
+    <TD width="1%" style="border-right: 1px solid #000000; border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px" valign="bottom">
+    <TD nowrap align="left" colspan="12" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the minimum diluted earnings per share goal established by the Compensation Committee
+is not reached for Fiscal 2008, there will be no bonus paid under the Plan.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following is an example of how a maximum allowable payout of 120% of the target amount
+could affect total bonus payouts for Fiscal 2008. <B><I>This example is included for illustrative
+purposes only and does not represent a forecast or target by the Company for Fiscal 2008 of the
+Financial Measures.</I></B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because each executive vice president participating in the Plan has a target bonus of 60% of
+base salary, and because 90% of that target bonus is allocated to achieving the financial
+performance goals and 10% of that target bonus is allocated to achieving the individual performance
+goals, the target bonus attributable to achievement of the financial performance goals is 54% of base
+salary (<I>i.e. </I>90% x 60% = 54%) and the target bonus attributable to achievement of the individual
+performance goals is 6% of base salary (<I>i.e.</I>, 10% x 60% = 6%). If the Financial Measures and
+individual performance were at a level permitting a payout of 120% of the target bonus, an
+executive vice president participating in the Plan would be eligible to receive 72% of his or her
+base salary (64.8% for achieving the financial performance goals (120% x 54%) and 7.2% for achieving
+the individual performance goals (120% x 6%)).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A copy of the Plan is attached hereto as Exhibit&nbsp;10.1 and is incorporated herein by
+reference.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B><I>Retirement, Transition and Release Agreement between Company and Robert Meers</I></B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As previously reported in the Company&#146;s Current Report on Form 8-K filed on April&nbsp;2, 2008, Robert Meers announced that he will resign from the office of Chief Executive
+Officer of the Company effective June&nbsp;30, 2008. Mr.&nbsp;Meers has also determined that he will also
+resign from the Company&#146;s board of directors, and from all officer and director positions he
+currently holds with the Company&#146;s affiliates, effective June&nbsp;4, 2008.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr.&nbsp;Meers and the Company have entered into a Retirement, Transition and Release Agreement
+dated May&nbsp;6, 2008, under which Mr.&nbsp;Meers has agreed to consult with the Company upon the Company&#146;s
+request through January&nbsp;31, 2009, and to release the Company from any claims he may have related to
+his employment with the Company and any of its affiliates. The Company has also released Mr.&nbsp;Meers
+from any claims related to Mr.&nbsp;Meers&#146; employment by the Company. Mr.&nbsp;Meers has also agreed to
+continue to be bound by certain restrictive covenants, including a covenant not to compete with the
+Company for a period of 24&nbsp;months following the termination of his employment, to preserve the
+confidentiality of certain of the Company&#146;s proprietary information, and to any assignment of any
+rights he may have in the Company&#146;s intellectual property to the Company. In consideration for
+such consultation services, release and restrictive covenants, the Company will accelerate the
+vesting of 209,042 options under non-qualified stock options currently held by Mr.&nbsp;Meers.
+Consistent with applicable tax regulations, the Company has extended the exercise date for such
+options to a date between January&nbsp;1, 2009 and March&nbsp;15, 2009. Mr.&nbsp;Meers will also be entitled to
+receive a special bonus based on the Company&#146;s financial performance and Mr.&nbsp;Meer&#146;s performance for
+Fiscal 2008 pursuant to the terms of the Plan, in an amount not to exceed CDN$219,113. A copy of
+the Retirement, Transition and Release Agreement is attached hereto as Exhibit&nbsp;10.2 and is
+incorporated herein by reference.
+</DIV>
+
+
+
+
+<DIV align="left" style="margin-top: 12pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left"><B>Item&nbsp;9.01.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Financial Statements and Exhibits.</B></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">(d)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Exhibits.</TD>
+</TR>
+
+
+
+</TABLE>
+</DIV>
+
+<DIV align="right">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="98%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Exhibit No.</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Description</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">2008 Executive Bonus Plan of lululemon athletica inc.</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.2</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Retirement, Transition and Release Agreement between lululemon
+athletica inc. and Robert Meers, dated May&nbsp;6, 2008.</DIV></TD>
+</TR>
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">SIGNATURES
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the
+registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">lululemon athletica inc.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Dated: May&nbsp;6, 2008&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ John E. Currie
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">John E. Currie&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">EXHIBIT INDEX
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Exhibit No.</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Description</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">2008 Executive Bonus Plan of lululemon athletica inc.</DIV></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.2</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Retirement, Transition and Release Agreement between
+lululemon athletica inc. and Robert Meers, dated May&nbsp;6, 2008.
+</DIV></TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>o40407exv10w1.htm
+<DESCRIPTION>2008 EXECUTIVE BONUS PLAN
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>2008 Executive Bonus Plan</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">2008 EXECUTIVE BONUS PLAN (THE &#147;<U>PLAN</U>&#148;)
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt; margin-bottom: 24pt">LULULEMON ATHLETICA INC.
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="25%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>PLAN TERM</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Fiscal year beginning February&nbsp;4, 2008</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>PLAN EFFECTIVE DATE</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">February 4<SUP style="font-size: 85%; vertical-align: text-top">th</SUP> 2008</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>PLAN YEAR</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">lululemon fiscal year</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>PURPOSE</B>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The purpose of the Plan is to increase stockholder value by providing an incentive
+for the achievement of goals that support the strategic plan of lululemon athletica inc.
+(the &#147;<U>Company</U>&#148;).</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ELIGIBILITY</B>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Plan is applicable for positions of executive vice president and above, and
+other senior officers of the Company as designated by the Compensation Committee of the
+Board of Directors (the &#147;<U>Participants</U>&#148;).</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The CEO has the authority to recommend participants. The Compensation Committee has the
+sole authority to designate Participants.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Eligibility will cease upon termination of the Participant&#146;s employment, withdrawal of
+designation by the Compensation Committee, transfer to a position compensated otherwise
+than as provided in the Plan, termination of the Plan by the Company, or if the Participant
+engages, directly or indirectly, in any activity which is competitive with any Company
+activity.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>If a Participant changes from an eligible position to an ineligible position during the
+Plan Year, eligibility to participate will be at the discretion of the Compensation
+Committee.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>TARGET BONUS</B>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The target bonus shall be the amount that would be paid to the Participant under
+the Plan if 100% of Financial Performance Goals and 100% of Individual Performance Goals
+were met (the &#147;<U>Target Bonus</U>&#148;). The Target Bonus for each Participant shall be
+established by the Compensation Committee no later than ninety (90)&nbsp;days after the
+beginning of the Plan Year.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Target Bonus may be established as a percentage of base pay, or according to another
+method established by the Compensation Committee. The amount of the Target Bonus earned by
+the Participant shall be based on the achievement of Financial Performance Goals and, if
+applicable, Individual Performance Goals.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->1<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>OBJECTIVE FINANCIAL PERFORMANCE GOALS</B>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Compensation Committee shall select the Financial Performance Goals for each
+Participant no later than ninety (90)&nbsp;days after the beginning of the Plan Year and while
+the outcome is substantially uncertain.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Compensation Committee shall select the amount of the Target Bonus for each
+Participant that will be determined by achievement of the Financial Performance Goals no
+later than ninety (90)&nbsp;days after the beginning of the Plan Year.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Compensation Committee may establish any special adjustments that will be
+applied in calculating whether the Financial Performance Goals have been met to factor out
+extraordinary items no later than ninety (90)&nbsp;days after the beginning of the Plan Year and
+while the outcome is substantially uncertain.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Company&#146;s overall financial performance is evaluated against four critical financial
+measures:</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="9%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>diluted earnings per share</TD>
+</TR>
+<TR>
+    <TD style="font-size: 2pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="9%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>operating margin</TD>
+</TR>
+<TR>
+    <TD style="font-size: 2pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="9%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>comparable store sales</TD>
+</TR>
+<TR>
+    <TD style="font-size: 2pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="9%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>forward weeks sales in inventory</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>If the minimum diluted earnings per share goal established by the Compensation Committee
+is not reached for the fiscal year, there will be no bonus paid under the Plan with respect
+to that fiscal year.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The maximum performance level for each Financial Performance Goal is 120%</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>INDIVIDUAL PERFORMANCE GOALS</B>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The portion of the Target Bonus not determined by achievement of the Financial
+Performance Goals shall be determined by the Participant&#146;s achievement of Individual
+Performance Goals.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Each Participant with Individual Performance Goals shall submit such Individual
+Performance Goals for approval by the Compensation Committee within ninety (90)&nbsp;days after
+the beginning of the Plan Year.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The maximum performance level for each Individual Performance Goal is 120%.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>BONUS PAYOUT AND ELIGIBILITY</B>
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The bonus payout for each Participant under the Plan is based on the achievement of
+the Financial Performance Goals and the Individual Performance Goals (the &#147;<U>Bonus
+Payout</U>&#148;). A Bonus Payout under the Plan is earned as of the end of the Plan Year and
+will be paid according to the Plan, if the Participant remains a Company employee through
+the date on which Bonus Payouts are made to Participants under the Plan, unless employment
+is terminated prior to the end of the Plan Year due to death or disability.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->2<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Compensation Committee, in its discretion, may determine that the Bonus Payout
+for any Participant will be less than (but not greater than) the amount earned by such
+Participant under the Plan.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>BONUS PAYOUT CALCULATION</B>
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Within ninety (90)&nbsp;days after the beginning of the Plan Year and while the outcome
+is substantially uncertain, the Compensation Committee shall review and approve for each
+Participant: the Target Bonus; the Financial Performance Goals; the Individual Performance
+Goals; and the relative weighting of the goals for the Plan Year. Those metrics will be
+used to calculate the Bonus Payout for each Participant. The Compensation Committee shall
+review the Bonus Payout calculation for each Participant.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>BONUS PAYOUT PRORATIONS</B>
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>For any Company employee who meets eligibility criteria and becomes a Participant
+after the start of the Plan Year but before November 1<SUP style="font-size: 85%; vertical-align: text-top">st</SUP> of that fiscal year, or
+whose employment with the Company is terminated prior to the end of the Plan Year because
+of disability or death, the Compensation Committee (1)&nbsp;shall prorate the Bonus Payout
+related to the Financial Performance Goals, and (2)&nbsp;in its discretion, may prorate the
+Bonus Payout related to Individual Performance Goals. If the Participant is on a leave of
+absence for a portion of the Plan Year, the Compensation Committee in its discretion may
+reduce the Participant&#146;s Bonus Payout on a pro-rata basis.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The proration is based on the number of full months during which the Participant
+participated in the Plan during the Plan Year. Credit is given for a full month if the
+Participant is eligible for 15 or more calendar days during that month.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>If a Participant changes positions within the Company during the Plan Year, the
+Compensation Committee in its discretion may prorate the Participant&#146;s Bonus Payout by the
+number of months in each position.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 15pt"><B>ADMINISTRATION</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt"><B>COMPENSATION COMMITTEE RESPONSIBILITIES:</B>
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Approve the Plan design, Financial Performance Goals, and Individual Performance
+Goals for each Participant. Determine and certify the achievement of the Financial
+Performance Goals and Individual Performance Goals. Approve the Bonus Payout calculation
+and Bonus Payout for each Participant.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>In the event of a dispute regarding the Plan, the Participant may seek resolution
+through the CEO and the Compensation Committee. All determinations by the Compensation
+Committee shall be final and conclusive.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>BONUS PAYOUT ADMINISTRATION</B>
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Bonus Payout will be made as soon as administratively feasible and is expected
+to be within approximately seventy-five (75)&nbsp;days after the end of the Plan Year. No amount
+is due and owing to any Participant before the Compensation Committee has determined the
+Bonus Payout.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Company will withhold amounts applicable to federal, state and local taxes, domestic
+or foreign, required by law or regulation.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>TERMINATION OF EMPLOYMENT</B>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Plan is not a contract of employment for any period of time. Any Participant
+may resign or be terminated at any time for any or no reason. Employment and termination of
+employment are governed by the Company&#146;s policies and any applicable employment
+agreement and not by the Plan.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>REVISIONS TO THE PLAN</B>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Plan will be reviewed by the Vice President, People Resources, CFO, CEO and the
+Compensation Committee on a periodic basis for revisions. The Company reserves the right at
+its discretion with or without notice, to review, change, amend or cancel the Plan, at any
+time.</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->4<!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>o40407exv10w2.htm
+<DESCRIPTION>RETIREMENT, TRANSITION AND RELEASE AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Retirement, Transition and Release Agreement</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><U><B>RETIREMENT, TRANSITION AND RELEASE AGREEMENT</B></U>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THIS RETIREMENT, TRANSITION AND RELEASE AGREEMENT (this &#147;<B>Release</B>&#148;) is made on this 6th day of
+May, 2008 (the &#147;<B>Effective Date</B>&#148;) by and between ROBERT MEERS (the &#147;<B>Executive</B>&#148;) lululemon athletica
+canada inc. (formerly, Lululemon Athletica Inc.), a company incorporated under the laws of British
+Columbia (the &#147;<B>Subsidiary</B>&#148;), and lululemon athletica, inc., a company incorporated under the laws
+of Delaware (the &#147;<B>Company</B>&#148;).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, the Executive has announced his intent to resign as a member of the Board of
+Directors of the Company, and as an officer and director of all the Company&#146;s affiliates,
+immediately prior to the Company&#146;s 2008 annual meeting of stockholders (presently scheduled for
+June&nbsp;4, 2008) and to retire from employment with the Company on June&nbsp;30, 2008 (the &#147;<B>Termination
+Date</B>&#148;) (the period beginning on the Effective Date and ending on the Termination Date is
+hereinafter referred to as the &#147;<B>Transition Period</B>&#148;); and
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, the Subsidiary and the Executive are parties to that certain employment agreement
+dated December&nbsp;5, 2005, pursuant to which the Executive agreed to serve as the Chief Executive
+Officer of the Subsidiary in exchange for certain rights and benefits (the &#147;<B>Employment Agreement</B>&#148;)
+and the Executive is also employed as the Chief Executive Officer of the Company; and
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, the Company granted to the Executive two non-qualified stock options (each, an
+&#147;<B>Option</B>,&#148; and collectively, the &#147;<B>Options</B>&#148;), which Options apply with respect to an aggregate of
+2,787,224 shares of the Company&#146;s common stock; and
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, the Options are evidenced by a Non-Qualified Stock Option Agreement between the
+Company and the Executive dated November&nbsp;28, 2007 with respect to 501,802 shares of the Company&#146;s
+common stock and a Non-Qualified Stock Option Agreement between the Company and the Executive dated
+November&nbsp;28, 2007 with respect 2,285,422 shares of the Company&#146;s common stock (each, an &#147;<B>Option
+Agreement</B>,&#148; and collectively, the &#147;<B>Option Agreements</B>&#148;); and
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, the Executive has executed a Fixed Option Exercise Date Election dated December&nbsp;24,
+2007 with respect to each Option (each, a &#147;<B>409A Election</B>&#148; and collection, the &#147;<B>409A Elections</B>&#148;);
+and
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, the Executive is willing to assist the Company in the transition of his duties to
+other Company employees through the Termination Date; and
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, the Company has agreed to provide the Executive with certain additional rights,
+subject to the execution of and compliance with this Release and a Second Release (as described
+below).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOW THEREFORE, in consideration of these premises and the mutual promises contained herein,
+and intending to be legally bound hereby, the parties agree as follows:
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Transition Period; Cessation of Service</U>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the Transition Period, the Executive will continue to provide services to the
+Company as the Chief Executive Officer of the Company and will devote substantially all his
+business time and services to the Company. During the Transition Period, Executive will continue
+to be paid his base salary and participate in the Company&#146;s group insurance programs, in the manner
+and to the extent provided in Sections&nbsp;1.1 and 2.4 of the Employment Agreement.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Executive hereby resigns from the Board of Directors of the Company (and as an
+officer and director of all the Company&#146;s affiliates) effective immediately prior to the
+commencement of the Company&#146;s 2008 annual meeting of stockholders (currently scheduled for June&nbsp;4,
+2008) or, if such annual meeting has not occurred prior the Termination Date, effective 12:01&nbsp;a.m.
+(EST)&nbsp;on the Termination Date.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Executive hereby resigns from employment with the Company and all the Company&#146;s
+affiliates (and resigns his position as Chief Executive Officer of the Company) effective 12:01
+a.m. (EST)&nbsp;on the Termination Date.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Executive will execute such additional written confirmations of the resignations set
+out in Sections&nbsp;1.2 and 1.3 as shall be reasonably requested by the Company.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company will reimburse the Executive for any life insurance and disability insurance
+premiums (pro rata through the Termination Date) and any reasonable business expenses as provided
+under Sections&nbsp;2.6 and 3 of the Employment Agreement, within 30&nbsp;days of submission of proper
+invoices.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As
+soon as administratively practicable following the Termination Date, but in any event no
+later than 30&nbsp;days following the Termination Date, the Executive will vacate the Company-provided
+apartment currently used by him and return his Company-provided automobile.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Following the Termination Date, the Company, through its carrier, will provide the
+Executive with information and notice of his rights to elect to continue Executive&#146;s group health
+care coverage under the Company&#146;s health and welfare benefit plans, at his own expense, pursuant to
+the applicable provisions of the Consolidated Omnibus Budget Reconciliation Act of 1985.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the period beginning on the Termination Date and ending on January&nbsp;31, 2009, the
+Executive agrees that, during normal business hours, he will remain available via telephone and,
+with reasonable advance notice, for limited in-person meetings, to assist in an orderly transition
+of his duties to other employees of the Company. The Executive further agrees that during the
+two-year period following the Termination Date, he will cooperate with the Company, its affiliates
+and their counsel with respect to the Company&#146;s defense of any litigation, investigations, or
+governmental proceedings that relates in any way to the Executive&#146;s period of service with the
+Company or its affiliates. The Company will promptly reimburse the Executive for all reasonable
+and documented expenses incurred in connection with providing his cooperation under this Section
+1.8.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-2-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Consideration; Acknowledgements</U>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Executive will be entitled to receive a special cash bonus from the Company in
+respect of the Company&#146;s 2008 fiscal year of up to US$ 219,113, based on the Company&#146;s and the
+Executive&#146;s performance for such fiscal year under the Company&#146;s 2008 Executive Bonus Plan
+(assuming the Executive achieved the highest possible rating under such plan during such period and
+assuming the same level of financial goal achievement as applies to other executives under the 2008
+Executive Bonus Plan). Such bonus payable under this Section&nbsp;2.1 will be paid on April&nbsp;1, 2009 and
+will be subject to withholding by the Company for all applicable taxes.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Executive acknowledges that, other than the Options, he does not hold any options to
+acquire capital stock of the Company or its affiliates.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Options are presently vested and exercisable with respect to 70% of the shares
+subject thereto (351,261 shares and 1,599,795 shares, respectively), including those portions of
+the Options described in Section&nbsp;5(a)(iii) of each Option Agreement. The Executive acknowledges
+that the post-termination exercise of the portions of the Options discussed in this paragraph
+continue to be governed by Section&nbsp;7 of the Company&#146;s 2007 Equity Incentive Plan (the &#147;<B>Plan</B>&#148;).
+Therefore, assuming the cessation of his employment occurs at the time and in the manner described
+above in <U>Section&nbsp;1</U>, those portions of the Options discussed in this paragraph will expire
+on the 90<SUP style="font-size: 85%; vertical-align: text-top">th</SUP> day following the Termination Date, to the extent not exercised on or prior
+to that date.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company agrees that the Options will become vested with respect to an additional 7.5%
+of the shares subject thereto (37,635&nbsp;shares and 171,407 shares, respectively) on the Effective
+Date. However, in compliance with Treas. Reg. &#167; 1.409A-3(i)(2), the portions of the Options
+discussed in this paragraph will be exercisable only during the period beginning six months after
+the Termination Date and ending March&nbsp;15, 2009 and, to the extent not exercised during that period,
+will then expire. The preceding sentence amends and supersedes Section 3(c) of each 409A Election.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The portions of the Options not discussed in the preceding two paragraphs (with respect
+to 112,906 shares and 514,220 shares, respectively) are hereby terminated.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Executive hereby acknowledges and agrees that the payment and rights described in
+<U>Sections&nbsp;2.1 and 2.4</U> above are contingent on (i)&nbsp;his execution and delivery of, and
+compliance with, this Release, (ii)&nbsp;his execution and delivery of a release agreement substantially
+in the form attached hereto as <U>Exhibit&nbsp;A</U> (the &#147;<B>Second Release</B>&#148;) within 21&nbsp;days following
+the Termination Date, and (iii)&nbsp;his compliance in all material respects with that Second Release
+and the restrictive covenants contained in Section&nbsp;6 of the Employment Agreement (the &#147;<B>Restrictive
+Covenants</B>&#148;). For avoidance of doubt, if Executive revokes this Release or the Second Release, or
+breaches any of the Restrictive Covenants in any material respects, he will have no right (x)&nbsp;to
+receive the payment described above in <U>Section&nbsp;2.1</U>, or (y)&nbsp;to exercise those portions of
+the Options described above in <U>Section&nbsp;2.4</U>, and those portions of the Options will instead
+expire immediately.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-3-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Executive acknowledges that except as otherwise specifically provided herein: (i)&nbsp;he
+has no further entitlement under the Employment Agreement (including, without limitation, Sections
+2 and 5 of the Employment Agreement), other than rights to indemnification under Section&nbsp;4 of the
+Employment Agreement, (ii)&nbsp;the cessation of his employment by the Company and its affiliates will
+not entitle him to any severance pay or benefits under the Employment Agreement or under any other
+severance or similar arrangement maintained by the Company or any of its affiliates, and (iii)
+neither the Company nor any of its affiliates have or will have any liability or obligation to him.
+The Executive further acknowledges that, in the absence of his execution of this Release and the
+Second Release, the payment and rights specified above in <U>Sections&nbsp;2.1 and 2.4</U> would not
+otherwise be due to him.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company hereby consents to the termination of the Non-Discretionary Option Exercise
+and Sale Plan adopted by him on December&nbsp;24, 2007 (the &#147;<B>10b5-1 Plan</B>&#148;) effective as of 12:01&nbsp;a.m. on
+June&nbsp;18, 2008 and, following such termination, to the sale by the Executive of any shares of
+Company common stock obtained through the exercise of stock options, subject to compliance during
+the Transition Period with the Company&#146;s Policy Statement on Dealing with Company Information,
+Including Inside Information and Securities Insider Trading for Directors, Executive Officers,
+Senior Managers and Finance Department (the &#147;<B>Policy</B>&#148;), which consent shall be deemed to satisfy the
+pre-clearance procedures of the Policy. The Executive agrees not to sell any shares of the
+Company&#146;s common stock prior to 12:01&nbsp;a.m. on June&nbsp;18, 2008 except pursuant to the 10b5-1 Plan.
+The Company hereby acknowledges and agrees that the Policy shall not apply to the Executive after
+the Termination Date (it being understood by the Executive that notwithstanding the foregoing the
+Executive will remain subject to applicable United States and Canadian securities laws that, among
+other things, prohibit trading on material non-public information, whether acquired prior to or
+following the Termination Date).
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Release and Covenant Not to Sue</U>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Executive hereby fully and forever releases and discharges the Company, the
+Subsidiary, and all of their respective predecessors and successors, assigns, stockholders,
+affiliates, officers, directors, trustees, employees, agents and attorneys, past and present (each
+such person or entity is referred to as a &#147;<U><B>Released Person</B></U>&#148;) from any and all claims,
+demands, liens, agreements, contracts, covenants, actions, suits, causes of action, obligations,
+controversies, debts, costs, expenses, damages, judgments, orders and liabilities, of whatever kind
+or nature, direct or indirect, in law, equity or otherwise, whether known or unknown, arising
+through the date of this Release, out of the Executive&#146;s employment by the Company or its
+affiliates or the cessation thereof, including, but not limited to, any claims for relief or causes
+of action under the Age Discrimination in Employment Act, 29 U.S.C. &#167; 621 <I>et seq</I>., or any other
+federal, state or local statute, ordinance or regulation regarding discrimination in employment and
+any claims, demands or actions based upon alleged wrongful or retaliatory discharge or breach of
+contract under any state or federal law or any claim for damages, notice, payment in lieu of
+notice, loss of benefits including long term and short term disability, pension issues, bonus,
+profit sharing, stock distribution, stock purchase rights, overtime pay, vacation pay or any claims
+under the British Columbia <I>Employment Standards Act </I>or <I>Human Rights Code</I>.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-4-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Executive expressly represents that he has not filed a lawsuit or initiated any other
+administrative proceeding against a Released Person and that he has not assigned any claim against
+a Released Person. The Executive further promises not to initiate a lawsuit or to bring any other
+claim against the other arising out of or in any way related to the Executive&#146;s employment by the
+Company or its affiliates or the cessation of that employment. This Release will not prevent the
+Executive from filing a charge with the Equal Employment Opportunity Commission (or similar state
+agency) or participating in any investigation conducted by the Equal Employment Opportunity
+Commission (or similar state agency); <I>provided, however</I>, that any claims by the Executive for
+personal relief in connection with such a charge or investigation (such as reinstatement or
+monetary damages) would be barred.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The foregoing will not be deemed to release the Company or the Subsidiary from (i)&nbsp;claims
+solely to enforce this Release, or (ii)&nbsp;claims for indemnification under the Company&#146;s Certificate
+of Incorporation, as amended to date, or under applicable law including, without limitation,
+section 2802 of the California Labor Code.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company and the Subsidiary hereby fully and forever release and discharge the
+Executive from any and all claims, demands, liens, agreements, contracts, covenants, actions,
+suits, causes of action, obligations, controversies, debts, costs, expenses, damages, judgments,
+orders and liabilities, of whatever kind or nature, direct or indirect, in law, equity or
+otherwise, whether known or unknown, arising through the date of this Release, out of the
+Executive&#146;s employment by the Company or its affiliates.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company and the Subsidiary each expressly represents that it has not filed a lawsuit
+or initiated any other administrative proceeding against the Executive and that it has not assigned
+any claim against the Executive. The Company and the Subsidiary each further promises not to
+initiate a lawsuit or to bring any other claim against the Executive arising out of or in any way
+related to the Executive&#146;s employment by the Company or its affiliates or the cessation of that
+employment.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The foregoing will not be deemed to release the Executive from claims solely to enforce
+this Release.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Restrictive Covenants</U>.&nbsp;&nbsp;&nbsp;The Executive acknowledges that the Restrictive Covenants
+will survive the cessation of his employment. The Executive affirms that those Restrictive
+Covenants are reasonable and necessary to protect the legitimate interests of the Company, the
+Subsidiary and their affiliates, that he received adequate consideration in exchange for agreeing
+to those restrictions and that he will abide by those restrictions. Notwithstanding Section&nbsp;7.7 of
+this Release, the provisions of Section&nbsp;7.4 of the Employment Agreement will continue to apply to
+any matter relating to the Restrictive Covenants.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Non-Disparagement</U>.&nbsp;&nbsp;&nbsp;The Executive will not disparage any Released Person or
+otherwise take any action that could reasonably be expected to adversely affect the personal or
+professional reputation of any Released Person. The Company and Subsidiary will not disparage the
+Executive or otherwise take any action that could reasonably be expected to adversely affect the
+personal or professional reputation of the Executive.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-5-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U><B>Rescission Right</B></U><B>.&nbsp;&nbsp;&nbsp;The Executive expressly acknowledges and recites that (a)&nbsp;he has
+read and understands the terms of this Release in its entirety, (b)&nbsp;he has entered into this
+Release knowingly and voluntarily, without any duress or coercion; (c)&nbsp;he has been advised orally
+and is hereby advised in writing to consult with an attorney with respect to this Release before
+signing it; (d)&nbsp;he was provided twenty-one (21)&nbsp;calendar days after receipt of the Release to
+consider its terms before signing it; and (e)&nbsp;he is provided seven (7)&nbsp;calendar days from the date
+of signing to terminate and revoke this Release, in which case this Release shall be unenforceable,
+null and void. The Executive may revoke this Release during those seven (7)&nbsp;days by providing
+written notice of revocation to:</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt; margin-left: 6%"><B>lululemon athletica inc.<BR>
+2285 Clark Drive<BR>
+Vancouver, British Columbia<BR>
+Fax: (604)&nbsp;874-6124<BR>
+Attention: CFO</B>
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Miscellaneous</U>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>No Admission of Liability</U>.&nbsp;&nbsp;&nbsp;This Release is not to be construed as an admission
+of any violation of any federal, state or local statute, ordinance or regulation or of any duty
+owed by the Company or the Subsidiary to the Executive or of any duty owed by the Executive to the
+Company or the Subsidiary. There have been no such violations, and each of the parties
+specifically denies any such violations.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>No Reinstatement</U>.&nbsp;&nbsp;&nbsp;The Executive agrees that he will not apply for reinstatement
+with the Company or its affiliates, nor seek in any way to be reinstated, re-employed or re-hired
+by the Company or its affiliates after the Termination Date.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Successors and Assigns</U>.&nbsp;&nbsp;&nbsp;This Release shall inure to the benefit of and be
+binding upon the Company, the Subsidiary, and the Executive and their respective successors,
+permitted assigns, executors, administrators and heirs. The Executive may not make any assignment
+of this Release or any interest herein, by operation of law or otherwise. The Company and the
+Subsidiary may assign this Release to any successor to all or substantially all of their respective
+assets or business by means of liquidation, dissolution, merger, consolidation, transfer of assets,
+or otherwise.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Severability</U>.&nbsp;&nbsp;&nbsp;Whenever possible, each provision of this Release will be
+interpreted in such manner as to be effective and valid under applicable law. However, if any
+provision of this Release is held to be invalid, illegal or unenforceable in any respect, such
+invalidity, illegality or unenforceability will not affect any other provision, and this Release
+will be reformed, construed and enforced as though the invalid, illegal or unenforceable provision
+had never been herein contained.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Entire Agreement; Amendments</U>.&nbsp;&nbsp;&nbsp;Except as otherwise provided herein, this Release
+contains the entire agreement and understanding of the parties hereto relating to the subject
+matter hereof, and merges and supersedes all prior and contemporaneous discussions, agreements and
+understandings of every nature relating to the subject matter hereof. This
+Release may not be changed or modified, except by an agreement in writing signed by each of
+the parties hereto.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-6-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Waivers</U>.&nbsp;&nbsp;&nbsp;The waiver by either party of any right hereunder or of any breach by
+the other party will not be deemed a waiver of any other right hereunder or of any other breach by
+the other party. No waiver will be deemed to have occurred unless set forth in a writing. No
+waiver will constitute a continuing waiver unless specifically stated, and any waiver will operate
+only as to the specific term or condition waived.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Governing Law and Enforcement</U>.&nbsp;&nbsp;&nbsp;This Release shall be governed by and construed
+in accordance with the laws of the State of Delaware without regard to the principles of conflicts
+of laws.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Counterparts and Facsimiles</U>.&nbsp;&nbsp;&nbsp;This Release may be executed, including execution
+by facsimile signature, in multiple counterparts, each of which shall be deemed an original, and
+all of which together shall be deemed to be one and the same instrument.
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">&#091;<I>signature page follows</I>&#093;
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-7-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN WITNESS WHEREOF, the Company has caused this Release to be executed by its duly authorized
+officer, and the Executive has executed this Release, in each case on the date first above written.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;<BR><B>lululemon athletica inc.<BR></B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+
+<TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/&nbsp;&nbsp;John E. Currie&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">John E. Currie, Executive Vice President and&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;<BR>&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left"><B>lululemon athletica canada inc.<BR></B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/&nbsp;&nbsp;John E. Currie&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">John E. Currie, Executive Vice President and&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;<BR>&nbsp;<BR>&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left"><B>ROBERT MEERS<BR></B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000" align="left">/s/&nbsp;&nbsp;Robert Meers&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->-8-<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+
+</TABLE>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>EXHIBIT A</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>SECOND RELEASE</B>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THIS SECOND RELEASE is for and in consideration of the rights to be provided to Robert Meers
+(the &#147;<B>Executive</B>&#148;) in connection with the Retirement, Transition and Release Agreement dated May&nbsp;6,
+2008 by and between lululemon athletica inc. (the &#147;<B>Company</B>&#148;), lululemon athletica canada inc. (the
+&#147;<B>Subsidiary</B>&#148;)and the Executive (the &#147;<B>First Release</B>&#148;), which rights are conditioned on the
+Executive&#146;s execution and delivery of this Second Release:
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Consideration</U>.&nbsp;&nbsp;&nbsp;The Executive acknowledges that: (i)&nbsp;the payment and rights set
+forth in <U>Sections&nbsp;2.1 and 2.4</U> of the First Release constitute full satisfaction of all his
+rights under the First Release, (ii)&nbsp;except as otherwise provided specifically in the First
+Release, he has no entitlement under the Employment Agreement (as defined in the First Release) or
+any severance or similar arrangement maintained by the Company or the Subsidiary, and (iii)&nbsp;except
+as otherwise provided specifically in the First Release, neither the Company nor any of its
+affiliates has nor will have any other liability or obligation to him. The Executive further
+acknowledges that, in the absence of his execution of this Second Release, the payment and rights
+described in <U>Sections&nbsp;2.1 and 2.4 </U>of the First Release would not otherwise be due to him.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Release and Covenant Not to Sue</U>.&nbsp;&nbsp;&nbsp;The Executive hereby fully and forever releases
+and discharges the Company, the Subsidiary and all of their respective predecessors and successors,
+assigns, stockholders, affiliates, officers, directors, trustees, employees, agents and attorneys,
+past and present (each such person or entity is referred to as a &#147;<B>Released Person</B>&#148;) from any and
+all claims, demands, liens, agreements, contracts, covenants, actions, suits, causes of action,
+obligations, controversies, debts, costs, expenses, damages, judgments, orders and liabilities, of
+whatever kind or nature, direct or indirect, in law, equity or otherwise, whether known or unknown,
+arising through the date of this Second Release, out of the Executive&#146;s employment by the Company
+or its affiliates, or the cessation thereof, including, but not limited to, any claims for relief
+or causes of action under the Age Discrimination in Employment Act, 29 U.S.C. &#167; 621 et seq. or any
+other federal, state or local statute, ordinance or regulation regarding discrimination in
+employment and any claims, demands or actions based upon alleged wrongful or retaliatory discharge
+or breach of contract under any state or federal law, or any claim for damages, notice, payment in
+lieu of notice, wrongful dismissal, severance pay, loss of benefits including long term and short
+term disability, pension issues, bonus, profit sharing, stock distribution, stock purchase rights,
+overtime pay, vacation pay or any claims under the British Columbia <I>Employment Standards Act </I>or
+<I>Human Rights Code</I>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Executive expressly represents that he has not filed a lawsuit or initiated any other
+administrative proceeding against a Released Person and that he has not assigned any claim against
+a Released Person. The Executive further promises not to initiate a lawsuit or to bring any other
+claim against the other arising out of or in any way related to the Executive&#146;s employment by the
+Company or its affiliates or the cessation of that employment. This Second Release will not
+prevent the Executive from filing a charge with the Equal Employment Opportunity Commission (or
+similar state agency) or participating in any investigation conducted by the Equal Employment
+Opportunity Commission (or similar state agency); <I>provided, however</I>, that any claims by the
+Executive for personal relief in connection
+with such a charge or investigation (such as reinstatement or monetary damages) would be
+barred.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->A-1<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The foregoing will not be deemed to release the Company or the Subsidiary from (i)&nbsp;claims
+solely to enforce the First Release or (ii)&nbsp;claims for indemnification under the Company&#146;s
+Certificate of Incorporation, as amended to date, or under applicable law including, without
+limitation, section 2802 of the California Labor Code.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U><B>Rescission Right</B></U><B>.</B>&nbsp;&nbsp;&nbsp;<B>The Executive expressly acknowledges and recites that (a)&nbsp;he has
+read and understands the terms of this Second Release in its entirety, (b)&nbsp;he has entered into this
+Second Release knowingly and voluntarily, without any duress or coercion; (c)&nbsp;he has been advised
+orally and is hereby advised in writing to consult with an attorney with respect to this Second
+Release before signing it; (d)&nbsp;he was provided twenty-one (21)&nbsp;calendar days after receipt of the
+Second Release to consider its terms before signing it; and (e)&nbsp;he is provided seven (7)&nbsp;calendar
+days from the date of signing to terminate and revoke this Second Release, in which case this
+Second Release shall be unenforceable, null and void. The Executive may revoke this Second Release
+during those seven (7)&nbsp;days by providing written notice of revocation to:</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt; margin-left: 6%"><B>lululemon athletica inc.<BR>
+2285 Clark Drive<BR>
+Vancouver, British Columbia<BR>
+Fax: (604)&nbsp;874-6124<BR>
+Attention: CFO</B>
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Miscellaneous</U>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>No Admission of Liability</U>.&nbsp;&nbsp;&nbsp;This Second Release is not to be construed as an
+admission of any violation of any provincial or federal statute, ordinance or regulation or of any
+duty owed by the Company or the Subsidiary to the Executive or of any duty owed by the Executive to
+the Company or the Subsidiary. There have been no such violations, and each of the parties
+specifically denies any such violations.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>&#091;Intentionally Omitted.&#093;</U>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Successors and Assigns</U>.&nbsp;&nbsp;&nbsp;This Second Release shall inure to the benefit of the
+Company and the Subsidiary and any successor to all or substantially all of their respective assets
+or business by means of liquidation, dissolution, merger, consolidation, transfer of assets, or
+otherwise.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Severability</U>.&nbsp;&nbsp;&nbsp;Whenever possible, each provision of this Second Release will be
+interpreted in such manner as to be effective and valid under applicable law. However, if any
+provision of this Second Release is held to be invalid, illegal or unenforceable in any respect,
+such invalidity, illegality or unenforceability will not affect any other provision, and this
+Second Release will be reformed, construed and enforced as though the invalid, illegal or
+unenforceable provision had never been herein contained.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->A-2<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Governing Law</U>.&nbsp;&nbsp;&nbsp;This Release shall be governed by, and enforced in accordance
+with, the laws of the State of Delaware, without regard to the application of the principles of
+conflicts of laws.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN WITNESS WHEREOF and intending to be legally bound, the Executive has executed this Second
+Release on the <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> day of <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>, 2008.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 36pt; margin-left: 50%"><B>ROBERT MEERS</B>
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 36pt; margin-left: 50%"><DIV style="font-size: 3pt; margin-top: 36pt; width: 86%; border-top: 1px solid #000000">&nbsp;</DIV>
+
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->A-3<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -3,3 +3,7 @@ venv
 /venv
 ./venv
 .venv
+./raw_data/
+./raw_data
+./nlp/raw_data/
+.txt

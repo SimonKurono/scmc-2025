@@ -1,0 +1,157 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QIDki6i7F8AFUvKdXbTMpUEXIonxlTQQg9qy43lcO6RiQwxNsnpIVSsbmPoX4T44
+ ObnhI0uW0POg0mlMWuSoHw==
+
+<SEC-DOCUMENT>0000320187-07-000242.txt : 20071221
+<SEC-HEADER>0000320187-07-000242.hdr.sgml : 20071221
+<ACCEPTANCE-DATETIME>20071221141903
+ACCESSION NUMBER:		0000320187-07-000242
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20071221
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+FILED AS OF DATE:		20071221
+DATE AS OF CHANGE:		20071221
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NIKE INC
+		CENTRAL INDEX KEY:			0000320187
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		IRS NUMBER:				930584541
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10635
+		FILM NUMBER:		071322393
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+		BUSINESS PHONE:		5036713173
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f8k071221.txt
+<DESCRIPTION>FORM 8-K UMBRO/SPORTS DIRECT
+<TEXT>
+                               UNITED STATES
+                    SECURITIES AND EXCHANGE COMMISSION
+                          Washington, DC 20549
+
+
+                                 FORM 8-K
+
+
+                              CURRENT REPORT
+ Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+   Date of Report (Date of earliest event reported): December 21, 2007.
+
+
+                                 NIKE, INC.
+
+          (Exact Name of Registrant as Specified in Charter)
+
+
+       Oregon                  1-10635                 93-0584541
+    ____________             ____________             ____________
+
+   (State of                  (Commission            (I.R.S.Employer
+   Incorporation)            File Number)          Identification No.)
+
+                             One Bowerman Drive
+                         Beaverton, Oregon 97005-6453
+
+                   (Address of Principal Executive Offices)
+                          __________________________
+
+                               (503) 671-6453
+
+             (Registrant's telephone number, including area code)
+
+                                NO CHANGE
+                          ______________________
+        (Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions:
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act
+    (17 CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under Exchange Act (17
+    CFR 240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+    Exchange Act (17CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+    Exchange Act (17 CFR 240.13e-4(c))
+
+                          ___________________________
+
+Item 1.01  Entry into a Material Definitive Agreement.
+
+     On October 25, 2007 NIKE, Inc. ("NIKE") announced on Form 8-K its
+offer (the "Umbro Offer") to acquire all of the outstanding share capital
+of Umbro Plc ("Umbro") by NIKE?s wholly-owned subsidiary, NIKE Vapor Ltd.
+("NIKE Vapor").  On December 21, 2007, NIKE Vapor purchased 19.9% of the
+outstanding equity shares of Umbro from Sports Direct International plc
+("Sports Direct") in a privately negotiated transaction.  NIKE Vapor paid
+Sports Direct 1.9306 British pounds sterling for each of the 29,069,977
+shares, for a total purchase price of (pound sterling)56.4 million
+(approximately US$112 million).  The purchase price per share is the
+price offered to all shareholders in the Umbro Offer.
+
+     Sports Direct continues to hold 10% of the outstanding equity shares
+of Umbro.  Sports Direct also executed and delivered to NIKE Vapor an
+irrevocable undertaking to vote those shares in favor of the Umbro Offer,
+or to accept the offer in the event NIKE Vapor elects to implement the
+Umbro Offer by way of a takeover offer.  The Umbro Offer is subject to
+shareholder approval, a vote on which is scheduled for January 31, 2008.
+
+
+
+                             SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                          NIKE, Inc.
+                                         (Registrant)
+
+Date:  December 21, 2007
+                                         /s/ Donald W. Blair
+                                         __________________________
+                                         By: Donald W. Blair
+                                             Chief Financial Officer
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

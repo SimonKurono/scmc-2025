@@ -1,0 +1,849 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PIr4oJItxOmoJHQyIsJVpOkBSc8Xl9ab/pTIF0BWfwWUXGVKhvdLWMAZfE951W11
+ 5LbX80bSfTLy/ERvZo66/Q==
+
+<SEC-DOCUMENT>0000950123-11-014297.txt : 20110215
+<SEC-HEADER>0000950123-11-014297.hdr.sgml : 20110215
+<ACCEPTANCE-DATETIME>20110215165856
+ACCESSION NUMBER:		0000950123-11-014297
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20110215
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20110215
+DATE AS OF CHANGE:		20110215
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			lululemon athletica inc.
+		CENTRAL INDEX KEY:			0001397187
+		STANDARD INDUSTRIAL CLASSIFICATION:	APPAREL & OTHER FINISHED PRODS OF FABRICS & SIMILAR MATERIAL [2300]
+		IRS NUMBER:				203842867
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0201
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33608
+		FILM NUMBER:		11614911
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 - 1818 CORNWALL AVENUE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6J 1C7
+		BUSINESS PHONE:		604-732-6124
+
+	MAIL ADDRESS:	
+		STREET 1:		400 - 1818 CORNWALL AVENUE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6J 1C7
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lululemon Corp.
+		DATE OF NAME CHANGE:	20070420
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>c12683e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+
+
+<DIV style="font-size: 10pt">
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+<FONT style="font-size: 12pt">Washington, D.C. 20549
+</FONT></B>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+<P align="center" style="font-size: 12pt"><B>CURRENT REPORT<BR>
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</B>
+
+<P align="center" style="font-size: 10pt"><B>Date of Report (Date of
+earliest event reported): February 15, 2011</B>
+
+<P align="center">
+
+<P align="center" style="font-size: 24pt"><B>lululemon athletica inc.<BR></B>
+<FONT style="font-size: 10pt">(Exact name of registrant as specified in its charter)
+</FONT>
+
+<TABLE border="0" width="100%" cellspacing="0" cellpadding="0" style="font-size: 10pt; text-align: center">
+<TR>
+    <TD width="32%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="33%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="32%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD style="border-bottom: 1px solid #000000"><B>Delaware</B></TD>
+    <TD>&nbsp;</TD>
+    <TD style="border-bottom: 1px solid #000000"><B>001-33608</B></TD>
+    <TD>&nbsp;</TD>
+    <TD style="border-bottom: 1px solid #000000"><B>20-3842867</B></TD>
+</TR>
+<TR valign="top">
+    <TD>(State or other Jurisdiction of Incorporation)</TD>
+    <TD>&nbsp;</TD>
+    <TD>(Commission File Number)</TD>
+    <TD>&nbsp;</TD>
+    <TD>(IRS Employer Identification No.)</TD>
+</TR>
+</TABLE>
+
+<TABLE border="0" width="100%" cellspacing="0" cellpadding="0" style="font-size: 10pt; text-align: center">
+<TR>
+    <TD width="49%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="49%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD style="border-bottom: 1px solid #000000"><B>400-1818 Cornwall Avenue<BR>Vancouver, British Columbia<BR>Canada,<BR></B></TD>
+    <TD>&nbsp;</TD>
+    <TD style="border-bottom: 1px solid #000000"><B>V6J 1C7</B></TD>
+</TR>
+<TR valign="top">
+    <TD>(Address of Principal Executive Offices)</TD>
+    <TD>&nbsp;</TD>
+    <TD>(Zip Code)</TD>
+</TR>
+</TABLE>
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code: <B>(604) 732-6124</B>
+
+
+<TABLE border="0" width="30%" cellspacing="0" cellpadding="0" style="font-size: 10pt; text-align: center">
+<TR>
+    <TD width="100%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD nowrap style="border-bottom: 1px solid #000000"><B>&nbsp;</B></TD>
+</TR>
+<TR>
+    <TD nowrap>(Former name or former address if changed since last report.)</TD>
+</TR>
+</TABLE>
+
+<P align="left" style="font-size: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:
+
+<P align="left" style="font-size: 10pt">
+<FONT face="Wingdings">&#111;</FONT> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)<BR><BR>
+<FONT face="Wingdings">&#111;</FONT> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)<BR><BR>
+<FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))<BR><BR>
+<FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))<BR>
+
+
+<P>
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt; display: none">1
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<P align="justify" style="font-size: 10pt"><B>Item&nbsp;8.01. Other Events.</B>
+
+
+<P align="justify" style="font-size: 10pt; text-indent: 4%">On February&nbsp;15, 2011, we announced that, through our wholly-owned subsidiary, lululemon athletica canada inc., we
+entered into a Purchase and Sale Agreement with 2725312 Canada Inc., effective as of December&nbsp;22, 2010, pursuant to
+which we will purchase real property located at 1818 Cornwall Avenue in Vancouver, British Columbia, and a 130,000
+square foot office building located on that site for an aggregate purchase price of $65,000,000 CAD. We intend to
+continue using the property as our corporate headquarters. We currently expect to close the purchase of the property
+on or around March&nbsp;1, 2011.
+
+
+<P align="justify" style="font-size: 10pt">A copy of the press release we issued on February&nbsp;15, 2011 is attached to this current report as Exhibit&nbsp;99.1.
+
+
+<P align="justify" style="font-size: 10pt"><B>Item&nbsp;9.01. Financial Statements and Exhibits.</B>
+
+
+<P align="justify" style="font-size: 10pt">(d)&nbsp;Exhibits.
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit No.</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000">Description</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press release of lululemon athletica inc. issued on February&nbsp;15, 2011.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt; display: none">2
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+
+
+<P align="center" style="font-size: 10pt">SIGNATURES
+
+
+
+<P align="justify" style="font-size: 10pt; text-indent: 4%">Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top" align="left">lululemon athletica inc.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Dated: February&nbsp;15, 2011
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ <FONT style="font-variant: SMALL-CAPS">John E. Currie</FONT></TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">John E. Currie<BR>
+Chief Financial Officer</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt; display: none">3
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+
+
+
+
+<P align="center" style="font-size: 10pt">EXHIBIT INDEX
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit No.</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" style="border-bottom: 1px solid #000000">Description</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press release of lululemon athletica inc. issued on February&nbsp;15, 2011.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt; display: none">4
+
+
+
+
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>c12683exv99w1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Exhibit 99.1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+
+<DIV style="font-family: Arial,sans-serif; margin-left: .25in; width: 7.50in">
+
+
+<P align="right" style="font-size: 10pt"><B>Exhibit&nbsp;99.1</B>
+
+<P align="center" style="font-size: 10pt"><IMG src="c12683p1268301.jpg" alt="(LULULEMON LOGO)">
+
+<P align="justify" style="font-size: 10pt"><B>FOR IMMEDIATE RELEASE</B>
+
+
+<P align="center" style="font-size: 10pt"><B>Returning to Our Roots: lululemon athletica Comes Home to Kits</B>
+
+
+
+<P align="justify" style="font-size: 10pt"><B><I>Vancouver, Canada, February&nbsp;15, 2011 </I></B><I>&#150; </I>lululemon athletica, inc. &#091;NASDAQ: LULU; TSX: LLL&#093;, the yoga-inspired athletic
+apparel company, has come full circle and is settling in Kitsilano, the Vancouver community where it all started. It
+was announced today that the company expects to complete the purchase of its Global Store Support Centre, located at
+1818 Cornwall Avenue, on or around March&nbsp;1, 2011, subject to the satisfaction of certain closing conditions.
+
+
+<P align="justify" style="font-size: 10pt">The building is 130,000 square feet; approximately 70,000 square feet have been occupied by more than 300 lululemon
+athletica employees since late Fall 2010.
+
+
+<P align="justify" style="font-size: 10pt">&#147;Kits has always been our home and we are thrilled that it once again will be,&#148; said Christine Day, lululemon athletica
+CEO. &#147;To work in one of the most beautiful communities in Vancouver &#151; within walking distance to amazing yoga studios,
+fitness facilities, the Seawall and beautiful beaches &#151; is what inspires us every day.&#148;
+
+
+<P align="justify" style="font-size: 10pt">1818 Cornwall &#151; lululemon&#146;s corporate headquarters &#151; is located at the base of the Burrard Street Bridge, overlooking
+Kitsilano Beach and the North Shore mountains. The building originally operated as a bottling plant and was converted
+into an office building in the 1980s.
+
+
+<P align="justify" style="font-size: 10pt">&#147;Man, it feels good to be back! This is where it all started for us with our first store on West 4<SUP style="font-size: 85%; vertical-align: text-top">th</sup>,&#148; said
+Chip Wilson, lululemon chairman and founder. &#147;This is where we belong and this is where we plan to stay.&#148;
+
+
+<P align="center" style="font-size: 10pt">-30-
+
+
+
+<P align="justify" style="font-size: 10pt"><B>About lululemon athletica</B>
+<BR>
+lululemon athletica (NASDAQ:LULU; TSX:LLL) is a yoga-inspired athletic apparel company that creates components for
+people to live longer, healthier and more fun lives. By producing products that help keep people active and stress
+free, lululemon believes that the world will be a better place. Setting the bar in technical fabrics and functional
+designs, lululemon works with yogis and athletes in local communities for continuous research and product feedback. For
+more information, visit <U>www.lululemon.com</U>.
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt; display: none">1
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: Arial,sans-serif; margin-left: .25in; width: 7.50in">
+
+<P align="center" style="font-size: 10pt"><IMG src="c12683p1268301.jpg" alt="(LULULEMON LOGO)">
+
+<P align="justify" style="font-size: 10pt"><B>Forward-Looking Statements</B>
+<BR>
+This press release contains &#147;forward-looking statements&#148; within the meaning of Section&nbsp;27A of the Securities Act of
+1933 and Section&nbsp;21E of the Securities Exchange Act of 1934 that involve risks, uncertainties and assumptions, such as
+statements regarding our intent to purchase certain real property and our expectations as to where our corporate
+headquarters will be located in the future. In many cases, you can identify forward-looking statements by terms such as
+&#147;may,&#148; &#147;will,&#148; &#147;should,&#148; &#147;expects,&#148; &#147;plans,&#148; &#147;anticipates,&#148; &#147;outlook,&#148; &#147;believes,&#148; &#147;intends,&#148; &#147;estimates,&#148; &#147;predicts,&#148;
+&#147;potential&#148; or the negative of these terms or other comparable terminology. These forward-looking statements are based
+on management&#146;s current expectations but they involve a number of risks and uncertainties. Actual results and the
+timing of events could differ materially from those anticipated in the forward-looking statements as a result of risks
+and uncertainties, which include, without limitation: the possibility that we may not be able to manage operations at
+our current size or manage growth effectively; risks that consumer spending may continue to decline and that U.S. and
+global macroeconomic conditions may worsen; the possibility that levels of comparable-store sales or average sales per
+square foot will decline; the possibility that we may not be able to successfully expand in the United States and
+other new markets; increased competition causing us to reduce the prices of our products or to increase significantly
+our marketing efforts in order to avoid losing market share; the possibility that we may not be able to continually
+innovate and provide our consumers with improved products; the possibility that our suppliers or manufacturers may not
+produce or deliver our products in a timely or cost-effective manner; and other risk factors detailed in our Annual
+Report on Form 10-K for the fiscal year ended January&nbsp;31, 2010 filed with the Securities and Exchange Commission and
+available at <U>www.sec.gov</U>. You are urged to consider these factors carefully in evaluating the forward-looking
+statements contained herein and are cautioned not to place undue reliance on such forward-looking statements, which are
+qualified in their entirety by these cautionary statements. The forward-looking statements made herein speak only as of
+the date of this press release and the company undertakes no obligation to publicly update such forward-looking
+statements to reflect subsequent events or circumstances.
+
+
+<P align="justify" style="font-size: 10pt"><B>Contacts:</B>
+
+
+<P align="justify" style="font-size: 10pt"><B>Investor Contact:</B>
+<BR>
+Joseph Teklits/Jean Fontana
+<BR>
+ICR, Inc
+<BR>
+203-682-8200
+
+
+<P align="justify" style="font-size: 10pt"><B>Media Contact:</B>
+<BR>
+Alecia Pulman
+<BR>
+ICR, Inc
+<BR>
+203-682-8224
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt; display: none">2
+
+
+
+
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>c12683p1268301.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 c12683p1268301.jpg
+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
+$0!__V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,449 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HuPuz0v8siEw3IGuP0GASM2l+hoE7pdGuQJvHY/FvT0WhDy18UeMfuYJGD+dkfzm
+ R9GmxIxVKyU1+403WQM4gQ==
+
+<SEC-DOCUMENT>0000950123-10-038946.txt : 20100427
+<SEC-HEADER>0000950123-10-038946.hdr.sgml : 20100427
+<ACCEPTANCE-DATETIME>20100427173025
+ACCESSION NUMBER:		0000950123-10-038946
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100427
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+FILED AS OF DATE:		20100427
+DATE AS OF CHANGE:		20100427
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			lululemon athletica inc.
+		CENTRAL INDEX KEY:			0001397187
+		STANDARD INDUSTRIAL CLASSIFICATION:	APPAREL & OTHER FINISHED PRODS OF FABRICS & SIMILAR MATERIAL [2300]
+		IRS NUMBER:				203842867
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0201
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33608
+		FILM NUMBER:		10774465
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+		BUSINESS PHONE:		604-732-6124
+
+	MAIL ADDRESS:	
+		STREET 1:		2285 CLARK DRIVE
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V5N 3G9
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lululemon Corp.
+		DATE OF NAME CHANGE:	20070420
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>o61571e8vk.htm
+<DESCRIPTION>8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B><DIV align="center"><DIV style="FONT-size: 3pt; margin-top: 16pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 8-K</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B><DIV align="center"><DIV style="FONT-size: 3pt; margin-top: 16pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934</B>
+</DIV>
+<!-- xbrl,dc -->
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>April&nbsp;21,
+2010 <BR>
+Date of Report (Date of earliest event reported) </B></DIV>
+<!-- /xbrl,dc -->
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>lululemon athletica inc.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>001-33608</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>20-3842867</B></TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction of
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>2285 Clark Drive</B><BR>
+<B>Vancouver, British Columbia<BR>
+Canada, V5N 3G9</B><BR>
+(Address of principal executive offices, including Zip Code)</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Registrant&#146;s telephone number, including area code: <B>(604)&nbsp;732-6124</B></DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><DIV align="center"><DIV style="FONT-size: 3pt; margin-top: 16pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy
+the filing obligation of the registrant under any of the following provisions:
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT style="font-family: Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT style="font-family: Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT style="font-family: Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><FONT style="font-family: Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- link1 "Item&nbsp;5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Item&nbsp;5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of
+Certain Officers; Compensatory Arrangements of Certain Officers.</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">(e)
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B><I>2010 Executive Bonus Plan</I></B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On April&nbsp;21, 2010, the Board of Directors (the &#147;Board&#148;) of lululemon athletica inc. (the
+&#147;Company&#148;) approved a 2010 Executive Bonus Plan (the &#147;Plan&#148;) and related financial performance
+goals applicable to the Company&#146;s senior management team in respect of the fiscal year beginning
+February&nbsp;1, 2010 (&#147;Fiscal 2010&#148;). The Plan is applicable to the positions of executive vice
+president and above, and to other senior officers of the Company as designated by the Management
+Development and Compensation Committee (the &#147;Compensation Committee&#148;) of the Board. Target bonuses
+for the Company&#146;s executive officers eligible to participate in the Plan are weighted so that 90%
+of the target bonus is based on financial performance goals and 10% is based on individual
+performance goals and other performance metrics. The maximum allowable bonus payout is 150% of the target bonus amount.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The financial performance goals for each of the executive officers eligible to participate in
+the Plan are based on four financial measures for Fiscal 2010: (i)&nbsp;operating income; (ii)&nbsp;revenue;
+(iiii)&nbsp;gross margin; and (iv)&nbsp;inventory turns (the &#147;Financial Measures&#148;). Individual performance
+goals are related to the Company&#146;s U.S. operating income, and vary depending on the
+responsibilities of the positions held by each Plan participant. The Fiscal 2010 target bonus
+amounts and weighting between the financial and individual performance goals for each executive
+officer are set forth in the table below.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="64%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Financial</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Individual</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Target Bonus (as a</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Performance</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Performance</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><B>Executive Officer</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>Percentage of Salary)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>Goals Weight</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>Goals Weight</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Chief Executive Officer</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">75</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">90</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">10</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Chief Innovation and Branding Officer</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">75</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">90</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">10</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Executive Vice Presidents</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">60</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">90</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">10</TD>
+    <TD nowrap>%</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following is an example of how a maximum allowable payout of 150% of the target amount
+could affect total bonus payouts for Fiscal 2010. <B><I>This example is included for illustrative
+purposes only and does not represent a forecast or target by the Company for Fiscal 2010 of the
+Financial Measures.</I></B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because each executive vice president participating in the Plan has a target bonus of 60% of
+base salary, and because 90% of that target bonus is allocated to achieving the financial
+performance goals and 10% of the target bonus is allocated to achieving the individual performance
+goals, the target bonus attributable to achievement of the financial performance goals is 54% of
+base salary (<I>i.e. </I>90% x 60% = 54%) and the target bonus attributable to achievement of the
+individual performance goals is 6% of base salary (<I>i.e.</I>, 10% x 60% = 6%). If the Financial Measures
+and individual performance were at a level permitting a maximum of the target bonus, an
+executive vice president participating in the Plan would be eligible
+to receive 88.2% of his or her
+base salary (81% for achieving the financial performance goals (150%
+x 54%) and 7.2% for achieving
+the individual performance goals (120% x 6%)).
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "SIGNATURES" -->
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">SIGNATURES
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the
+registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">lululemon athletica inc.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Dated: April 27, 2010&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000" align="left">/s/ <FONT style="FONT-variant: SMALL-CAPS">John E. Currie</FONT>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">John E. Currie&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
