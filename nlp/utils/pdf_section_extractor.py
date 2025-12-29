@@ -1,8 +1,8 @@
 """
 Local PDF section extractor tailored to Bloomberg-style research notes.
 
-It pulls thesis/growth/risk/valuation/earnings blocks using simple
-heading heuristics, then optionally chunks text for BERT-friendly input.
+Extracts thesis/growth/risk/valuation/earnings sections, chunks text with
+FinBERT tokenizer, and writes canonical-schema outputs (sections + chunks).
 """
 
 import argparse
@@ -14,40 +14,44 @@ from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple
 
 import pdfplumber
-
+from transformers import AutoTokenizer
 
 # Keywords to identify sections
 THESIS_KEYS = ["thesis:", "equity outlook", "focus idea", "bi focus"]
-RISK_KEYS = [
-    "risk",
-    "headwind",
-    "downside",
-    "tariff",
-    "drag",
-    "inventory",
-    "esg",
-]
-VALUATION_KEYS = [
-    "valuation",
-    "multiple",
-    "upside",
-    "downside",
-    "target price",
-    "discounted",
-]
+RISK_KEYS = ["risk", "headwind", "downside", "tariff", "drag", "inventory", "esg"]
+VALUATION_KEYS = ["valuation", "multiple", "upside", "downside", "target price", "discounted"]
 EARNINGS_KEYS = ["earnings outlook", "2q", "3q", "4q", "preview", "beat", "miss"]
-GROWTH_HINTS = [
-    "growth",
-    "expansion",
-    "digital",
-    "sales",
-    "white space",
-    "store",
-    "footprint",
-    "awareness",
+GROWTH_HINTS = ["growth", "expansion", "digital", "sales", "white space", "store", "footprint", "awareness"]
+
+BLOOMBERG_NOISE_PATTERNS = [
+    re.compile(r"^this document is being provided for the exclusive use", re.IGNORECASE),
+    re.compile(r"^bloomberg[®\s]", re.IGNORECASE),
+    re.compile(r"^source:\s*bloomberg intelligence", re.IGNORECASE),
+    re.compile(r"^bloomberg interactive calculator", re.IGNORECASE),
 ]
 
-MAX_SECTION_CHARS = 1500
+MAX_TOKENS = 450
+OVERLAP_TOKENS = 60
+
+tokenizer = AutoTokenizer.from_pretrained("ProsusAI/finbert")
+
+CANONICAL_FIELDS = [
+    "id",
+    "report_id",
+    "ticker",
+    "company",
+    "date",
+    "source",
+    "doc_type",
+    "item",
+    "section_type",
+    "section_heading",
+    "chunk_index",
+    "page_start",
+    "page_end",
+    "text",
+    "source_file",
+]
 
 
 @dataclass
@@ -58,7 +62,8 @@ class Line:
 
 @dataclass
 class Section:
-    section: str
+    section_type: str  # thesis/growth/risk/valuation/earnings
+    heading: str
     page_start: int
     page_end: int
     text: str
@@ -77,10 +82,12 @@ def read_pdf_lines(pdf_path: Path) -> List[Line]:
                 line = raw_line.strip()
                 if not line:
                     continue
-                # Skip obvious footers / page numbers
-                if re.fullmatch(r"page \d+", line.lower()):
+                lower = line.lower()
+                if re.fullmatch(r"page \d+", lower):
                     continue
                 if re.fullmatch(r"\d+", line):
+                    continue
+                if any(pat.search(lower) for pat in BLOOMBERG_NOISE_PATTERNS):
                     continue
                 lines.append(Line(page=page_no, text=line))
     return lines
@@ -94,10 +101,11 @@ def is_heading_line(line: str) -> bool:
         return True
     if line.isupper():
         return True
-    words = line.split()
-    if len(words) <= 8 and all(w[0].isupper() for w in words if w[0].isalpha()):
-        return True
-    return False
+    words = [w for w in line.split() if any(c.isalpha() for c in w)]
+    if len(words) < 2:
+        return False
+    caps = sum(1 for w in words if w[0].isupper())
+    return caps / len(words) >= 0.7
 
 
 def classify_heading(line: str) -> Optional[str]:
@@ -112,26 +120,69 @@ def classify_heading(line: str) -> Optional[str]:
         return "earnings"
     if any(key in lower for key in GROWTH_HINTS):
         return "growth"
-    # Numbered headings are typically main bullets -> treat as growth/opportunity blocks
     if re.match(r"^\d+[\.\)]\s+\S", line):
         return "growth"
     return None
 
 
-def chunk_text(text: str, max_words: int = 450, overlap: int = 60) -> List[str]:
-    words = text.split()
-    if not words:
+def chunk_text(text: str, max_tokens: int = MAX_TOKENS, overlap_tokens: int = OVERLAP_TOKENS) -> List[Tuple[str, int]]:
+    token_ids = tokenizer.encode(text, add_special_tokens=False)
+    if not token_ids:
         return []
-    chunks: List[str] = []
+    if max_tokens <= 0:
+        raise ValueError("max_tokens must be positive.")
+    if overlap_tokens >= max_tokens:
+        raise ValueError("overlap_tokens must be < max_tokens.")
+    chunks: List[Tuple[str, int]] = []
     start = 0
-    while start < len(words):
-        end = min(len(words), start + max_words)
-        chunk_words = words[start:end]
-        chunks.append(" ".join(chunk_words))
-        if end == len(words):
+    while start < len(token_ids):
+        end = min(len(token_ids), start + max_tokens)
+        chunk_ids = token_ids[start:end]
+        token_len = len(chunk_ids)
+        if token_len > 512:
+            raise ValueError(f"Chunk exceeded 512 tokens ({token_len})")
+        chunk_text = tokenizer.decode(chunk_ids, skip_special_tokens=True)
+        chunks.append((chunk_text, token_len))
+        if end == len(token_ids):
             break
-        start = max(end - overlap, start + 1)
+        start = end - overlap_tokens
     return chunks
+
+
+def make_row(
+    *,
+    report_id: str,
+    text: str,
+    chunk_index: int,
+    source: str,
+    source_file: str,
+    ticker: Optional[str] = None,
+    company: Optional[str] = None,
+    date: Optional[str] = None,
+    doc_type: Optional[str] = None,
+    item: Optional[str] = None,
+    section_type: Optional[str] = None,
+    section_heading: Optional[str] = None,
+    page_start: Optional[int] = None,
+    page_end: Optional[int] = None,
+) -> Dict:
+    return {
+        "id": f"{report_id}-{chunk_index}",
+        "report_id": report_id,
+        "ticker": ticker or "",
+        "company": company or "",
+        "date": date or "",
+        "source": source,
+        "doc_type": doc_type or "",
+        "item": item or "",
+        "section_type": section_type or "",
+        "section_heading": section_heading or "",
+        "chunk_index": chunk_index,
+        "page_start": page_start or "",
+        "page_end": page_end or "",
+        "text": text.strip(),
+        "source_file": source_file,
+    }
 
 
 def finalize_section(
@@ -147,11 +198,10 @@ def finalize_section(
     text = " ".join(current["lines"]).strip()
     if not text:
         return
-    if len(text) > MAX_SECTION_CHARS:
-        text = text[:MAX_SECTION_CHARS].rsplit(" ", 1)[0]
     sections.append(
         Section(
-            section=current["section"],
+            section_type=current["section_type"],
+            heading=current["heading"],
             page_start=current["page_start"],
             page_end=current["page_end"],
             text=text,
@@ -166,13 +216,19 @@ def finalize_section(
 def extract_sections(lines: List[Line], report_id: str, source: str, ticker: Optional[str], file_path: str) -> List[Section]:
     sections: List[Section] = []
     current: Optional[Dict] = None
+    first_heading_seen = False
 
     for item in lines:
-        heading = classify_heading(item.text) if is_heading_line(item.text) or item.text.lower().startswith("thesis:") else None
+        raw = item.text
+        heading = classify_heading(raw) if is_heading_line(raw) or raw.lower().startswith("thesis:") else None
         if heading:
+            if not first_heading_seen:
+                heading = "thesis"
+                first_heading_seen = True
             finalize_section(current, sections, report_id, source, ticker, file_path)
             current = {
-                "section": heading,
+                "section_type": heading,
+                "heading": raw,
                 "page_start": item.page,
                 "page_end": item.page,
                 "lines": [],
@@ -180,7 +236,7 @@ def extract_sections(lines: List[Line], report_id: str, source: str, ticker: Opt
             continue
 
         if current:
-            current["lines"].append(item.text)
+            current["lines"].append(raw)
             current["page_end"] = item.page
 
     finalize_section(current, sections, report_id, source, ticker, file_path)
@@ -195,6 +251,10 @@ def guess_ticker_from_path(path: Path) -> Optional[str]:
         return "LULU"
     if "nke" in lower:
         return "NKE"
+    stem = Path(path).stem
+    first_token = re.split(r"[^A-Za-z0-9]+", stem)[0]
+    if first_token and first_token.isalpha() and len(first_token) <= 5:
+        return first_token.upper()
     return None
 
 
@@ -216,21 +276,13 @@ def write_csv(records: Iterable[Dict], output_path: Path) -> int:
     records = list(records)
     if not records:
         return 0
-    # Preserve key order from the first record, then append any new keys encountered.
-    fieldnames: List[str] = list(records[0].keys())
-    seen = set(fieldnames)
-    for rec in records:
-        for k in rec.keys():
-            if k not in seen:
-                seen.add(k)
-                fieldnames.append(k)
-
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with output_path.open("w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=CANONICAL_FIELDS)
         writer.writeheader()
         for rec in records:
-            writer.writerow(rec)
+            row = {k: rec.get(k, "") for k in CANONICAL_FIELDS}
+            writer.writerow(row)
     return len(records)
 
 
@@ -251,8 +303,9 @@ def main() -> None:
         default=Path("nlp/processed_data/pdf_sections_chunks.csv"),
         help="CSV of BERT-sized text chunks with section metadata.",
     )
-    parser.add_argument("--max-words", type=int, default=450, help="Max words per chunk.")
-    parser.add_argument("--overlap", type=int, default=60, help="Overlap words between chunks.")
+    parser.add_argument("--max-tokens", type=int, default=MAX_TOKENS, help="Max FinBERT tokens per chunk (safety under 512).")
+    parser.add_argument("--overlap-tokens", type=int, default=OVERLAP_TOKENS, help="Overlap in tokens between adjacent chunks.")
+    parser.add_argument("--ticker", type=str, default=None, help="Optional explicit ticker override.")
     args = parser.parse_args()
 
     section_records: List[Dict] = []
@@ -260,7 +313,7 @@ def main() -> None:
 
     for pdf_path in iter_pdfs(args.input_dir):
         report_id = pdf_path.stem
-        ticker = guess_ticker_from_path(pdf_path)
+        ticker = args.ticker or guess_ticker_from_path(pdf_path)
         try:
             lines = read_pdf_lines(pdf_path)
         except Exception as exc:  # noqa: BLE001
@@ -272,34 +325,40 @@ def main() -> None:
             print(f"[info] No sections detected in {pdf_path}")
             continue
 
-        for s in sections:
-            section_records.append(
-                {
-                    "report_id": s.report_id,
-                    "ticker": s.ticker,
-                    "source": s.source,
-                    "section": s.section,
-                    "page_start": s.page_start,
-                    "page_end": s.page_end,
-                    "text": s.text,
-                    "file_path": s.file_path,
-                }
+        chunk_counter = 0
+        for s_idx, s in enumerate(sections):
+            section_row = make_row(
+                report_id=s.report_id,
+                text=s.text,
+                chunk_index=s_idx,
+                source="bloomberg",
+                source_file=s.file_path,
+                ticker=s.ticker,
+                doc_type="research_note",
+                section_type=s.section_type,
+                section_heading=s.heading,
+                page_start=s.page_start,
+                page_end=s.page_end,
             )
+            section_records.append(section_row)
 
-            for idx, chunk in enumerate(chunk_text(s.text, max_words=args.max_words, overlap=args.overlap)):
-                chunk_records.append(
-                    {
-                        "report_id": s.report_id,
-                        "ticker": s.ticker,
-                        "source": s.source,
-                        "section": s.section,
-                        "chunk_id": idx,
-                        "page_start": s.page_start,
-                        "page_end": s.page_end,
-                        "text": chunk,
-                        "file_path": s.file_path,
-                    }
+            for chunk_text_val, tok_len in chunk_text(s.text, max_tokens=args.max_tokens, overlap_tokens=args.overlap_tokens):
+                chunk_row = make_row(
+                    report_id=s.report_id,
+                    text=chunk_text_val,
+                    chunk_index=chunk_counter,
+                    source="bloomberg",
+                    source_file=s.file_path,
+                    ticker=s.ticker,
+                    doc_type="research_note",
+                    section_type=s.section_type,
+                    section_heading=s.heading,
+                    page_start=s.page_start,
+                    page_end=s.page_end,
                 )
+                chunk_row["token_estimate"] = tok_len  # retain for jsonl readability
+                chunk_records.append(chunk_row)
+                chunk_counter += 1
 
     if section_records:
         n_sections_jsonl = write_jsonl(section_records, args.output_sections)
