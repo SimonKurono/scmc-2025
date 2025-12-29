@@ -13,5 +13,5 @@ Alpha (annual): 0.234951
 R^2: 0.272773
 
 CAPM required return (annual): 0.179611
-DCF IRR (annual): 0.149400
-IRR - CAPM (annual): -0.030211
+DCF IRR (annual): 0.165300
+IRR - CAPM (annual): -0.014311
