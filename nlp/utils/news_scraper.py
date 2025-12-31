@@ -175,11 +175,11 @@ def scrape_news_file(input_csv: Path, output_csv: Path, min_chars: int = 500) ->
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Scrape NewsAPI URLs into full article text.")
-    parser.add_argument("--input-csv", type=Path, default=Path("nlp/processed_data/final/newsapi_articles.csv"))
+    parser.add_argument("--input-csv", type=Path, default=Path("nlp/processed_data/newsapi_articles.csv"))
     parser.add_argument(
         "--output-csv",
         type=Path,
-        default=Path("nlp/processed_data/final/newsapi_scraped.csv"),
+        default=Path("nlp/processed_data/newsapi_scraped_atz.csv"),
         help="Output CSV with full article_text.",
     )
     parser.add_argument("--min-chars", type=int, default=500, help="Minimum article length to keep.")
