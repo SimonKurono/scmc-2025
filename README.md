@@ -1,5 +1,6 @@
 ﻿# Sauder Capital Markets Competition (SCMC) 2025 - Investment Research
- 
+
+**DECK**
 [![Skeena Deck](https://github.com/user-attachments/assets/182200b6-8349-46ea-953e-f62f6e175376)](https://drive.google.com/file/d/1At5mxMRDwwqfZ3qowksNBsdDj7Cebgct/view?usp=sharing)
 
 This repository contains the analytical framework and tools developed for the Sauder Capital Markets Competition 2025. The project integrates advanced Natural Language Processing (NLP) for sentiment analysis with rigorous quantitative financial modeling to drive informed investment decisions.
